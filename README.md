@@ -13,6 +13,7 @@ Download this tileset, put folder MSX++UnDeadPeopleEdition in "CDDA Installation
 
 ## How to install Mods (the proper way)
 Put *Mods* folder in "CDDA Installation folder", **NOT**  in "CDDA Installation folder"/data, that way you can separate mods what are updated with the game and mods you downloaded somewhere else, what you need to update by hand.
+
 Mods what bundled with this tileset are graphical mods designed to work with this tileset and change certain aspects of it.
 
 ## Interesting Mods with Undead_People sub tilesets (mini tileset within mod folder)
