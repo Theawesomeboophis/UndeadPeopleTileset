@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "UDP_XOTTO_INDICATORS",
+    "name": "MSX Indicators: Xotto",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "Changes interface indicators to Xotto version.",
+    "category": "graphical",
+    "dependencies": [ "dda" ]
+  }
+]

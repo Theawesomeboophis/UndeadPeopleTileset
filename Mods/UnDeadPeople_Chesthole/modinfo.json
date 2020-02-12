@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "UDP_AMAZING_CHEST_INDICATORS",
+    "name": "MSX Indicators: Chesthole",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "Changes interface indicators to Chesthole version.",
+    "category": "graphical",
+    "dependencies": [ "dda" ]
+  }
+]
