@@ -9,9 +9,11 @@ Latest game version can be download here https://cataclysmdda.org/experimental/
 
 ## Installing
 
-Download this tileset, put folder MSX++UnDeadPeopleEdition in "CDDA instalation folder"/gfx, in the game choose *UNDEAD_PEOPLE* tileset in **Settings->Options->Graphics->Choose Tileset**
+Download this tileset, put folder MSX++UnDeadPeopleEdition in "CDDA Installation folder"/gfx, in the game choose *UNDEAD_PEOPLE* tileset in **Settings->Options->Graphics->Choose Tileset**
 
-
+## How to install Mods (the proper way)
+Put *Mods* folder in "CDDA Installation folder", **NOT**  in "CDDA Installation folder"/data, that way you can separate mods what are updated with the game and mods you downloaded somewhere else, what you need to update by hand.
+Mods what bundled with this tileset are graphical mods designed to work with this tileset and change certain aspects of it.
 
 ## Interesting Mods with Undead_People sub tilesets (mini tileset within mod folder)
 
