@@ -16,6 +16,8 @@ Put *Mods* folder in "CDDA Installation folder", **NOT**  in "CDDA Installation 
 
 Mods what bundled with this tileset are graphical mods designed to work with this tileset and change certain aspects of it.
 
+If graphical mod (or any other mod with supplemental tileset inside (Secronom, Arcana, etc.)) do not work - save the game, close it, open it again and load save. It should 100% hook mods with tileset to the game.
+
 ## Interesting Mods with Undead_People sub tilesets (mini tileset within mod folder)
 
 #### *Secronom Zombies*:
