@@ -54306,7 +54306,7 @@
           "bg": 957,
           "rotates": false
         },             {
-          "id": ["afs_bio_dopamine_stimulators", "afs_bio_linguistic_coprocessor", "afs_bio_missiles", "afs_bio_precision_solderers"],
+          "id": ["afs_bio_dopamine_stimulators", "afs_bio_linguistic_coprocessor", "afs_bio_missiles", "afs_bio_precision_solderers", "afs_bio_wind_turbine "],
           "fg": 1016,
           "bg": 957,
           "rotates": false
@@ -101631,32 +101631,32 @@
             {
 			  "id": "center",
               "fg": 18356,
-			  "bg": 5013
+			  "bg": 17140
             },
             {
               "id": "corner",
               "fg": [18357, 18358, 18359, 18360],
-			  "bg": 5013
+			  "bg": [17141, 17142, 17143, 17144]
             },
             {
               "id": "t_connection",
               "fg": [18361, 18362, 18363, 18364],
-			  "bg": 5013
+			  "bg": [17145, 17146, 17147, 17148]
             },
             {
               "id": "edge",
               "fg": [18365, 18366],
-			  "bg": 5013
+			  "bg": [17149, 17150]
             },
             {
               "id": "end_piece",
               "fg": [18367, 18368, 18369, 18370],
-			  "bg": 5013
+			  "bg": [17151, 17152, 17153, 17154]
             },
             {
               "id": "unconnected",
               "fg": 18371,
-			  "bg": 5013
+			  "bg": 17155
             }
 			],
 			"rotates": false
@@ -105716,6 +105716,7 @@
 			{
               "id": "center",
               "fg": 		    [
+			  { "weight":200, "sprite":19908},
             { "weight":100, "sprite":4844},
             { "weight":10, "sprite":4845},
 			{ "weight":10, "sprite":4846},
@@ -107243,79 +107244,79 @@
 			"rotates": true
             },
 			        {
-          "id": ["!t_window_domestic"],
+          "id": ["t_fence_rope"],
           "fg": 20532,
-		  "bg": 987,
+		  "bg": 1012,
 		  "multitile": true,
           "additional_tiles": [ 
             {
               "id": "center",
               "fg": 20532,
-			  "bg": 987
+			  "bg": 1012
             },		  
            {
               "id": "corner",
               "fg": [20533, 20534, 20535, 20536],
-			  "bg": 987
+			  "bg": 1012
             },
             {
               "id": "t_connection",
               "fg": [20537, 20538, 20539, 20540],
-			  "bg": 987
+			  "bg": 1012
             },
             {
               "id": "edge",
               "fg": [20541, 20542],
-			  "bg": 987
+			  "bg": 1012
             },
             {
               "id": "end_piece",
               "fg": [20543, 20544, 20545, 20546],
-			  "bg": 987
+			  "bg": 1012
             },
             {
               "id": "unconnected",
               "fg": 20547,
-			  "bg": 987
+			  "bg": 1012
             }
 			],
 			"rotates": true
             },
 			        {
-          "id": ["!t_window_open"],
+          "id": ["t_metal_railing"],
           "fg": 20548,
-		  "bg": 987,
+		  "bg": 19908,
 		  "multitile": true,
           "additional_tiles": [ 
             {
               "id": "center",
               "fg": 20548,
-			  "bg": 987
+			  "bg": 19908
             },		  
            {
               "id": "corner",
               "fg": [20549, 20550, 20551, 20552],
-			  "bg": 987
+			  "bg": 19908
             },
             {
               "id": "t_connection",
               "fg": [20553, 20554, 20555, 20556],
-			  "bg": 987
+			  "bg": 19908
             },
             {
               "id": "edge",
               "fg": [20557, 20558],
-			  "bg": 987
+			  "bg": 19908
             },
             {
               "id": "end_piece",
               "fg": [20559, 20560, 20561, 20562],
-			  "bg": 987
+			  "bg": 19908
             },
             {
               "id": "unconnected",
               "fg": 20563,
-			  "bg": 987
+			  "bg": 19908
             }
 			],
 			"rotates": true
@@ -142101,6 +142102,296 @@
         },{
           "id": ["overlay_female_worn_chainmail_hood"],
           "fg": 27076,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["foldframe"],
+          "fg": 27077,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["fold_orichalcum_frame"],
+          "fg": 27078,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["overlay_wielded_fold_orichalcum_frame"],
+          "fg": 27079,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["orichalcum_frame", "overlay_wielded_orichalcum_frame"],
+          "fg": 27080,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": "vp_folding_orichalcum_frame",
+          "fg": 27083,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27084
+            }
+          ]
+        },{
+          "id": "vp_frame_orichalcum_cross",
+          "fg": 27081,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27082
+            }
+          ]
+        },{
+          "id": ["vp_frame_orichalcum_horizontal", "vp_frame_orichalcum_horizontal_2"],
+          "fg": 27085,
+          "rotates": false,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27086
+            }
+          ]
+        },{
+          "id": ["vp_frame_orichalcum_vertical", "vp_frame_orichalcum_vertical_2"],
+          "fg": 27087,
+          "rotates": false,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27088
+            }
+          ]
+        },{
+          "id": ["vp_frame_orichalcum_cover"],
+          "fg": 27087,
+          "rotates": false,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27088
+            }
+          ]
+        },{
+          "id": ["vp_frame_orichalcum_cover"],
+          "fg": 27089,
+          "rotates": false,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27090
+            }
+          ]
+        },{
+          "id": ["vp_frame_orichalcum_ne"],
+          "fg": 27091,
+          "rotates": false,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27092
+            }
+          ]
+        },{
+          "id": ["vp_frame_orichalcum_nw"],
+          "fg": 27093,
+          "rotates": false,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27094
+            }
+          ]
+        },{
+          "id": ["vp_frame_orichalcum_se"],
+          "fg": 27095,
+          "rotates": false,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27096
+            }
+          ]
+        },{
+          "id": ["vp_frame_orichalcum_sw"],
+          "fg": 27097,
+          "rotates": false,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27098
+            }
+          ]
+        },{
+          "id": ["mflask_hip_whiskey"],
+          "fg": 27099,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["overlay_worn_mflask_hip_whiskey"],
+          "fg": 27100,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["overlay_wielded_mflask_hip_whiskey"],
+          "fg": 27101,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["overlay_worn_flask_hip"],
+          "fg": 27102,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["overlay_wielded_flask_hip"],
+          "fg": 27103,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["mring_blades_lesser"],
+          "fg": 27104,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["mring_dexterity_1"],
+          "fg": 27105,
+		  "bg": 27109,
+          "rotates": false
+        },{
+          "id": ["mring_dexterity_2"],
+          "fg": 27106,
+		  "bg": 27109,
+          "rotates": false
+        },{
+          "id": ["mring_dexterity_3"],
+          "fg": 27107,
+		  "bg": 27109,
+          "rotates": false
+        },{
+          "id": ["mring_dexterity_4"],
+          "fg": 27108,
+		  "bg": 27109,
+          "rotates": false
+        },{
+          "id": ["mring_intelligence_1"],
+          "fg": 27105,
+		  "bg": 27110,
+          "rotates": false
+        },{
+          "id": ["mring_intelligence_2"],
+          "fg": 27106,
+		  "bg": 27110,
+          "rotates": false
+        },{
+          "id": ["mring_intelligence_3"],
+          "fg": 27107,
+		  "bg": 27110,
+          "rotates": false
+        },{
+          "id": ["mring_intelligence_4"],
+          "fg": 27108,
+		  "bg": 27110,
+          "rotates": false
+        },{
+          "id": ["mring_speed_3"],
+          "fg": 27105,
+		  "bg": 27111,
+          "rotates": false
+        },{
+          "id": ["mring_speed_5"],
+          "fg": 27106,
+		  "bg": 27111,
+          "rotates": false
+        },{
+          "id": ["mring_speed_7"],
+          "fg": 27107,
+		  "bg": 27111,
+          "rotates": false
+        },{
+          "id": ["mring_speed_10"],
+          "fg": 27108,
+		  "bg": 27111,
+          "rotates": false
+        },{
+          "id": ["mring_strength_1"],
+          "fg": 27105,
+		  "bg": 27112,
+          "rotates": false
+        },{
+          "id": ["mring_strength_2"],
+          "fg": 27106,
+		  "bg": 27112,
+          "rotates": false
+        },{
+          "id": ["mring_strength_3"],
+          "fg": 27108,
+		  "bg": 27112,
+          "rotates": false
+        },{
+          "id": ["mring_strength_4"],
+          "fg": 27107,
+		  "bg": 27112,
+          "rotates": false
+        },{
+          "id": ["mring_perception_1"],
+          "fg": 27105,
+		  "bg": 27113,
+          "rotates": false
+        },{
+          "id": ["mring_perception_2"],
+          "fg": 27106,
+		  "bg": 27113,
+          "rotates": false
+        },{
+          "id": ["mring_perception_3"],
+          "fg": 27107,
+		  "bg": 27113,
+          "rotates": false
+        },{
+          "id": ["mring_perception_4"],
+          "fg": 27108,
+		  "bg": 27113,
+          "rotates": false
+        },{
+          "id": ["mring_protection_2"],
+          "fg": 27105,
+		  "bg": 27114,
+          "rotates": false
+        },{
+          "id": ["mring_protection_4"],
+          "fg": 27106,
+		  "bg": 27114,
+          "rotates": false
+        },{
+          "id": ["mring_protection_6"],
+          "fg": 27107,
+		  "bg": 27114,
+          "rotates": false
+        },{
+          "id": ["mring_protection_8"],
+          "fg": 27108,
+		  "bg": 27114,
+          "rotates": false
+        },{
+          "id": ["mring_dodge_bonus_1"],
+          "fg": 27115,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["mring_dodge_bonus_2"],
+          "fg": 27116,
 		  "bg": 0,
           "rotates": false
         },
