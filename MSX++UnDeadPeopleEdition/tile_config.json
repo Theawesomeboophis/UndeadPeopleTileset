@@ -69,7 +69,10 @@
 		  "vp_reins_tackle",
 		  "tr_pit",
 		  "atomic_pseudo_churn",
-		  "pseudo_bio_picklock"
+		  "pseudo_bio_picklock",
+		  "obfuscating_aura",
+		  "acid_res_aura",
+		  "acid_res_aura_greater"
 		  
 		  
 		  
@@ -46866,7 +46869,7 @@
           "rotates": false
         },
         {
-          "id": ["40fmj", "bp_40fmj"],
+          "id": ["40fmj", "bp_40fmj", "pistol_ball"],
           "fg": 36,
           "bg": 957,
           "rotates": false
@@ -46914,7 +46917,7 @@
           "rotates": false
         },
         {
-          "id": ["40mm_shot", "40x46mm_buckshot_m199", "40x46mm_buckshot_m118", "40x53mm_buckshot_m169", "40x46mm_m1006"],
+          "id": ["40mm_shot", "40x46mm_buckshot_m199", "40x46mm_buckshot_m118", "40x53mm_buckshot_m169", "40x46mm_m1006", "grenade_ammo", "40x46mm_grenade"],
           "fg": 44,
           "bg": 957,
           "rotates": false
@@ -47715,12 +47718,12 @@
           "bg": 958
         },
         {
-          "id": "flintlock_ammo",
+          "id": ["flintlock_ammo", "black_powder_ball"],
           "fg": 152,
           "bg": 958
         },
         {
-          "id": "flintlock_shot",
+          "id": ["flintlock_shot", "black_powder_shot"],
           "fg": 152,
           "bg": 958
         },
@@ -54306,7 +54309,7 @@
           "bg": 957,
           "rotates": false
         },             {
-          "id": ["afs_bio_dopamine_stimulators", "afs_bio_linguistic_coprocessor", "afs_bio_missiles", "afs_bio_precision_solderers", "afs_bio_wind_turbine "],
+          "id": ["afs_bio_dopamine_stimulators", "afs_bio_linguistic_coprocessor", "afs_bio_missiles", "afs_bio_precision_solderers", "afs_bio_wind_turbine"],
           "fg": 1016,
           "bg": 957,
           "rotates": false
@@ -72609,6 +72612,10 @@
         {
           "id": "pump_complex",
           "fg": 1627
+        },        
+		{
+          "id": ["ammolink", "ammolinkgrenade", "ammolinkrifle", "ammolinkrifle_huge"],
+          "fg": 1629
         },
         {
           "id": "ammolink223",
@@ -80122,7 +80129,7 @@
           "fg": 1994
         },
         {
-          "id": "colt_army",
+          "id": ["colt_army", "black_powder_revolver"],
           "fg": 1996,
           "rotates": false
         },
@@ -81851,7 +81858,7 @@
           "fg": 2160
         },
         {
-          "id": "rifle_flintlock",
+          "id": ["rifle_flintlock", "black_powder_rifle"],
           "fg": 2161
         },
         {
@@ -81859,7 +81866,7 @@
           "fg": 2161
         },
         {
-          "id": ["pistol_flintlock", "pistol_duck", "pistol_duck_survivor", "pistol_flintlock_quad", "pistol_flintlock_handmade"],
+          "id": ["pistol_flintlock", "pistol_duck", "pistol_duck_survivor", "pistol_flintlock_quad", "pistol_flintlock_handmade", "black_powder_pistol"],
           "fg": 2162,
           "rotates": false
         },
@@ -132745,7 +132752,7 @@
           "rotates": false
         },
 						{
-          "id": ["suit_black_dragon_scale"],
+          "id": ["suit_black_dragon_scale", "suit_xlblack_dragon_scale"],
           "fg": 25263,
 		  "bg": 0,
           "rotates": false
@@ -132757,7 +132764,7 @@
           "rotates": false
         },
 		{
-          "id": ["suit_black_dragon_hide"],
+          "id": ["suit_black_dragon_hide", "suit_xlblack_dragon_hide"],
           "fg": 25265,
 		  "bg": 0,
           "rotates": false
@@ -142393,6 +142400,184 @@
           "id": ["mring_dodge_bonus_2"],
           "fg": 27116,
 		  "bg": 0,
+          "rotates": false
+        },        {
+          "id": "overlay_wielded_handflare",
+          "fg": 27117,
+          "rotates": false
+        },
+		{
+          "id": "overlay_wielded_handflare_dead",
+          "fg": 27118,
+          "rotates": false
+        },
+        {
+          "id": "overlay_wielded_handflare_lit",
+          "fg": 27119,
+          "rotates": false
+        },        {
+          "id": "mspider_box",
+          "fg": 27120,
+          "rotates": false
+        },{
+          "id": "mtailors_kit",
+          "fg": 27121,
+          "rotates": false
+        }, {
+          "id": "mtoken",
+          "fg": 27122,
+          "rotates": false
+        },{
+          "id": "mtoken_longsword",
+          "fg": 27123,
+          "rotates": false
+        },{
+          "id": "mtoken_arming_sword",
+          "fg": 27124,
+          "rotates": false
+        },{
+          "id": "mtoken_broadsword",
+          "fg": 27125,
+          "rotates": false
+        },{
+          "id": "mtoken_battleaxe",
+          "fg": 27126,
+          "rotates": false
+        },{
+          "id": "mtoken_pike",
+          "fg": 27127,
+          "rotates": false
+        },{
+          "id": "mtoken_mace",
+          "fg": 27128,
+          "rotates": false
+        },{
+          "id": "mtoken_q_staff",
+          "fg": 27129,
+          "rotates": false
+        },{
+          "id": "mtoken_hammer",
+          "fg": 27130,
+          "rotates": false
+        },{
+          "id": "mtoken_screwdriver_set",
+          "fg": 27131,
+          "rotates": false
+        },{
+          "id": "mtoken_toolbox",
+          "fg": 27132,
+          "rotates": false
+        },{
+          "id": "mtoken_crowbar",
+          "fg": 27133,
+          "rotates": false
+        },{
+          "id": "mtorch_everburning",
+          "fg": 27134,
+          "rotates": false
+        },{
+          "id": "mtorch_everburning_lit",
+          "fg": 27135,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_mtorch_everburning",
+          "fg": 27136,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_mtorch_everburning_lit",
+          "fg": 27137,
+          "rotates": false
+        },{
+          "id": "orichalcum_lump",
+          "fg": 27138,
+          "rotates": false
+        },{
+          "id": "orichalcum_sliver",
+          "fg": 27139,
+          "rotates": false
+        },{
+          "id": "purified_meat",
+          "fg": 27140,
+          "rotates": false
+        },{
+          "id": "scream_mush",
+          "fg": 27141,
+          "rotates": false
+        },{
+          "id": "shotcestus",
+          "fg": 27142,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_shotcestus",
+          "fg": 27143,
+          "rotates": false
+        },{
+          "id": "silver_infuser",
+          "fg": 27144,
+          "rotates": false
+        },{
+          "id": "overlay_worn_silver_infuser",
+          "fg": 27145,
+          "rotates": false
+        },{
+          "id": "springstaff-retracted",
+          "fg": 27147,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_springstaff-retracted",
+          "fg": 27149,
+          "rotates": false
+        },{
+          "id": "springstaff-extended",
+          "fg": 27148,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_springstaff-extended",
+          "fg": 27150,
+          "rotates": false
+        },{
+          "id": "stirge_proboscis",
+          "fg": 27151,
+          "rotates": false
+        },{
+          "id": "techno_basic",
+          "fg": 27152,
+          "rotates": false
+        },{
+          "id": "overlay_female_worn_tank_top",
+          "fg": 27153,
+          "rotates": false
+        },{
+          "id": "tr_magic_door",
+          "fg": 27154,
+          "rotates": false
+        },{
+          "id": ["pistol_ball", "pistol_magnum_ball", "tiny_pistol_ball"],
+          "fg": 27155,
+          "rotates": false
+        },{
+          "id": ["pistol_jhp", "pistol_magnum_jhp", "tiny_pistol_jhp"],
+          "fg": 27156,
+          "rotates": false
+        },{
+          "id": ["reloaded_pistol_ball", "reloaded_pistol_magnum_ball", "reloaded_tiny_pistol_ball"],
+          "fg": 27157,
+          "rotates": false
+        },{
+          "id": ["reloaded_pistol_jhp", "reloaded_pistol_magnum_jhp", "reloaded_tiny_pistol_jhp"],
+          "fg": 27158,
+          "rotates": false
+        },{
+          "id": ["bp_pistol_ball", "bp_pistol_magnum_ball", "bp_tiny_pistol_ball"],
+          "fg": 27159,
+          "rotates": false
+        },{
+          "id": ["bp_pistol_jhp", "bp_pistol_magnum_jhp", "bp_tiny_pistol_jhp"],
+          "fg": 27160,
+          "rotates": false
+        },{
+          "id": ["rifle_belt", "rifle_huge_belt"],
+          "fg": 27161,
           "rotates": false
         },
 		{
