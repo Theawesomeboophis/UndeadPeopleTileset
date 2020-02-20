@@ -95078,7 +95078,9 @@
 		{ "id": "overlay_male_mutation_FELINE_EARS",  "fg": 10123, "rotates": false },
 		{ "id": "overlay_mutation_TAIL_FIN", "fg": 10124, "rotates": false },
 		{ "id": "overlay_female_mutation_SENIOR", "fg": 10125, "rotates": false },
-		{ "id": "overlay_male_mutation_SENIOR", "fg": 10126, "rotates": false }
+		{ "id": "overlay_male_mutation_SENIOR", "fg": 10126, "rotates": false },
+		{ "id": "overlay_female_mutation_SUGAR", "fg": 10127, "rotates": false },
+		{ "id": "overlay_male_mutation_SUGAR", "fg": 10128, "rotates": false }
 		
     ]
     },
@@ -107324,6 +107326,45 @@
               "id": "unconnected",
               "fg": 20563,
 			  "bg": 19908
+            }
+			],
+			"rotates": true
+            },
+			        {
+          "id": ["fd_gum_web"],
+          "fg": 20564,
+		  "bg": 0,
+		  "multitile": true,
+          "additional_tiles": [ 
+            {
+              "id": "center",
+              "fg": 20564,
+			  "bg": 0
+            },		  
+           {
+              "id": "corner",
+              "fg": [20565, 20566, 20567, 20568],
+			  "bg": 0
+            },
+            {
+              "id": "t_connection",
+              "fg": [20569, 20570, 20571, 20572],
+			  "bg": 0
+            },
+            {
+              "id": "edge",
+              "fg": [20573, 20574],
+			  "bg": 0
+            },
+            {
+              "id": "end_piece",
+              "fg": [20575, 20576, 20577, 20578],
+			  "bg": 0
+            },
+            {
+              "id": "unconnected",
+              "fg": 20579,
+			  "bg": 0
             }
 			],
 			"rotates": true
@@ -142579,6 +142620,177 @@
           "id": ["rifle_belt", "rifle_huge_belt"],
           "fg": 27161,
           "rotates": false
+        },{
+          "id": ["mon_necco"],
+          "fg": 27162,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": ["broken_necco"],
+          "fg": 27163,
+		  "rotates": false
+        },{
+          "id": ["mon_marshmallow_kid"],
+          "fg": 27164,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": ["corpse_mon_marshmallow_kid"],
+          "fg": 27165,
+		  "rotates": false
+        },{
+          "id": ["mon_marshmallow_guy"],
+          "fg": 27166,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": ["corpse_mon_marshmallow_guy"],
+          "fg": 27167,
+		  "rotates": false
+        },{
+          "id": ["mon_marshmallow_buff"],
+          "fg": 27168,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": ["corpse_mon_marshmallow_buff"],
+          "fg": 27169,
+		  "rotates": false
+        },{
+          "id": ["mon_marshmallow_kid_armored"],
+          "fg": 27170,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": ["corpse_mon_marshmallow_kid_armored"],
+          "fg": 27171,
+		  "rotates": false
+        },{
+          "id": ["mon_marshmallow_guy_armored"],
+          "fg": 27172,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": ["corpse_mon_marshmallow_guy_armored"],
+          "fg": 27173,
+		  "rotates": false
+        },{
+          "id": ["mon_marshmallow_buff_armored"],
+          "fg": 27174,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": ["corpse_mon_marshmallow_buff_armored"],
+          "fg": 27175,
+		  "rotates": false
+        },{
+          "id": ["mon_gummy_cub"],
+          "fg": 27176,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": ["corpse_mon_gummy_cub"],
+          "fg": 27177,
+		  "rotates": false
+        },{
+          "id": ["mon_gummy"],
+          "fg": 27178,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": ["corpse_mon_gummy"],
+          "fg": 27179,
+		  "rotates": false
+        },
+		{
+          "id": ["mon_small_cracker"],
+          "fg": 27180,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": ["corpse_mon_small_cracker"],
+          "fg": 27181,
+		  "rotates": false
+        },		{
+          "id": ["mon_cracker"],
+          "fg": 27182,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": ["corpse_mon_cracker"],
+          "fg": 27183,
+		  "rotates": false
+        },{
+          "id": ["mon_cookie"],
+          "fg": 27184,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": ["corpse_mon_cookie"],
+          "fg": 27185,
+		  "rotates": false
+        },{
+          "id": ["mon_spider_gum"],
+          "fg": 27186,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": ["corpse_mon_spider_gum"],
+          "fg": 27187,
+		  "rotates": false
+        },{
+          "id": ["mon_gum_spider_wolf"],
+          "fg": 27188,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": ["corpse_mon_gum_spider_wolf"],
+          "fg": 27189,
+		  "rotates": false
+        },{
+          "id": ["marshmallow"],
+          "fg": 27190,
+		  "rotates": false
+        },{
+          "id": ["smores"],
+          "fg": 27191,
+		  "rotates": false
+        },{
+          "id": ["candy3"],
+          "fg": 27192,
+		  "rotates": false
+        },{
+          "id": ["grahmcrackers"],
+          "fg": 27193,
+		  "rotates": false
+        },{
+          "id": ["cookies"],
+          "fg": 27194,
+		  "rotates": false
+        },{
+          "id": ["gum"],
+          "fg": 27195,
+		  "rotates": false
+        },{
+          "id": ["caff_gum"],
+          "fg": 27196,
+		  "rotates": false
+        },{
+          "id": ["overlay_effect_webbed"],
+          "fg": 27197,
+		  "rotates": false
+        },{
+          "id": ["overlay_effect_gummed"],
+          "fg": 27198,
+		  "rotates": false
+        },{
+          "id": ["sugarkin_flyer"],
+          "fg": 27199,
+		  "rotates": false
+        },{
+          "id": ["caramel_ointement"],
+          "fg": 27200,
+		  "rotates": false
         },
 		{
           "id": "atlatl", "note": "before that i add all new items to the tileset! !!!NEW-ITEMS-HERE!! ",
@@ -145321,6 +145533,30 @@
 		{
           "id": ["overlay_wielded_as50"],
           "fg": 35978,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["mon_marshmallow_goliath"],
+          "fg": 35979,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["corpse_mon_marshmallow_goliath"],
+          "fg": 35980,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["mon_marshmallow_goliath_armored"],
+          "fg": 35981,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["corpse_mon_marshmallow_goliath_armored"],
+          "fg": 35982,
           "bg": 0,
           "rotates": false
         }
