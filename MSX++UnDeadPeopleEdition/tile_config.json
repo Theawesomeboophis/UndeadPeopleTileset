@@ -72,7 +72,15 @@
 		  "pseudo_bio_picklock",
 		  "obfuscating_aura",
 		  "acid_res_aura",
-		  "acid_res_aura_greater"
+		  "acid_res_aura_greater",
+		  "fd_veil_light",
+		  "fd_archon_rift",
+		  "halo_clairvoyance",
+		  "halo_dampening",
+		  "halo_drainlife",
+		  "halo_elecresist",
+		  "halo_light",
+		  "halo_shadowsnakes"
 		  
 		  
 		  
@@ -87669,7 +87677,7 @@
           "rotates": false
         },
         {
-          "id": ["scroll_sun_on", "scroll_spell_acidspray_on", "scroll_spell_agile_on",  "scroll_spell_clairvoyance_on", "scroll_spell_clarity_on",  "scroll_spell_cleric_on", "scroll_spell_confusion_on",  "scroll_spell_elecresist_on",  "scroll_spell_flame_armor_on",  "scroll_spell_free_action_on",  "scroll_spell_heal_on",  "scroll_spell_insight_on",  "scroll_spell_invis_on",  "scroll_spell_lightning_on",  "scroll_spell_might_on", "scroll_spell_plants_on", "spell_bugs_on"],
+          "id": ["scroll_sun_on", "scroll_spell_acidspray_on", "scroll_spell_agile_on",  "scroll_spell_clairvoyance_on", "scroll_spell_clarity_on",  "scroll_spell_cleric_on", "scroll_spell_confusion_on",  "scroll_spell_elecresist_on",  "scroll_spell_flame_armor_on",  "scroll_spell_free_action_on",  "scroll_spell_heal_on",  "scroll_spell_insight_on",  "scroll_spell_invis_on",  "scroll_spell_lightning_on",  "scroll_spell_might_on", "scroll_spell_plants_on", "spell_bugs_on", "scroll_spell_artiface", "scroll_spell_destruction", "scroll_spell_moon", "scroll_spell_nature", "scroll_spell_subversion", "scroll_spell_sun", "spell_lockpick_lesser"],
           "fg": 3741,
           "rotates": false
         },
@@ -97674,14 +97682,14 @@
             {
               "fg": [
 			{ "weight":30, "sprite":17250},
-            { "weight":30, "sprite":27740},
             { "weight":30, "sprite":27741},
             { "weight":30, "sprite":27742},
             { "weight":30, "sprite":27743},
             { "weight":30, "sprite":27744},
             { "weight":30, "sprite":27745},
             { "weight":30, "sprite":27746},
-            { "weight":30, "sprite":27747}
+            { "weight":30, "sprite":27747},
+            { "weight":30, "sprite":27748}
 			],
 			  "bg": [
             { "weight":40, "sprite":1012},
@@ -127762,7 +127770,7 @@
 				{
           "id": ["f_bluebell_season_winter", "f_dahlia_season_winter", "f_datura_season_winter", "f_flower_marloss_season_winter", "f_dandelion_season_winter", "f_chamomile_season_winter", "f_flower_tulip_season_winter", "f_flower_spurge_season_winter", "f_cattails_season_winter", "f_black_eyed_susan_season_winter", "f_lily_season_winter", "f_sunflower_season_winter", "f_mutpoppy_season_winter", "f_chicory_season_winter"],
           "fg": 24327,
-		  "bg": 0,
+		  "bg": 19204,
           "rotates": false
         },	
 		{
@@ -142791,7 +142799,51 @@
           "id": ["caramel_ointement"],
           "fg": 27200,
 		  "rotates": false
+        },  
+		{
+          "id": "holy_symbol_wood",
+          "fg": 27201
+        },		{
+          "id": "overlay_worn_holy_symbol_wood",
+          "fg": 27202
+        },{
+          "id": "overlay_worn_holy_symbol",
+          "fg": 27203
+        },{
+          "id": "air_talisman",
+          "fg": 27204
+        },{
+          "id": "overlay_wielded_air_talisman",
+          "fg": 27205
+        },{
+          "id": "hauberk_jade",
+          "fg": 27207
+        },{
+          "id": "overlay_male_worn_hauberk_jade",
+          "fg": 27208
+        },{
+          "id": "overlay_female_worn_hauberk_jade",
+          "fg": 27209
+        },{
+          "id": "overlay_male_worn_hauberk_jade_on",
+          "fg": 27210
+        },{
+          "id": "overlay_female_worn_hauberk_jade_on",
+          "fg": 27211
+        },{
+          "id": "scourge_moonstone",
+          "fg": 27212
+        },{
+          "id": "scourge_moonstone_on",
+          "fg": 27213
+        },{
+          "id": "overlay_wielded_scourge_moonstone",
+          "fg": 27214
+        },{
+          "id": "overlay_wielded_scourge_moonstone_on",
+          "fg": 27215
         },
+
 		{
           "id": "atlatl", "note": "before that i add all new items to the tileset! !!!NEW-ITEMS-HERE!! ",
 		  "fg": 1986,
@@ -145557,6 +145609,12 @@
 		{
           "id": ["corpse_mon_marshmallow_goliath_armored"],
           "fg": 35982,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["f_sunflower"],
+          "fg": 35983,
           "bg": 0,
           "rotates": false
         }
