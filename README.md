@@ -5,7 +5,7 @@ Tileset for Cataclysm Dark Days Ahead based on the works by Xotto, Waldo and oth
 ## Prerequisites
 
 This tileset always updating to content from latest experimental version of the game.
-Latest game version can be download here https://cataclysmdda.org/experimental/
+Latest game version can be downloaded here https://cataclysmdda.org/experimental/
 
 ## Installing
 
