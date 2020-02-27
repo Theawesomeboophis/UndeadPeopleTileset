@@ -142842,7 +142842,23 @@
         },{
           "id": "overlay_wielded_scourge_moonstone_on",
           "fg": 27215
+        },{
+          "id": "multi_cooker",
+          "fg": 27216
+        },{
+          "id": "multi_cooker_filled",
+          "fg": 27217
+        },{
+          "id": "mon_hallu_multicooker",
+          "fg": 27218
+        },{
+          "id": "overlay_wielded_multi_cooker",
+          "fg": 27219
+        },{
+          "id": "overlay_wielded_multi_cooker_filled",
+          "fg": 27220
         },
+
 
 		{
           "id": "atlatl", "note": "before that i add all new items to the tileset! !!!NEW-ITEMS-HERE!! ",
@@ -145615,6 +145631,30 @@
 		{
           "id": ["f_sunflower"],
           "fg": 35983,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["t_rope_up"],
+          "fg": 35984,
+          "bg": 35759,
+          "rotates": false
+        },
+		{
+          "id": ["t_ladder_up"],
+          "fg": 35985,
+          "bg": 35759,
+          "rotates": false
+        },
+		{
+          "id": ["t_ladder_down"],
+          "fg": 35986,
+          "bg": 35759,
+          "rotates": false
+        },
+		{
+          "id": ["f_ladder"],
+          "fg": 35987,
           "bg": 0,
           "rotates": false
         }
