@@ -59055,7 +59055,7 @@
           "rotates": false
         },
         {
-          "id": "hotdogs_frozen",
+          "id": ["hotdogs_frozen", "homemade_hotdogs"],
           "fg": 1218,
           "bg": 957,
           "rotates": false
@@ -81730,7 +81730,7 @@
           "rotates": false
         },
         {
-          "id": "overlay_wielded_sig552",
+          "id": ["overlay_wielded_sig552", "overlay_wielded_sig550"],
           "fg": 2145,
           "rotates": false
         },
@@ -137866,12 +137866,12 @@
           "rotates": false
         },
 										{
-          "id": [ "mutant_human_flesh"],
+          "id": [ "mutant_human_flesh", "demihuman_flesh"],
           "fg": 26162,
           "rotates": false
         },
 												{
-          "id": [ "mutant_human_cooked"],
+          "id": [ "mutant_human_cooked", "demihuman_cooked"],
           "fg": 26163,
           "rotates": false
         },		
@@ -142857,9 +142857,34 @@
         },{
           "id": "overlay_wielded_multi_cooker_filled",
           "fg": 27220
+        },{
+          "id": "demihuman_stomach",
+          "fg": 27221
+        },{
+          "id": "demihuman_stomach_large",
+          "fg": 27222
+        },{
+          "id": "demihuman_fat",
+          "fg": 27223
+        },{
+          "id": "demihuman_tallow",
+          "fg": 27224
+        },{
+          "id": "demihuman_lard",
+          "fg": 27225
+        },{
+          "id": "demihuman_stomach_boiled",
+          "fg": 27226
+        },{
+          "id": "sig_sg20",
+          "fg": 27227
+        },{
+          "id": "sig_sg30",
+          "fg": 27228
+        },{
+          "id": "sausage_casings",
+          "fg": 27229
         },
-
-
 		{
           "id": "atlatl", "note": "before that i add all new items to the tileset! !!!NEW-ITEMS-HERE!! ",
 		  "fg": 1986,
