@@ -142857,33 +142857,200 @@
         },{
           "id": "overlay_wielded_multi_cooker_filled",
           "fg": 27220
-        },{
-          "id": "demihuman_stomach",
-          "fg": 27221
-        },{
-          "id": "demihuman_stomach_large",
+        },
+		{
+          "id": "stepladder",
           "fg": 27222
-        },{
-          "id": "demihuman_fat",
+        },		{
+          "id": "overlay_wielded_stepladder",
           "fg": 27223
-        },{
-          "id": "demihuman_tallow",
+        },
+		{
+          "id": "demihuman_stomach",
           "fg": 27224
         },{
-          "id": "demihuman_lard",
+          "id": "demihuman_stomach_large",
           "fg": 27225
         },{
-          "id": "demihuman_stomach_boiled",
+          "id": "demihuman_fat",
           "fg": 27226
         },{
-          "id": "sig_sg20",
+          "id": "demihuman_tallow",
           "fg": 27227
         },{
-          "id": "sig_sg30",
+          "id": "demihuman_lard",
           "fg": 27228
         },{
-          "id": "sausage_casings",
+          "id": "demihuman_stomach_boiled",
           "fg": 27229
+        },{
+          "id": "sig_sg20",
+          "fg": 27230
+        },{
+          "id": "sig_sg30",
+          "fg": 27231
+        },{
+          "id": "sausage_casings",
+          "fg": 27232
+        },{
+          "id": "acs_74_stealth_cloak_off",
+          "fg": 27233
+        },{
+          "id": "acs_74_stealth_cloak_on",
+          "fg": 27234
+        },{
+          "id": "overlay_worn_acs_74_stealth_cloak_off",
+          "fg": 27235
+        },{
+          "id": "overlay_worn_acs_74_stealth_cloak_on",
+          "fg": 27236
+        },{
+          "id": "neo_laser_pistol_ups",
+          "fg": 27237
+        },{
+          "id": "overlay_wielded_neo_laser_pistol_ups",
+          "fg": 27238
+        },{
+          "id": ["neo_laser_pistol", "neo_laser_pistol_monster"],
+          "fg": 27239
+        },{
+          "id": "overlay_wielded_neo_laser_pistol",
+          "fg": 27240
+        },{
+          "id": "akro_laser_smg_ups",
+          "fg": 27241
+        },{
+          "id": "overlay_wielded_akro_laser_smg_ups",
+          "fg": 27242
+        },{
+          "id": ["akro_laser_smg", "akro_laser_smg_monster"],
+          "fg": 27243
+        },{
+          "id": "overlay_wielded_akro_laser_smg",
+          "fg": 27244
+        },{
+          "id": "arc_laser_rifle_ups",
+          "fg": 27245
+        },{
+          "id": "overlay_wielded_arc_laser_rifle_ups",
+          "fg": 27246
+        },{
+          "id": ["arc_laser_rifle", "arc_laser_rifle_monster"],
+          "fg": 27247
+        },{
+          "id": "overlay_wielded_arc_laser_rifle",
+          "fg": 27248
+        },{
+          "id": ["armor_lightplate_surv"],
+          "fg": 27249
+        },{
+          "id": "overlay_worn_armor_lightplate_surv",
+          "fg": 27250
+        },{
+          "id": ["boots_plate_surv"],
+          "fg": 27251
+        },{
+          "id": "overlay_worn_boots_plate_surv",
+          "fg": 27252
+        },{
+          "id": ["gloves_plate", "overlay_wielded_gloves_plate"],
+          "fg": 27253
+        },{
+          "id": "overlay_worn_gloves_plate",
+          "fg": 27254
+        },{
+          "id": ["gloves_plate_surv", "overlay_wielded_gloves_plate_surv"],
+          "fg": 27255
+        },{
+          "id": "overlay_worn_gloves_plate_surv",
+          "fg": 27256
+        },{
+          "id": ["helmet_plate_surv", "overlay_wielded_helmet_plate_surv"],
+          "fg": 27257
+        },{
+          "id": "overlay_worn_helmet_plate_surv",
+          "fg": 27258
+        },{
+          "id": ["cbm_rtg_inductor"],
+          "fg": 27259
+        },{
+          "id": "overlay_worn_cbm_rtg_inductor",
+          "fg": 27260
+        },{
+          "id": "newest_newspaper",
+          "fg": 27261
+        },{
+          "id": "many_years_old_newspaper",
+          "fg": 27262
+        },{
+          "id": "years_old_newspaper",
+          "fg": 27263
+        },{
+          "id": "one_year_old_newspaper",
+          "fg": 27264
+        },{
+          "id": "months_old_newspaper",
+          "fg": 27265
+        },{
+          "id": "weeks_old_newspaper",
+          "fg": 27266
+        },{
+          "id": ["overlay_wielded_newest_newspaper", "overlay_wielded_many_years_old_newspaper", "overlay_wielded_one_year_old_newspaper", "overlay_wielded_months_old_newspaper", "overlay_wielded_weeks_old_newspaper", "overlay_wielded_years_old_newspaper"],
+          "fg": 27267
+        },{
+          "id": ["recipe_bows"],
+          "fg": 27268
+        },{
+          "id": ["recipe_arrows"],
+          "fg": 27269
+        },{
+          "id": ["hand_drill_makeshift"],
+          "fg": 27270
+        },{
+          "id": ["jerky_offal"],
+          "fg": 27271
+        },{
+          "id": ["mask_gas_makeshift"],
+          "fg": 27272
+        },{
+          "id": ["overlay_worn_mask_gas_makeshift"],
+          "fg": 27273
+        },{
+          "id": ["misc_repairkit_makeshift"],
+          "fg": 27274
+        },{
+          "id": ["oil_lamp_clay"],
+          "fg": 27275
+        },{
+          "id": ["oil_lamp_clay_on"],
+          "fg": 27276
+        },{
+          "id": ["overlay_wielded_oil_lamp_clay"],
+          "fg": 27277
+        },{
+          "id": ["overlay_wielded_oil_lamp_clay_on"],
+          "fg": 27278
+        },{
+          "id": ["porridge_cooked"],
+          "fg": 27279
+        },{
+          "id": ["tinderbox_clay", "overlay_wielded_tinderbox_clay"],
+          "fg": 27280
+        },{
+          "id": ["tinderbox_clay_on", "overlay_wielded_tinderbox_clay_on"],
+          "fg": 27281
+        },{
+          "id": ["fake_forge", "f_forge_rock"],
+          "fg": 27282
+        },{
+          "id": ["char_forge"],
+          "fg": 27283
+        },{
+          "id": ["f_forge"],
+          "fg": 27284
+        },{
+          "id": ["forge"],
+          "fg": 27285
         },
 		{
           "id": "atlatl", "note": "before that i add all new items to the tileset! !!!NEW-ITEMS-HERE!! ",
@@ -145680,6 +145847,12 @@
 		{
           "id": ["f_ladder"],
           "fg": 35987,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["f_forge_rock"],
+          "fg": 35988,
           "bg": 0,
           "rotates": false
         }
