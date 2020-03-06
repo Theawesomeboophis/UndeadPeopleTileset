@@ -143051,10 +143051,59 @@
         },{
           "id": ["forge"],
           "fg": 27285
+        },{
+          "id": ["t_metal_grate_window"],
+          "fg": 27286,
+		  "bg": 987
+        },{
+          "id": ["t_metal_grate_window_with_curtain"],
+          "fg": 27287
+        },{
+          "id": ["t_single_pane_glass"],
+          "fg": 27288,
+		  "bg": 987
+        },{
+          "id": ["t_single_pane_glass_open"],
+          "fg": 27289,
+		  "bg": 987
+        },
+		{
+          "id": ["t_single_pane_glass_with_curtain"],
+          "fg": 26666,
+		  "bg": 987
+        },		{
+          "id": ["t_single_pane_glass_with_curtain_open_window_closed"],
+          "fg": 27290,
+		  "bg": 987
+        },{
+          "id": ["t_single_pane_glass_with_curtain_open"],
+          "fg": 27291,
+		  "bg": 987
+        },{
+          "id": ["t_reinforced_single_pane_glass"],
+          "fg": 27293,
+		  "bg": 987
+        },{
+          "id": ["t_reinforced_single_pane_glass_open"],
+          "fg": 27294,
+		  "bg": 987
+        },
+		{
+          "id": ["t_reinforced_single_pane_glass_with_curtain"],
+          "fg": 26666,
+		  "bg": 987
+        },		{
+          "id": ["t_reinforced_single_pane_glass_with_curtain_open_window_closed"],
+          "fg": 27295,
+		  "bg": 987
+        },{
+          "id": ["t_reinforced_single_pane_glass_with_curtain_open"],
+          "fg": 27296,
+		  "bg": 987
         },
 		{
           "id": "atlatl", "note": "before that i add all new items to the tileset! !!!NEW-ITEMS-HERE!! ",
-		  "fg": 1986,
+		  "fg": 1986, 
 		  "bg": 0,
 		  "rotates": false 
         },      
