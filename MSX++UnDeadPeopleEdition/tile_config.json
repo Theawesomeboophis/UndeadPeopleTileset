@@ -145924,6 +145924,12 @@
           "fg": 35988,
           "bg": 0,
           "rotates": false
+        },
+		{
+          "id": ["f_firering"],
+          "fg": 35989,
+          "bg": 0,
+          "rotates": false
         }
    
    ] 
