@@ -143100,6 +143100,26 @@
           "id": ["t_reinforced_single_pane_glass_with_curtain_open"],
           "fg": 27296,
 		  "bg": 987
+        },{
+          "id": ["mon_cat_kitten"],
+          "fg": 27297,
+		  "bg": 967
+        },{
+          "id": ["corpse_mon_cat_kitten"],
+          "fg": 27298,
+		  "bg": 0
+        },{
+          "id": ["m1911-460"],
+          "fg": 27299,
+		  "bg": 0
+        },{
+          "id": ["overlay_wielded_m1911-460"],
+          "fg": 27300,
+		  "bg": 0
+        },{
+          "id": ["manual_traps_mil"],
+          "fg": 27301,
+		  "bg": 0
         },
 		{
           "id": "atlatl", "note": "before that i add all new items to the tileset! !!!NEW-ITEMS-HERE!! ",
