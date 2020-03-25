@@ -1,5 +1,7 @@
 # MSX++UndeadPeople Tileset
 
+![alt text](https://i.imgur.com/BFQzWtC.png)
+
 Tileset for Cataclysm Dark Days Ahead based on the works by Xotto, Waldo and others. My goal is to make most complete tileset for the game, with support for all mods what are out there.
 
 ## Prerequisites
