@@ -73433,7 +73433,7 @@
           "fg": 1823
         },
         {
-          "id": "survnote",
+          "id": ["survnote", "note_apophis", "note_sketchy_cabin"],
           "fg": 1823
         },
 		        {
@@ -143501,6 +143501,187 @@
         },{
           "id": ["overlay_wielded_mx_laser_sniper_ups"],
           "fg": 27328,
+		  "bg": 0
+        },{
+          "id": ["xarm_laser_shotgun", "xarm_laser_shotgun_monster"],
+          "fg": 27327,
+		  "bg": 0
+        },{
+          "id": ["overlay_wielded_xarm_laser_shotgun"],
+          "fg": 27328,
+		  "bg": 0
+        },{
+          "id": ["xarm_laser_shotgun_ups"],
+          "fg": 27327,
+		  "bg": 0
+        },{
+          "id": ["overlay_wielded_xarm_laser_shotgun_ups"],
+          "fg": 27328,
+		  "bg": 0
+        },{
+          "id": ["omnitech_weapon_ups_kit"],
+          "fg": 27329,
+		  "bg": 0
+        },{
+          "id": ["omnitech_weapon_ups_manual"],
+          "fg": 27330,
+		  "bg": 0
+        },{
+          "id": ["rifle_crank_battery_cell"],
+          "fg": 27331,
+		  "bg": 0
+        },{
+          "id": ["thermal_lance_makeshift"],
+          "fg": 27332,
+		  "bg": 0
+        },{
+          "id": ["overlay_wielded_thermal_lance_makeshift"],
+          "fg": 27333,
+		  "bg": 0
+        },{
+          "id": ["vp_surv_full_762R_t"],
+          "fg": 27334,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27335
+            }
+          ]
+        },{
+          "id": ["vp_surv_lmg_762R_t"],
+          "fg": 27336,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27337
+            }
+          ]
+        },{
+          "id": ["br_bolt_rifle_elec_t"],
+          "fg": 27338,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27339
+            }
+          ]
+        },{
+          "id": ["generator_electric_tiny"],
+          "fg": 27340,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27341
+            }
+          ]
+        },{
+          "id": ["generator_electric_super"],
+          "fg": 27342,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27343
+            }
+          ]
+        },{
+          "id": ["laser_arc_carbine_t"],
+          "fg": 27344,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27345
+            }
+          ]
+        },{
+          "id": ["laser_arc_carbine_t_ups"],
+          "fg": 27346,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27347
+            }
+          ]
+        },{
+          "id": ["laser_lmg_t_ups"],
+          "fg": 27348,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27349
+            }
+          ]
+        },{
+          "id": ["laser_mx_sniper_t"],
+          "fg": 27350,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27351
+            }
+          ]
+        },{
+          "id": ["laser_mx_sniper_t_ups"],
+          "fg": 27352,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27353
+            }
+          ]
+        },{
+          "id": ["mk_ionic_cannon_t"],
+          "fg": 27354,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27355
+            }
+          ]
+        },{
+          "id": ["surv_lmg_762R"],
+          "fg": 27356,
+		  "bg": 0
+        },{
+          "id": ["overlay_wielded_surv_lmg_762R"],
+          "fg": 27357,
+		  "bg": 0
+        },{
+          "id": ["surv_full_762R"],
+          "fg": 27358,
+		  "bg": 0
+        },{
+          "id": ["overlay_wielded_surv_full_762R"],
+          "fg": 27359,
+		  "bg": 0
+        },{
+          "id": ["surv_belt_762R"],
+          "fg": 27360,
+		  "bg": 0
+        },{
+          "id": ["surv_762R_mag"],
+          "fg": 27361,
 		  "bg": 0
         },
 		{
