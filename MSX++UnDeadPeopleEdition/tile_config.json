@@ -95990,6 +95990,22 @@
             ],
           "bg": 967,
           "rotates": false
+        },		  
+		{
+          "id": "mon_zombie_mancroc",
+          "fg": [
+            { "weight":111, "sprite":2678},
+			{ "weight":111, "sprite":12260},
+			{ "weight":111, "sprite":12261},
+			{ "weight":111, "sprite":12262},
+			{ "weight":111, "sprite":12263},
+			{ "weight":111, "sprite":12264},
+			{ "weight":111, "sprite":12265},
+			{ "weight":111, "sprite":12266},
+			{ "weight":111, "sprite":12267}
+            ],
+          "bg": 967,
+          "rotates": false
         }
 		
   ]
@@ -143504,64 +143520,42 @@
 		  "bg": 0
         },{
           "id": ["xarm_laser_shotgun", "xarm_laser_shotgun_monster"],
-          "fg": 27327,
-		  "bg": 0
-        },{
-          "id": ["overlay_wielded_xarm_laser_shotgun"],
-          "fg": 27328,
-		  "bg": 0
-        },{
-          "id": ["xarm_laser_shotgun_ups"],
-          "fg": 27327,
-		  "bg": 0
-        },{
-          "id": ["overlay_wielded_xarm_laser_shotgun_ups"],
-          "fg": 27328,
-		  "bg": 0
-        },{
-          "id": ["omnitech_weapon_ups_kit"],
           "fg": 27329,
 		  "bg": 0
         },{
-          "id": ["omnitech_weapon_ups_manual"],
+          "id": ["overlay_wielded_xarm_laser_shotgun"],
           "fg": 27330,
 		  "bg": 0
         },{
-          "id": ["rifle_crank_battery_cell"],
+          "id": ["xarm_laser_shotgun_ups"],
           "fg": 27331,
 		  "bg": 0
         },{
-          "id": ["thermal_lance_makeshift"],
+          "id": ["overlay_wielded_xarm_laser_shotgun_ups"],
           "fg": 27332,
 		  "bg": 0
         },{
-          "id": ["overlay_wielded_thermal_lance_makeshift"],
+          "id": ["omnitech_weapon_ups_kit"],
           "fg": 27333,
 		  "bg": 0
         },{
-          "id": ["vp_surv_full_762R_t"],
+          "id": ["omnitech_weapon_ups_manual"],
           "fg": 27334,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [
-            {
-              "id": "broken",
-              "fg": 27335
-            }
-          ]
+		  "bg": 0
         },{
-          "id": ["vp_surv_lmg_762R_t"],
+          "id": ["rifle_crank_battery_cell"],
+          "fg": 27335,
+		  "bg": 0
+        },{
+          "id": ["thermal_lance_makeshift"],
           "fg": 27336,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [
-            {
-              "id": "broken",
-              "fg": 27337
-            }
-          ]
+		  "bg": 0
         },{
-          "id": ["br_bolt_rifle_elec_t"],
+          "id": ["overlay_wielded_thermal_lance_makeshift"],
+          "fg": 27337,
+		  "bg": 0
+        },{
+          "id": ["vp_surv_full_762R_t"],
           "fg": 27338,
           "rotates": true,
           "multitile": true,
@@ -143572,7 +143566,7 @@
             }
           ]
         },{
-          "id": ["generator_electric_tiny"],
+          "id": ["vp_surv_lmg_762R_t"],
           "fg": 27340,
           "rotates": true,
           "multitile": true,
@@ -143583,7 +143577,7 @@
             }
           ]
         },{
-          "id": ["generator_electric_super"],
+          "id": ["vp_br_bolt_rifle_elec_t"],
           "fg": 27342,
           "rotates": true,
           "multitile": true,
@@ -143594,7 +143588,7 @@
             }
           ]
         },{
-          "id": ["laser_arc_carbine_t"],
+          "id": ["vp_generator_electric_tiny"],
           "fg": 27344,
           "rotates": true,
           "multitile": true,
@@ -143605,7 +143599,7 @@
             }
           ]
         },{
-          "id": ["laser_arc_carbine_t_ups"],
+          "id": ["vp_generator_electric_super"],
           "fg": 27346,
           "rotates": true,
           "multitile": true,
@@ -143616,7 +143610,7 @@
             }
           ]
         },{
-          "id": ["laser_lmg_t_ups"],
+          "id": ["vp_laser_arc_carbine_t"],
           "fg": 27348,
           "rotates": true,
           "multitile": true,
@@ -143627,7 +143621,7 @@
             }
           ]
         },{
-          "id": ["laser_mx_sniper_t"],
+          "id": ["vp_laser_arc_carbine_t_ups"],
           "fg": 27350,
           "rotates": true,
           "multitile": true,
@@ -143638,7 +143632,7 @@
             }
           ]
         },{
-          "id": ["laser_mx_sniper_t_ups"],
+          "id": ["vp_laser_lmg_t_ups"],
           "fg": 27352,
           "rotates": true,
           "multitile": true,
@@ -143649,7 +143643,7 @@
             }
           ]
         },{
-          "id": ["mk_ionic_cannon_t"],
+          "id": ["vp_laser_mx_sniper_t"],
           "fg": 27354,
           "rotates": true,
           "multitile": true,
@@ -143660,29 +143654,119 @@
             }
           ]
         },{
-          "id": ["surv_lmg_762R"],
+          "id": ["vp_laser_mx_sniper_t_ups"],
           "fg": 27356,
-		  "bg": 0
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27357
+            }
+          ]
         },{
-          "id": ["overlay_wielded_surv_lmg_762R"],
-          "fg": 27357,
-		  "bg": 0
-        },{
-          "id": ["surv_full_762R"],
+          "id": ["vp_mk_ionic_cannon_t"],
           "fg": 27358,
-		  "bg": 0
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27359
+            }
+          ]
         },{
-          "id": ["overlay_wielded_surv_full_762R"],
-          "fg": 27359,
-		  "bg": 0
-        },{
-          "id": ["surv_belt_762R"],
+          "id": ["surv_lmg_762R"],
           "fg": 27360,
 		  "bg": 0
         },{
-          "id": ["surv_762R_mag"],
+          "id": ["overlay_wielded_surv_lmg_762R"],
           "fg": 27361,
 		  "bg": 0
+        },{
+          "id": ["surv_full_762R"],
+          "fg": 27362,
+		  "bg": 0
+        },{
+          "id": ["overlay_wielded_surv_full_762R"],
+          "fg": 27363,
+		  "bg": 0
+        },{
+          "id": ["surv_belt_762R"],
+          "fg": 27364,
+		  "bg": 0
+        },{
+          "id": ["surv_762R_mag"],
+          "fg": 27365,
+		  "bg": 0
+        },        {
+          "id": "overlay_wielded_hk_g36",
+          "fg": 27366,
+          "rotates": false
+        },{
+          "id": "overlay_male_worn_scarf_fur",
+          "fg": 27367,
+          "rotates": false
+        },{
+          "id": "overlay_female_worn_scarf_fur",
+          "fg": 27368,
+          "rotates": false
+        },{
+          "id": "overlay_male_worn_scarf_fur_long",
+          "fg": 27369,
+          "rotates": false
+        },{
+          "id": "overlay_female_worn_scarf_fur_long",
+          "fg": 27370,
+          "rotates": false
+        },{
+          "id": "overlay_male_worn_scarf",
+          "fg": 27371,
+          "rotates": false
+        },{
+          "id": "overlay_female_worn_scarf",
+          "fg": 27372,
+          "rotates": false
+        },{
+          "id": "overlay_male_worn_scarf_long",
+          "fg": 27373,
+          "rotates": false
+        },{
+          "id": "overlay_female_worn_scarf_long",
+          "fg": 27374,
+          "rotates": false
+        },{
+          "id": "overlay_male_worn_patchwork_scarf",
+          "fg": 27375,
+          "rotates": false
+        },{
+          "id": "overlay_female_worn_patchwork_scarf",
+          "fg": 27376,
+          "rotates": false
+        },{
+          "id": "overlay_male_worn_long_patchwork_scarf",
+          "fg": 27377,
+          "rotates": false
+        },{
+          "id": "overlay_female_worn_long_patchwork_scarf",
+          "fg": 27378,
+          "rotates": false
+        },{
+          "id": "overlay_male_worn_knit_scarf",
+          "fg": 27379,
+          "rotates": false
+        },{
+          "id": "overlay_female_worn_knit_scarf",
+          "fg": 27380,
+          "rotates": false
+        },{
+          "id": "overlay_male_worn_long_knit_scarf",
+          "fg": 27381,
+          "rotates": false
+        },{
+          "id": "overlay_female_worn_long_knit_scarf",
+          "fg": 27382,
+          "rotates": false
         },
 		{
           "id": "atlatl", "note": "before that i add all new items to the tileset! !!!NEW-ITEMS-HERE!! ",
@@ -146509,6 +146593,12 @@
 		{
           "id": ["rid_mon_moose"],
           "fg": 35992,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["t_utility_light"],
+          "fg": 35993,
           "bg": 0,
           "rotates": false
         }
