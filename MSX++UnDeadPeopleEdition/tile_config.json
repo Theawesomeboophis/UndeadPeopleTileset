@@ -107898,6 +107898,84 @@
             }
 			],
 			"rotates": true
+            },
+			        {
+          "id": ["t_wall_log_chipped"],
+          "fg": 20708,
+		  "bg": 992,
+		  "multitile": true,
+          "additional_tiles": [ 
+            {
+              "id": "center",
+              "fg": 20708,
+			  "bg": 992
+            },		  
+           {
+              "id": "corner",
+              "fg": [20709, 20710, 20711, 20712],
+			  "bg": 992
+            },
+            {
+              "id": "t_connection",
+              "fg": [20713, 20714, 20715, 20716],
+			  "bg": 992
+            },
+            {
+              "id": "edge",
+              "fg": [20717, 20718],
+			  "bg": 992
+            },
+            {
+              "id": "end_piece",
+              "fg": [20719, 20720, 20721, 20722],
+			  "bg": 992
+            },
+            {
+              "id": "unconnected",
+              "fg": 20723,
+			  "bg": 992
+            }
+			],
+			"rotates": true
+            },
+			        {
+          "id": ["t_wall_log_broken"],
+          "fg": 20724,
+		  "bg": 992,
+		  "multitile": true,
+          "additional_tiles": [ 
+            {
+              "id": "center",
+              "fg": 20724,
+			  "bg": 1012
+            },		  
+           {
+              "id": "corner",
+              "fg": [20725, 20726, 20727, 20728],
+			  "bg": 1012
+            },
+            {
+              "id": "t_connection",
+              "fg": [20729, 20730, 20731, 20732],
+			  "bg": 1012
+            },
+            {
+              "id": "edge",
+              "fg": [20733, 20734],
+			  "bg": 1012
+            },
+            {
+              "id": "end_piece",
+              "fg": [20735, 20736, 20737, 20738],
+			  "bg": 1012
+            },
+            {
+              "id": "unconnected",
+              "fg": 20739,
+			  "bg": 1012
+            }
+			],
+			"rotates": true
             }
 			
   ]
@@ -144002,6 +144080,110 @@
         },{
           "id": "overlay_wielded_pointy_stick",
           "fg": 27383,
+          "rotates": false
+        },{
+          "id": "f_rubble",
+          "fg": [
+		    { "weight":1, "sprite":27789},
+			{ "weight":1, "sprite":27790},
+			{ "weight":1, "sprite":27791},
+			{ "weight":1, "sprite":27792},
+			{ "weight":1, "sprite":27793},
+			{ "weight":1, "sprite":27794},
+			{ "weight":1, "sprite":27795},
+			{ "weight":1, "sprite":27796},
+			{ "weight":1, "sprite":27797},
+			{ "weight":1, "sprite":27798},
+			{ "weight":1, "sprite":27799},
+			{ "weight":1, "sprite":27800},
+			{ "weight":1, "sprite":27801},
+			{ "weight":1, "sprite":27802},
+			{ "weight":1, "sprite":27803}
+			],
+            "rotates": false
+        },{
+          "id": "overlay_wielded_molotov",
+          "fg": 27384,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_molotov_lit",
+          "fg": 27385,
+          "rotates": false
+        },{
+          "id": "acidbomb",
+          "fg": 27386,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_acidbomb",
+          "fg": 27387,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_can_bomb",
+          "fg": 27388,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_can_bomb_act",
+          "fg": 27389,
+          "rotates": false
+        },{
+          "id": "c4armed",
+          "fg": 27390,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_c4",
+          "fg": 27391,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_c4armed",
+          "fg": 27392,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_EMPbomb",
+          "fg": 27393,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_EMPbomb_act",
+          "fg": 27394,
+          "rotates": false
+        },{
+          "id": "fertilizer_bomb",
+          "fg": 27395,
+          "rotates": false
+        },{
+          "id": "fertilizer_bomb_act",
+          "fg": 27396,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_fertilizer_bomb",
+          "fg": 27397,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_fertilizer_bomb_act",
+          "fg": 27398,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_firecracker",
+          "fg": 27399,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_firecracker_act",
+          "fg": 27400,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_firecracker_pack",
+          "fg": 27401,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_firecracker_pack_act",
+          "fg": 27402,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_flashbang",
+          "fg": 27403,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_flashbang_act",
+          "fg": 27404,
           "rotates": false
         },
 		{
