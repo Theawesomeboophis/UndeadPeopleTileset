@@ -144185,9 +144185,108 @@
           "id": "overlay_wielded_flashbang_act",
           "fg": 27404,
           "rotates": false
+        },{
+          "id": "dks_mon_stray",
+          "fg": 27405,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_dks_mon_stray",
+          "fg": 27406,
+          "rotates": false
+        },{
+          "id": "dks_mon_stray_eater",
+          "fg": 27407,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_dks_mon_stray_eater",
+          "fg": 27408,
+          "rotates": false
+        },{
+          "id": "dks_mon_stray_fast",
+          "fg": 27409,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_dks_mon_stray_fast",
+          "fg": 27410,
+          "rotates": false
+        },{
+          "id": "dks_mon_stray_heavy",
+          "fg": 27411,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_dks_mon_stray_heavy",
+          "fg": 27412,
+          "rotates": false
+        },{
+          "id": "dks_mon_stray_burnt",
+          "fg": 27413,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_dks_mon_stray_burnt",
+          "fg": 27414,
+          "rotates": false
+        },{
+          "id": "dks_mon_stray_child",
+          "fg": 27415,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_dks_mon_stray_child",
+          "fg": 27416,
+          "rotates": false
+        },{
+          "id": "dks_mon_stray_child_burnt",
+          "fg": 27417,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_dks_mon_stray_child_burnt",
+          "fg": 27418,
+          "rotates": false
+        },{
+          "id": "dks_mon_stray_wretch",
+          "fg": 27419,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_dks_mon_stray_wretch",
+          "fg": 27420,
+          "rotates": false
+        },{
+          "id": "dks_neworder_scout",
+          "fg": 27421,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_dks_neworder_scout",
+          "fg": 27422,
+          "rotates": false
+        },{
+          "id": "dks_neworder_cop",
+          "fg": 27423,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_dks_neworder_cop",
+          "fg": 27424,
+          "rotates": false
+        },{
+          "id": "dks_neworder_knight",
+          "fg": 27425,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_dks_neworder_knight",
+          "fg": 27426,
+          "rotates": false
         },
 		{
-          "id": "atlatl", "note": "before that i add all new items to the tileset! !!!NEW-ITEMS-HERE!! ",
+          "id": "atlatl", "note": "before that i add all new items to the tileset! !!!NEW-ITEMS-HERE!! ", 
 		  "fg": 1986, 
 		  "bg": 0,
 		  "rotates": false 
@@ -147314,6 +147413,66 @@
 		    { "weight":10, "sprite":35994},			
 			{ "weight":1, "sprite":35995}
             ],
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["dks_mon_lurker_sewer"],
+          "fg": 35996,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["corpse_dks_mon_lurker_sewer"],
+          "fg": 35997,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["mon_dks_emissary"],
+          "fg": 35998,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["broken_dks_emissary"],
+          "fg": 35999,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["mon_dks_emissary_plague"],
+          "fg": 36000,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["broken_dks_emissary_plague"],
+          "fg": 36001,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["mon_dks_emissary_flame"],
+          "fg": 36002,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["broken_dks_emissary_flame"],
+          "fg": 36003,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["dks_neworder_pyro"],
+          "fg": 36004,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["corpse_dks_neworder_pyro"],
+          "fg": 36005,
           "bg": 0,
           "rotates": false
         }
