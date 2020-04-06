@@ -125588,7 +125588,7 @@
           "rotates": false
         },
 						{
-          "id": ["38_speedloader5", "38_speedloader6"],
+          "id": ["38_speedloader5", "38_speedloader6", "454_speedloader6"],
           "fg": 23917,
           "rotates": false
         },	
@@ -128368,7 +128368,7 @@
           "rotates": false
         },	
 				{
-          "id": ["f_bluebell_season_winter", "f_dahlia_season_winter", "f_datura_season_winter", "f_flower_marloss_season_winter", "f_dandelion_season_winter", "f_chamomile_season_winter", "f_flower_tulip_season_winter", "f_flower_spurge_season_winter", "f_cattails_season_winter", "f_black_eyed_susan_season_winter", "f_lily_season_winter", "f_sunflower_season_winter", "f_mutpoppy_season_winter", "f_chicory_season_winter"],
+          "id": ["f_bluebell_season_winter", "f_dahlia_season_winter", "f_datura_season_winter", "f_flower_marloss_season_winter", "f_dandelion_season_winter", "f_chamomile_season_winter", "f_flower_tulip_season_winter", "f_flower_spurge_season_winter", "f_cattails_season_winter", "f_black_eyed_susan_season_winter", "f_lily_season_winter", "f_sunflower_season_winter", "f_mutpoppy_season_winter", "f_chicory_season_winter", "f_burdock_season_winter"],
           "fg": 24327,
 		  "bg": 19204,
           "rotates": false
@@ -144283,6 +144283,233 @@
         },{
           "id": "corpse_dks_neworder_knight",
           "fg": 27426,
+          "rotates": false
+        },{
+          "id": "mon_boar_wild",
+          "fg": 27427,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_boar_wild",
+          "fg": 27428,
+          "rotates": false
+        },{
+          "id": "mon_boar_wild_piglet",
+          "fg": 27429,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_boar_wild_piglet",
+          "fg": 27430,
+          "rotates": false
+        },{
+          "id": "mon_cat_longhair",
+          "fg": 27431,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_cat_longhair",
+          "fg": 27432,
+          "rotates": false
+        },{
+          "id": "mon_cat_longhair_kitten",
+          "fg": 27433,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_cat_longhair_kitten",
+          "fg": 27434,
+          "rotates": false
+        },{
+          "id": "mon_cat_maine_coon",
+          "fg": 27435,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_cat_maine_coon",
+          "fg": 27436,
+          "rotates": false
+        },{
+          "id": "mon_cat_maine_coon_kitten",
+          "fg": 27437,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_cat_maine_coon_kitten",
+          "fg": 27438,
+          "rotates": false
+        },{
+          "id": "mon_cat_siamese",
+          "fg": 27439,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_cat_siamese",
+          "fg": 27440,
+          "rotates": false
+        },{
+          "id": "mon_cat_siamese_kitten",
+          "fg": 27441,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_cat_siamese_kitten",
+          "fg": 27442,
+          "rotates": false
+        },{
+          "id": "mon_cat_persian",
+          "fg": 27443,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_cat_persian",
+          "fg": 27444,
+          "rotates": false
+        },{
+          "id": "mon_cat_persian_kitten",
+          "fg": 27445,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_cat_persian_kitten",
+          "fg": 27446,
+          "rotates": false
+        },{
+          "id": "mon_cat_bengal",
+          "fg": 27447,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_cat_bengal",
+          "fg": 27448,
+          "rotates": false
+        },{
+          "id": "mon_cat_bengal_kitten",
+          "fg": 27449,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_cat_bengal_kitten",
+          "fg": 27450,
+          "rotates": false
+        },{
+          "id": "mon_cat_devon_rex",
+          "fg": 27451,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_cat_devon_rex",
+          "fg": 27452,
+          "rotates": false
+        },{
+          "id": "mon_cat_devon_rex_kitten",
+          "fg": 27453,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_cat_devon_rex_kitten",
+          "fg": 27454,
+          "rotates": false
+        },{
+          "id": "mon_cat_sphynx",
+          "fg": 27455,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_cat_sphynx",
+          "fg": 27456,
+          "rotates": false
+        },{
+          "id": "mon_cat_sphynx_kitten",
+          "fg": 27457,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_cat_sphynx_kitten",
+          "fg": 27458,
+          "rotates": false
+        },{
+          "id": "mon_cat_tabby",
+          "fg": 27459,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_cat_tabby",
+          "fg": 27460,
+          "rotates": false
+        },{
+          "id": "mon_cat_tabby_kitten",
+          "fg": 27461,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_cat_tabby_kitten",
+          "fg": 27462,
+          "rotates": false
+        },{
+          "id": "mon_cat_calico",
+          "fg": 27463,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_cat_calico",
+          "fg": 27464,
+          "rotates": false
+        },{
+          "id": "mon_cat_calico_kitten",
+          "fg": 27465,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_cat_calico_kitten",
+          "fg": 27466,
+          "rotates": false
+        },{
+          "id": "mon_cat_chonker",
+          "fg": 27467,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_cat_chonker",
+          "fg": 27468,
+          "rotates": false
+        },{
+          "id": "mon_cat_chonker_kitten",
+          "fg": 27469,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": "corpse_mon_cat_chonker_kitten",
+          "fg": 27470,
+          "rotates": false
+        },{
+          "id": "f_burdock_season_spring",
+          "fg": 27471,
+          "rotates": false
+        },{
+          "id": ["f_burdock_season_summer", "f_burdock"],
+          "fg": 27472,
+          "rotates": false
+        },{
+          "id": ["f_burdock_season_autumn"],
+          "fg": 27473,
+          "rotates": false
+        },{
+          "id": ["f_mustard"],
+          "fg": 27474,
+          "rotates": false
+        },  {
+          "id": ["condiment_bottle_sealed"],
+          "fg": 27475,
+          "rotates": false
+        },  {
+          "id": ["condiment_bottle_unsealed"],
+          "fg": 27476,
+          "rotates": false
+        },
+        {
+          "id": "overlay_worn_plastic_shopping_bag",
+          "fg": 27475,
           "rotates": false
         },
 		{
