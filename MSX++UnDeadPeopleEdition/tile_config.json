@@ -70872,6 +70872,10 @@
           "id": "dandelion_tea",
           "fg": 1358
         },
+		        {
+          "id": "dandelionburdock_tea",
+          "fg": 1358
+        },
         {
           "id": "herbal_tea",
           "fg": 1358
@@ -71077,7 +71081,7 @@
           "fg": 1379
         },
         {
-          "id": ["brew_fruit_wine", "brew_burdock_wine"],
+          "id": ["brew_fruit_wine", "brew_burdock_wine", "burdock_wine"],
           "fg": 1379
         },
         {
@@ -144691,6 +144695,78 @@
           "id": ["overlay_wielded_beach_volleyball", "overlay_wielded_indoor_volleyball"],
           "fg": 27483,
           "rotates": false
+        },{
+          "id": ["burdock_cooked"],
+          "fg": 27484,
+          "rotates": false
+        },{
+          "id": ["burdock_fried"],
+          "fg": 27485,
+          "rotates": false
+        },{
+          "id": ["butane_can"],
+          "fg": 27486,
+          "rotates": false
+        },{
+          "id": ["chem_ammonium_nitrate_pellets"],
+          "fg": 27487,
+          "rotates": false
+        },{
+          "id": ["chem_compositionb"],
+          "fg": 27488,
+          "rotates": false
+        },{
+          "id": ["cookbook_indian"],
+          "fg": 27489,
+          "rotates": false
+        },{
+          "id": ["dab_pen"],
+          "fg": 27490,
+          "rotates": false
+        },{
+          "id": ["dab_pen_on"],
+          "fg": 27491,
+          "rotates": false
+        },{
+          "id": ["dairy_book"],
+          "fg": 27492,
+          "rotates": false
+        },{
+          "id": ["dandelionburdock_fried"],
+          "fg": 27493,
+          "rotates": false
+        },{
+          "id": ["delay_fuze"],
+          "fg": 27494,
+          "rotates": false
+        },{
+          "id": ["distilling_cookbook"],
+          "fg": 27495,
+          "rotates": false
+        },{
+          "id": ["elec_shears"],
+          "fg": 27496,
+          "rotates": false
+        },{
+          "id": ["dks_mon_stray_predator"],
+          "fg": 27497,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": ["corpse_dks_mon_stray_predator"],
+          "fg": 27498,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["dks_mon_stray_wretch_burnt"],
+          "fg": 27499,
+		  "bg": 967,
+          "rotates": false
+        },{
+          "id": ["corpse_dks_mon_stray_wretch_burnt"],
+          "fg": 27500,
+		  "bg": 967,
+          "rotates": false
         },
 		{
           "id": "atlatl", "note": "before that i add all new items to the tileset! !!!NEW-ITEMS-HERE!! ", 
@@ -147885,6 +147961,30 @@
 		{
           "id": ["corpse_dks_neworder_pyro"],
           "fg": 36005,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["dks_mon_stray_tender"],
+          "fg": 36006,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["corpse_dks_mon_stray_tender"],
+          "fg": 36007,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["dks_mon_stray_titan"],
+          "fg": 36008,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["corpse_dks_mon_stray_titan"],
+          "fg": 36009,
           "bg": 0,
           "rotates": false
         }
