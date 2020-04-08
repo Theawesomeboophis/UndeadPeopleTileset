@@ -71077,7 +71077,7 @@
           "fg": 1379
         },
         {
-          "id": "brew_fruit_wine",
+          "id": ["brew_fruit_wine", "brew_burdock_wine"],
           "fg": 1379
         },
         {
@@ -107976,6 +107976,162 @@
             }
 			],
 			"rotates": true
+            },
+			        {
+          "id": ["t_floor_blue"],
+          "fg": 20740,
+		  "bg": 992,
+		  "multitile": true,
+          "additional_tiles": [ 
+            {
+              "id": "center",
+              "fg": 20740,
+			  "bg": 1012
+            },		  
+           {
+              "id": "corner",
+              "fg": [20741, 20742, 20743, 20744],
+			  "bg": 1012
+            },
+            {
+              "id": "t_connection",
+              "fg": [20745, 20746, 20747, 20748],
+			  "bg": 1012
+            },
+            {
+              "id": "edge",
+              "fg": [20749, 20750],
+			  "bg": 1012
+            },
+            {
+              "id": "end_piece",
+              "fg": [20751, 20752, 20753, 20754],
+			  "bg": 1012
+            },
+            {
+              "id": "unconnected",
+              "fg": 20755,
+			  "bg": 1012
+            }
+			],
+			"rotates": true
+            },
+			        {
+          "id": ["t_floor_green"],
+          "fg": 20756,
+		  "bg": 992,
+		  "multitile": true,
+          "additional_tiles": [ 
+            {
+              "id": "center",
+              "fg": 20756,
+			  "bg": 1012
+            },		  
+           {
+              "id": "corner",
+              "fg": [20757, 20758, 20759, 20760],
+			  "bg": 1012
+            },
+            {
+              "id": "t_connection",
+              "fg": [20761, 20762, 20763, 20764],
+			  "bg": 1012
+            },
+            {
+              "id": "edge",
+              "fg": [20765, 20766],
+			  "bg": 1012
+            },
+            {
+              "id": "end_piece",
+              "fg": [20767, 20768, 20769, 20770],
+			  "bg": 1012
+            },
+            {
+              "id": "unconnected",
+              "fg": 20771,
+			  "bg": 1012
+            }
+			],
+			"rotates": true
+            },
+			        {
+          "id": ["t_floor_red"],
+          "fg": 20772,
+		  "bg": 992,
+		  "multitile": true,
+          "additional_tiles": [ 
+            {
+              "id": "center",
+              "fg": 20772,
+			  "bg": 1012
+            },		  
+           {
+              "id": "corner",
+              "fg": [20773, 20774, 20775, 20776],
+			  "bg": 1012
+            },
+            {
+              "id": "t_connection",
+              "fg": [20777, 20778, 20779, 20780],
+			  "bg": 1012
+            },
+            {
+              "id": "edge",
+              "fg": [20781, 20782],
+			  "bg": 1012
+            },
+            {
+              "id": "end_piece",
+              "fg": [20783, 20784, 20785, 20786],
+			  "bg": 1012
+            },
+            {
+              "id": "unconnected",
+              "fg": 20787,
+			  "bg": 1012
+            }
+			],
+			"rotates": true
+            },
+			        {
+          "id": ["!t_thconc_floor"],
+          "fg": 20788,
+		  "bg": 992,
+		  "multitile": true,
+          "additional_tiles": [ 
+            {
+              "id": "center",
+              "fg": 20788,
+			  "bg": 1012
+            },		  
+           {
+              "id": "corner",
+              "fg": [20789, 20790, 20791, 20792],
+			  "bg": 1012
+            },
+            {
+              "id": "t_connection",
+              "fg": [20793, 20794, 20795, 20796],
+			  "bg": 1012
+            },
+            {
+              "id": "edge",
+              "fg": [20797, 20798],
+			  "bg": 1012
+            },
+            {
+              "id": "end_piece",
+              "fg": [20799, 20800, 20801, 20802],
+			  "bg": 1012
+            },
+            {
+              "id": "unconnected",
+              "fg": 20803,
+			  "bg": 1012
+            }
+			],
+			"rotates": true
             }
 			
   ]
@@ -144498,18 +144654,42 @@
           "id": ["f_mustard"],
           "fg": 27474,
           "rotates": false
-        },  {
-          "id": ["condiment_bottle_sealed"],
-          "fg": 27475,
-          "rotates": false
-        },  {
-          "id": ["condiment_bottle_unsealed"],
-          "fg": 27476,
-          "rotates": false
         },
         {
           "id": "overlay_worn_plastic_shopping_bag",
           "fg": 27475,
+          "rotates": false
+        },  {
+          "id": ["condiment_bottle_sealed"],
+          "fg": 27476,
+          "rotates": false
+        },  {
+          "id": ["condiment_bottle_unsealed"],
+          "fg": 27477,
+          "rotates": false
+        },{
+          "id": ["ar_pistol"],
+          "fg": 27478,
+          "rotates": false
+        },  {
+          "id": ["overlay_wielded_ar_pistol"],
+          "fg": 27479,
+          "rotates": false
+        },{
+          "id": ["avgas"],
+          "fg": 27480,
+          "rotates": false
+        },{
+          "id": ["baking_book"],
+          "fg": 27481,
+          "rotates": false
+        },{
+          "id": ["beach_volleyball", "indoor_volleyball"],
+          "fg": 27482,
+          "rotates": false
+        },{
+          "id": ["overlay_wielded_beach_volleyball", "overlay_wielded_indoor_volleyball"],
+          "fg": 27483,
           "rotates": false
         },
 		{
@@ -147386,6 +147566,11 @@
         },
 		{
           "id": ["large_lcd_screen", "television"],
+          "fg": 35952,
+          "bg": 0,
+          "rotates": false
+        },		{
+          "id": ["overlay_wielded_large_lcd_screen", "overlay_wielded_television"],
           "fg": 35952,
           "bg": 0,
           "rotates": false
