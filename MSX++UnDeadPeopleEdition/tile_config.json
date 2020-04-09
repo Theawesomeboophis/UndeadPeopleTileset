@@ -144767,6 +144767,66 @@
           "fg": 27500,
 		  "bg": 967,
           "rotates": false
+        },{
+          "id": ["vp_small_civilian_rotors"],
+          "fg": 27501,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27502
+            }
+          ]
+        },{
+          "id": ["vp_heavy_duty_military_rotor"],
+          "fg": 27503,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27504
+            }
+          ]
+        },{
+          "id": ["vp_heavy_duty_military_osprey_rotors"],
+          "fg": 27505,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27506
+            }
+          ]
+        },{
+          "id": ["vp_heavy_duty_military_blackhawk_rotors"],
+          "fg": 27507,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27508
+            }
+          ]
+        },{
+          "id": ["vp_hd_tow_cable"],
+          "fg": 27509,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 27510
+            }
+          ]
+        },{
+          "id": ["hd_tow_cable"],
+          "fg": 27511,
+		  "bg": 0,
+          "rotates": false
         },
 		{
           "id": "atlatl", "note": "before that i add all new items to the tileset! !!!NEW-ITEMS-HERE!! ", 
@@ -147985,6 +148045,42 @@
 		{
           "id": ["corpse_dks_mon_stray_titan"],
           "fg": 36009,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["dks_mon_crystal_baby"],
+          "fg": 36010,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["dks_mon_crystal_shriek"],
+          "fg": 36011,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["f_brazier"],
+          "fg": 36012,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["dks_mon_crystal_whip"],
+          "fg": 36013,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["dks_mon_crystal_zap"],
+          "fg": 36014,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["dks_mon_crystal_wall"],
+          "fg": 36015,
           "bg": 0,
           "rotates": false
         }
