@@ -854,7 +854,7 @@
           "bg": 957
         },
         {
-          "id": ["overlay_wielded_arrow_heavy_field_point_fletched", "overlay_wielded_pneu_sniper"],
+          "id": ["overlay_wielded_arrow_heavy_field_point_fletched"],
           "fg": 101,
           "bg": 957,
           "rotates": false
@@ -30983,7 +30983,7 @@
           "rotates": false
         },			
 		{
-          "id": "overlay_wielded_airbower",
+          "id": ["overlay_wielded_airbower", "overlay_wielded_pneu_sniper"],
           "fg": 4819,
           "rotates": false
         },		
@@ -47339,7 +47339,7 @@
           "bg": 957
         },
         {
-          "id": ["arrow_heavy_field_point_fletched", "pneu_sniper"],
+          "id": ["arrow_heavy_field_point_fletched"],
           "fg": 101,
           "bg": 957,
           "rotates": false
@@ -77688,7 +77688,7 @@
           "rotates": false
         },			
 		{
-          "id": "airbower",
+          "id": ["airbower", "pneu_sniper"],
           "fg": 4819,
           "rotates": false
         },		
