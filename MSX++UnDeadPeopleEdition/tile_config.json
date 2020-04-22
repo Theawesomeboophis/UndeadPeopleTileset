@@ -145286,6 +145286,16 @@
           "fg": 27517,
 		  "bg": 987,
           "rotates": false
+        },{
+          "id": ["horseradish_greens"],
+          "fg": 27518,
+		  "bg": 987,
+          "rotates": false
+        },{
+          "id": ["horseradish_root"],
+          "fg": 27519,
+		  "bg": 987,
+          "rotates": false
         },
 		{
           "id": "atlatl", "note": "before that i add all new items to the tileset! !!!NEW-ITEMS-HERE!! ", 
