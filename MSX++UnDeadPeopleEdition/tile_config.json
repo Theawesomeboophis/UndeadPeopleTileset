@@ -52749,6 +52749,8 @@
         {
           "id": "overlay_worn_swat_armor",
           "fg": 801,
+		  "bg": 36093,
+		  
           "rotates": false
         },
         {
@@ -126205,6 +126207,11 @@
 		{
           "id": ["overlay_worn_armor_riot", "overlay_worn_survivor_miko_suikan"],
           "fg": 23992
+        },	
+		{
+          "id": ["overlay_worn_armor_riot", "overlay_worn_survivor_miko_suikan"],
+          "fg": 23992,
+		  "bg": 36092
         },
 		{
           "id": "overlay_wielded_police_belt",
@@ -145288,13 +145295,38 @@
           "rotates": false
         },{
           "id": ["horseradish_greens"],
-          "fg": 27518,
-		  "bg": 987,
+          "fg": 27558,
+		  "bg": 0,
           "rotates": false
         },{
           "id": ["horseradish_root"],
-          "fg": 27519,
-		  "bg": 987,
+          "fg": 27559,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["rigid_plastic_sheet"],
+          "fg": 27560,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["tempered_glass_sheet"],
+          "fg": 27561,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["foodplace_food"],
+          "fg": 27562,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["impact_fuze"],
+          "fg": 27563,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["raw_burdock"],
+          "fg": 27564,
+		  "bg": 0,
           "rotates": false
         },
 		{
@@ -148555,6 +148587,93 @@
         }
    
    ] 
-    }  
+    },
+	{
+		"file": "19_tiles3_32x32_36077-41276.png", 
+		"tiles":
+	[
+		{
+          "id": "ksg-25",  
+          "fg": 36077,
+		  "bg": 0,
+          "rotates": false
+        },	{
+          "id": "overlay_wielded_ksg-25",  
+          "fg": 36078,
+		  "bg": 0,
+          "rotates": false
+        },	{
+          "id": "ksg25_aux_shotgun-25",  
+          "fg": 36079,
+		  "bg": 0,
+          "rotates": false
+        },	{
+          "id": "mic_stand_tall",  
+          "fg": 36080,
+		  "bg": 0,
+          "rotates": false
+        },	{
+          "id": "microphone_xlr_generic",  
+          "fg": 36081,
+		  "bg": 0,
+          "rotates": false
+        },	{
+          "id": "mixer_music",  
+          "fg": 36082,
+		  "bg": 0,
+          "rotates": false
+        },	{
+          "id": "mustard_powder",  
+          "fg": 36083,
+		  "bg": 0,
+          "rotates": false
+        },	{
+          "id": "popcorn_raw",  
+          "fg": 36084,
+		  "bg": 0,
+          "rotates": false
+        },	{
+          "id": "premium_survival_kit",  
+          "fg": 36085,
+		  "bg": 0,
+          "rotates": false
+        },	{
+          "id": "seed_horseradish",  
+          "fg": 36086,
+		  "bg": 0,
+          "rotates": false
+        },	{
+          "id": "seed_mustard",  
+          "fg": 36087,
+		  "bg": 0,
+          "rotates": false
+        },	{
+          "id": "seed_popcorn",  
+          "fg": 36088,
+		  "bg": 0,
+          "rotates": false
+        },	{
+          "id": "seed_raw_burdock",  
+          "fg": 36089,
+		  "bg": 0,
+          "rotates": false
+        },	{
+          "id": "shears",  
+          "fg": 36090,
+		  "bg": 0,
+          "rotates": false
+        },	{
+          "id": "overlay_wielded_shears",  
+          "fg": 36091,
+		  "bg": 0,
+          "rotates": false
+        },	{
+          "id": "swat_armor",  
+          "fg": 36094,
+		  "bg": 0,
+          "rotates": false
+        }
+	]
+	}  
   ]
 }
