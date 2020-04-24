@@ -33359,7 +33359,7 @@
           "rotates": false
         },	
 		{
-          "id": ["bio_shock_absorber", "pseuso_bio_picklock", "null", "mon_null", "tr_null", "tr_temple_toggle", "tr_glow", "tr_hum", "tr_shadow", "tr_snake", "fd_null", "mon_null", "fd_null", "tr_null", "null", "vp_null", "tr_temple_toggle", "tr_glow", "tr_hum", "tr_shadow", "tr_snake", "TANK", "acid_spit", "candle_barrier_aftermath", "apparatus", "clairvoyance_plus_rod", "fire", "gloople_act", "gray_act", "money", "muscle", "oozle_act", "oxyacetylene", "pseuso_bio_picklock", "software", "toolset", "upstest", "vp_plating_acidchitin", "vp_plating_bone", "vp_plating_chitin", "vp_plating_diamond", "vp_plating_hard", "vp_plating_military", "vp_plating_spiked", "vp_plating_steel", "vp_plating_superalloy", "vp_plating_wood", "vp_gloople_plate", "vp_gray_plate", "vp_oozle_plate", "bog_iron_spot"],
+          "id": ["pseuso_bio_picklock", "null", "mon_null", "tr_null", "tr_temple_toggle", "tr_glow", "tr_hum", "tr_shadow", "tr_snake", "fd_null", "mon_null", "fd_null", "tr_null", "null", "vp_null", "tr_temple_toggle", "tr_glow", "tr_hum", "tr_shadow", "tr_snake", "TANK", "acid_spit", "candle_barrier_aftermath", "apparatus", "clairvoyance_plus_rod", "fire", "gloople_act", "gray_act", "money", "muscle", "oozle_act", "oxyacetylene", "pseuso_bio_picklock", "software", "toolset", "upstest", "vp_plating_acidchitin", "vp_plating_bone", "vp_plating_chitin", "vp_plating_diamond", "vp_plating_hard", "vp_plating_military", "vp_plating_spiked", "vp_plating_steel", "vp_plating_superalloy", "vp_plating_wood", "vp_gloople_plate", "vp_gray_plate", "vp_oozle_plate", "bog_iron_spot"],
           "fg": 0,
           "rotates": false
         },		
@@ -80057,7 +80057,7 @@
           "rotates": false
         },	
 		{
-          "id": ["bio_shock_absorber", "pseuso_bio_picklock", "null", "mon_null", "tr_null", "tr_temple_toggle", "tr_glow", "tr_hum", "tr_shadow", "tr_snake", "fd_null", "mon_null", "fd_null", "tr_null", "null", "vp_null", "tr_temple_toggle", "tr_glow", "tr_hum", "tr_shadow", "tr_snake", "TANK", "acid_spit", "candle_barrier_aftermath", "apparatus", "clairvoyance_plus_rod", "fire", "gloople_act", "gray_act", "money", "muscle", "oozle_act", "oxyacetylene", "pseuso_bio_picklock", "software", "toolset", "upstest", "vp_plating_acidchitin", "vp_plating_bone", "vp_plating_chitin", "vp_plating_diamond", "vp_plating_hard", "vp_plating_military", "vp_plating_spiked", "vp_plating_steel", "vp_plating_superalloy", "vp_plating_wood", "vp_gloople_plate", "vp_gray_plate", "vp_oozle_plate", "bog_iron_spot", "vp_bulette_plate"],
+          "id": [ "pseuso_bio_picklock", "null", "mon_null", "tr_null", "tr_temple_toggle", "tr_glow", "tr_hum", "tr_shadow", "tr_snake", "fd_null", "mon_null", "fd_null", "tr_null", "null", "vp_null", "tr_temple_toggle", "tr_glow", "tr_hum", "tr_shadow", "tr_snake", "TANK", "acid_spit", "candle_barrier_aftermath", "apparatus", "clairvoyance_plus_rod", "fire", "gloople_act", "gray_act", "money", "muscle", "oozle_act", "oxyacetylene", "pseuso_bio_picklock", "software", "toolset", "upstest", "vp_plating_acidchitin", "vp_plating_bone", "vp_plating_chitin", "vp_plating_diamond", "vp_plating_hard", "vp_plating_military", "vp_plating_spiked", "vp_plating_steel", "vp_plating_superalloy", "vp_plating_wood", "vp_gloople_plate", "vp_gray_plate", "vp_oozle_plate", "bog_iron_spot", "vp_bulette_plate"],
           "fg": 0,
           "rotates": false
         },		
@@ -129205,7 +129205,7 @@
 		{
           "id": ["mon_zombie_acidic"],
           "fg": 24422,
-		  "bg": 0,
+		  "bg": 967,
           "rotates": false
         },
 				{
@@ -138077,12 +138077,14 @@
 		{
           "id": "vp_afs_control_station",
           "fg": 26040,
+		  "bg": 965,
           "rotates": true,
           "multitile": true,
           "additional_tiles": [
             {
               "id": "broken",
-              "fg": 26041
+              "fg": 26041,
+			  "bg": 965
             }
           ]
         },	
@@ -138099,12 +138101,14 @@
 				{
           "id": "vp_afs_cooking_rig",
           "fg": 26043,
-          "rotates": true,
+		  "bg": 965,
+          "rotates": false,
           "multitile": true,
           "additional_tiles": [
             {
               "id": "broken",
-              "fg": 26044
+              "fg": 26044,
+			  "bg": 965
             }
           ]
         },	
@@ -138123,7 +138127,7 @@
 				{
           "id": "vp_afs_fridge",
           "fg": 26047,
-          "rotates": true,
+          "rotates": false,
           "multitile": true,
           "additional_tiles": [
             {
@@ -138135,12 +138139,14 @@
 		{
           "id": "vp_afs_hauling_space",
           "fg": 26049,
-          "rotates": true,
+		  "bg": 966,
+          "rotates": false,
           "multitile": true,
           "additional_tiles": [
             {
               "id": "broken",
-              "fg": 26050
+              "fg": 26050,
+			  "bg": 966
             }
           ]
         },
@@ -138159,34 +138165,32 @@
 				{
           "id": "vp_afs_kitchen_rig",
           "fg": 26052,
-          "rotates": true,
+		  "bg": 26049,
+          "rotates": false,
           "multitile": true,
           "additional_tiles": [
             {
               "id": "broken",
-              "fg": 26053
+              "fg": 26053,
+			  "bg": 26049
             }
           ]
         },
 						{
           "id": ["vp_afs_metal_rig", "afs_metal_rig"],
           "fg": 26054,
-          "rotates": true,
+		  "bg": 26049,
+          "rotates": false,
           "multitile": true,
           "additional_tiles": [
             {
               "id": "broken",
-              "fg": 26055
+              "fg": 26055,
+			  "bg": 26049
             }
           ]
         },
-										{
-          "id": [ "afs_kitchen_rig" ],
-          "fg": 26057,
-          "rotates": false
-        },
-		
-				{
+		{
           "id": "vp_afs_lightweight_frame_cover",
           "fg": 26056,
           "rotates": true
@@ -141611,7 +141615,7 @@
 		  "bg": 0,
           "rotates": false
         },{
-          "id": "vp_minifridge",
+          "id": ["vp_minifridge", "vp_fridge_cargo"], 
           "fg": 26797,
           "rotates": false,
           "multitile": true,
@@ -145257,7 +145261,7 @@
 		  "bg": 0,
           "rotates": false
         },{
-          "id": ["afs_small_roof_external_tank"],
+          "id": ["vp_afs_small_roof_external_tank"],
           "fg": 27552,
           "rotates": true,
           "multitile": true,
@@ -145268,7 +145272,7 @@
             }
           ]
         },{
-          "id": ["fridgetank"],
+          "id": ["vp_fridgetank"],
           "fg": 27554,
           "rotates": true,
           "multitile": true,
@@ -147227,6 +147231,16 @@
           "id": "overlay_worn_wizard_hat",
           "fg": 33192,
           "rotates": false
+        },
+        {
+          "id": "overlay_worn_tac_helmet",
+          "fg": 33194,
+          "rotates": false
+        },
+        {
+          "id": "overlay_worn_helmet_army",
+          "fg": 33195,
+          "rotates": false
         }
 	]
 	},
@@ -148584,6 +148598,42 @@
           "fg": 36015,
           "bg": 0,
           "rotates": false
+        },
+		{
+          "id": ["mon_zyrannosaurus"],
+          "fg": 36016,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["corpse_mon_zyrannosaurus"],
+          "fg": 36017,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["mon_pachycephalosaurus"],
+          "fg": 36018,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["corpse_mon_pachycephalosaurus"],
+          "fg": 36019,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["rid_mon_pachycephalosaurus"],
+          "fg": 36020,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["rid_mon_triceratops"],
+          "fg": 36021,
+          "bg": 0,
+          "rotates": false
         }
    
    ] 
@@ -148603,7 +148653,7 @@
 		  "bg": 0,
           "rotates": false
         },	{
-          "id": "ksg25_aux_shotgun-25",  
+          "id": ["ksg25_aux_shotgun-25", "ksg25_aux_shotgun"],
           "fg": 36079,
 		  "bg": 0,
           "rotates": false
@@ -148672,6 +148722,17 @@
           "fg": 36094,
 		  "bg": 0,
           "rotates": false
+        },{
+          "id": ["vp_veh_kiln"],
+          "fg": 36095,
+          "rotates": false,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 36096
+            }
+          ]
         }
 	]
 	}  
