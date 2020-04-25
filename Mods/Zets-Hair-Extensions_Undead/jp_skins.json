@@ -1,0 +1,92 @@
+[
+  {
+    "id": "SKIN_DARK_JP",
+    "type": "mutation",
+    "name": "Cute Dark Skin",
+    "description": "You have naturally dark skin tones. ~Kawaii~",
+    "points": 0,
+    "starting_trait": false,
+    "purifiable": false,
+    "player_display": false,
+	"types": "skin_tone",
+    "cancels": [
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN",
+      "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP", "SKIN_PINK_JP", "SKIN_TAN_JP"
+    ]
+  },
+  {
+    "id": "SKIN_LIGHT_JP",
+    "type": "mutation",
+    "name": "Cute Light Skin",
+    "description": "You have naturally light skin tones. ~Kawaii~",
+    "points": 0,
+    "starting_trait": false,
+    "purifiable": false,
+    "player_display": false,
+	"types": "skin_tone",
+    "cancels": [
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN",
+      "SKIN_DARK_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP", "SKIN_PINK_JP", "SKIN_TAN_JP"
+    ]
+  },
+  {
+    "id": "SKIN_MEDIUM_JP",
+    "type": "mutation",
+    "name": "Cute Average Skin",
+    "description": "You have naturally average skin tones. ~Kawaii~",
+    "points": 0,
+    "starting_trait": false,
+    "purifiable": false,
+    "player_display": false,
+	"types": "skin_tone",
+    "cancels": [
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN",
+      "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_PALE_JP", "SKIN_PINK_JP", "SKIN_TAN_JP"
+    ]
+  },
+  {
+    "id": "SKIN_PALE_JP",
+    "type": "mutation",
+    "name": "Cute Pale Skin",
+    "description": "You have naturally pale skin tones. ~Kawaii~",
+    "points": 0,
+    "starting_trait": false,
+    "purifiable": false,
+    "player_display": false,
+	"types": "skin_tone",
+    "cancels": [
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN",
+      "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PINK_JP", "SKIN_TAN_JP"
+    ]
+  },
+  {
+    "id": "SKIN_PINK_JP",
+    "type": "mutation",
+    "name": "Cute Pink Skin",
+    "description": "You have naturally pink skin tones. ~Kawaii~",
+    "points": 0,
+    "starting_trait": false,
+    "purifiable": false,
+    "player_display": false,
+	"types": "skin_tone",
+    "cancels": [
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN",
+      "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP", "SKIN_TAN_JP"
+    ]
+  },
+  {
+    "id": "SKIN_TAN_JP",
+    "type": "mutation",
+    "name": "Cute Tan Skin",
+    "description": "You have naturally tanned skin tones. ~Kawaii~",
+    "points": 0,
+    "starting_trait": false,
+    "purifiable": false,
+    "player_display": false,
+	"types": "skin_tone",
+    "cancels": [
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN",
+      "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP", "SKIN_PINK_JP"
+    ]
+  }
+]

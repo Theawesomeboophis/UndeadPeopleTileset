@@ -1,0 +1,296 @@
+[
+  {
+    "id": "EYE_BLUE_JP",
+    "type": "mutation",
+    "name": "Cute Bright Blue Eyes",
+    "description": "You have on bright blue coloured contacts. ~Kawaii~",
+    "points": 0,
+    "starting_trait": false,
+    "purifiable": false,
+    "player_display": false,
+	"types": "eye_color",
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_BLUE_JP_2",
+    "type": "mutation",
+    "name": "Cute Dark Blue Eyes",
+    "description": "You have on dark blue coloured contacts. ~Kawaii~",
+    "points": 0,
+    "starting_trait": false,
+    "purifiable": false,
+    "player_display": false,
+	"types": "eye_color",
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_BROWN_JP",
+    "type": "mutation",
+    "name": "Cute Bright Brown Eyes",
+    "description": "You have on bright brown coloured contacts. ~Kawaii~",
+    "points": 0,
+    "starting_trait": false,
+    "purifiable": false,
+    "player_display": false,
+	"types": "eye_color",
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_BROWN_JP_2",
+    "type": "mutation",
+    "name": "Cute Dark Brown Eyes",
+    "description": "You have on dark brown coloured contacts. ~Kawaii~",
+    "points": 0,
+    "starting_trait": false,
+    "purifiable": false,
+    "player_display": false,
+	"types": "eye_color",
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_GRAY_JP",
+    "type": "mutation",
+    "name": "Cute Bright Gray Eyes",
+    "description": "You have on bright gray coloured contacts. ~Kawaii~",
+    "points": 0,
+    "starting_trait": false,
+    "purifiable": false,
+    "player_display": false,
+	"types": "eye_color",
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_GRAY_JP_2",
+    "type": "mutation",
+    "name": "Cute Dark Gray Eyes",
+    "description": "You have on dark gray coloured contacts. ~Kawaii~",
+    "points": 0,
+    "starting_trait": false,
+    "purifiable": false,
+    "player_display": false,
+	"types": "eye_color",
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_GREEN_JP",
+    "type": "mutation",
+    "name": "Cute Bright Green Eyes",
+    "description": "You have on bright green coloured contacts. ~Kawaii~",
+    "points": 0,
+    "starting_trait": false,
+    "purifiable": false,
+    "player_display": false,
+	"types": "eye_color",
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_GREEN_JP_2",
+    "type": "mutation",
+    "name": "Cute Dark Green Eyes",
+    "description": "You have on dark green coloured contacts. ~Kawaii~",
+    "points": 0,
+    "starting_trait": false,
+    "purifiable": false,
+    "player_display": false,
+	"types": "eye_color",
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_PURPLE_JP",
+    "type": "mutation",
+    "name": "Cute Bright Purple Eyes",
+    "description": "You have on bright purple coloured contacts. ~Kawaii~",
+    "points": 0,
+    "starting_trait": false,
+    "purifiable": false,
+    "player_display": false,
+	"types": "eye_color",
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_PURPLE_JP_2",
+    "type": "mutation",
+    "name": "Cute Dark Purple Eyes",
+    "description": "You have on dark purple coloured contacts. ~Kawaii~",
+    "points": 0,
+    "starting_trait": false,
+    "purifiable": false,
+    "player_display": false,
+	"types": "eye_color",
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_RED_JP",
+    "type": "mutation",
+    "name": "Cute Bright Red Eyes",
+    "description": "You have on bright red coloured contacts. ~Kawaii~",
+    "points": 0,
+    "starting_trait": false,
+    "purifiable": false,
+	"player_display": false,
+	"types": "eye_color",
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_RED_JP_2",
+    "type": "mutation",
+    "name": "Cute Dark Red Eyes",
+    "description": "You have on dark red coloured contacts. ~Kawaii~",
+    "points": 0,
+    "starting_trait": false,
+    "purifiable": false,
+	"player_display": false,
+	"types": "eye_color",
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_YELLOW_JP",
+    "type": "mutation",
+    "name": "Cute Bright Yellow Eyes",
+    "description": "You have on bright yellow coloured contacts. ~Kawaii~",
+    "points": 0,
+    "starting_trait": false,
+    "purifiable": false,
+	"player_display": false,
+	"types": "eye_color",
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_YELLOW_JP_2",
+    "type": "mutation",
+    "name": "Cute Dark Yellow Eyes",
+    "description": "You have on dark yellow coloured contacts. ~Kawaii~",
+    "points": 0,
+    "starting_trait": false,
+    "purifiable": false,
+	"player_display": false,
+	"types": "eye_color",
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  }
+]
