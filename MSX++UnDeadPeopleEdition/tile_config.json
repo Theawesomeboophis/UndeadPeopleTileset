@@ -148634,6 +148634,12 @@
           "fg": 36021,
           "bg": 0,
           "rotates": false
+        },
+		{
+          "id": ["mon_turret_rifle"],
+          "fg": 36022,
+          "bg": 0,
+          "rotates": false
         }
    
    ] 
