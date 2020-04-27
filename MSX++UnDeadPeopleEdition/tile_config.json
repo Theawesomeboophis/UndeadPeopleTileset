@@ -108216,6 +108216,45 @@
             }
 			],
 			"rotates": true
+            },
+			        {
+          "id": ["t_pit_corpsed"],
+          "fg": 20836,
+		  "bg": 1012,
+		  "multitile": true,
+          "additional_tiles": [ 
+            {
+              "id": "center",
+              "fg": 20836,
+			  "bg": 1012
+            },		  
+           {
+              "id": "corner",
+              "fg": [20837, 20838, 20839, 20840],
+			  "bg": 1012
+            },
+            {
+              "id": "t_connection",
+              "fg": [20841, 20842, 20843, 20844],
+			  "bg": 1012
+            },
+            {
+              "id": "edge",
+              "fg": [20845, 20846],
+			  "bg": 1012
+            },
+            {
+              "id": "end_piece",
+              "fg": [20847, 20848, 20849, 20850],
+			  "bg": 1012
+            },
+            {
+              "id": "unconnected",
+              "fg": 20851,
+			  "bg": 1012
+            }
+			],
+			"rotates": true
             }
 			
   ]
@@ -117789,7 +117828,7 @@
           "rotates": false
         },
 		{
-          "id": "spurge_flower",
+          "id": ["spurge_flower", "spurge"],
           "fg": 22423,
           "bg": 0,
           "rotates": false
@@ -119213,7 +119252,7 @@
           "fg": 22734
         },			
 		{
-          "id": "lotus_flower",
+          "id": ["lotus_flower", "lotus"],
           "fg": 22735
         },		
         {
@@ -145079,7 +145118,7 @@
 		  "bg": 0,
           "rotates": false
         },{
-          "id": ["t_reinforced_quadruple_pane_glass_open"],
+          "id": ["t_reinforced_quadruple_pane_glass_open", "t_reinforced_quadruple_double_pane_glass_with_curtain_open_window_closed"],
           "fg": 27519,
 		  "bg": 0,
           "rotates": false
@@ -148640,10 +148679,22 @@
           "fg": 36022,
           "bg": 0,
           "rotates": false
+        },
+		{
+          "id": ["mon_turret_bmg"],
+          "fg": 36023,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["mon_crows_m240"],
+          "fg": 36024,
+          "bg": 0,
+          "rotates": false
         }
    
    ] 
-    },
+    }, 
 	{
 		"file": "19_tiles3_32x32_36077-41276.png", 
 		"tiles":
@@ -148739,6 +148790,71 @@
               "fg": 36096
             }
           ]
+        },{
+          "id": "bat_nerf",  
+          "fg": 36097,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": "overlay_wielded_bat_nerf",  
+          "fg": 36098,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": "makeshift_hose",  
+          "fg": 36099,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": "shuttlecock",  
+          "fg": 36100,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": "survivalflavor_book",  
+          "fg": 36101,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": "sweets_book",  
+          "fg": 36102,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": "vinegar_maker",  
+          "fg": 36103,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": "winemaking_beginner",  
+          "fg": 36104,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": "t_metal_grate_window_with_curtain_noglass",  
+          "fg": 36105,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": "t_metal_grate_window_with_curtain_open_noglass",  
+          "fg": 36106,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["90two", "90two40"],
+          "fg": 36107,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["overlay_wielded_90two", "overlay_wielded_90two40"],  
+          "fg": 36108,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["90two40mag"],  
+          "fg": 36109,
+		  "bg": 0,
+          "rotates": false
         }
 	]
 	}  
