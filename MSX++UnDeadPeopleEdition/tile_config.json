@@ -16550,7 +16550,7 @@
           ]
         },
         {
-          "id": "overlay_wielded_explosion",
+          "id": "!explosion",
           "bg": 972,
           "rotates": false,
           "multitile": true,
@@ -16588,7 +16588,7 @@
           ]
         },
         {
-          "id": "overlay_wielded_explosion_medium",
+          "id": "!explosion_medium",
           "bg": 972,
           "rotates": false,
           "multitile": true,
@@ -16626,7 +16626,7 @@
           ]
         },
         {
-          "id": "overlay_wielded_explosion_weak",
+          "id": "!explosion_weak",
           "bg": 23157,
           "rotates": true,
           "multitile": true,
@@ -55745,13 +55745,13 @@
           "rotates": false
         },
         {
-          "id": "pipebomb",
+          "id": ["pipebomb", "bootleg_pipebomb"],
           "fg": 3704,
           "bg": 957,
           "rotates": false
         },
         {
-          "id": "pipebomb_act",
+          "id": ["pipebomb_act", "bootleg_pipebomb_act"],
           "fg": 3705,
           "bg": 957,
           "rotates": false
@@ -63127,7 +63127,7 @@
           ]
         },
         {
-          "id": "explosion",
+          "id": "!explosion",
           "bg": 972,
           "rotates": false,
           "multitile": true,
@@ -63165,7 +63165,7 @@
           ]
         },
         {
-          "id": "explosion_medium",
+          "id": "!explosion_medium",
           "bg": 972,
           "rotates": false,
           "multitile": true,
@@ -63203,7 +63203,7 @@
           ]
         },
         {
-          "id": "explosion_weak",
+          "id": "!explosion_weak",
           "bg": 23157,
           "rotates": true,
           "multitile": true,
@@ -126573,19 +126573,19 @@
           "fg": 24054
         },	
 		{
-          "id": "makeshift_grenade",
+          "id": ["makeshift_grenade", "bootleg_grenade"],
           "fg": 24055
         },	
 		{
-          "id": "overlay_wielded_makeshift_grenade",
+          "id": ["overlay_wielded_makeshift_grenade", "overlay_wielded_bootleg_grenade"],
           "fg": 24055
         },	
 		{
-          "id": "makeshift_grenade_act",
+          "id": ["makeshift_grenade_act", "bootleg_grenade_act"],
           "fg": 24056
         },	
 		{
-          "id": "overlay_wielded_makeshift_grenade_act",
+          "id": ["overlay_wielded_makeshift_grenade_act", "overlay_wielded_bootleg_grenade_act"],
           "fg": 24056
         },	
 		{
@@ -148855,6 +148855,147 @@
           "fg": 36109,
 		  "bg": 0,
           "rotates": false
+        },{
+          "id": ["aksemi"],  
+          "fg": 36110,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["overlay_wielded_aksemi"],  
+          "fg": 36111,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["akdrum75"],  
+          "fg": 36112,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["akmag40"],  
+          "fg": 36113,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["akmag30"],  
+          "fg": 36114,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["akmag20"],  
+          "fg": 36115,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["akmag10"],  
+          "fg": 36116,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["augmag_10rd"],  
+          "fg": 36117,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["augmag_30rd", "augmag_42rd"],  
+          "fg": 36118,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["augmag_100rd"],  
+          "fg": 36119,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["overlay_wielded_grenade"],  
+          "fg": 36120,
+		  "bg": 0,
+          "rotates": false
+        },{
+          "id": ["overlay_wielded_grenade_act"],  
+          "fg": 36121,
+		  "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["overlay_wielded_pipebomb", "overlay_wielded_bootleg_pipebomb"],
+          "fg": 36122,
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": ["overlay_wielded_pipebomb_act", "overlay_wielded_bootleg_pipebomb_act"],
+          "fg": 36123,
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": ["explosion"],
+          "bg": 972,
+          "rotates": false,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "corner",
+              "fg": [36125, 36126, 36127, 36128],
+              "bg": 0
+            },
+            {
+              "id": "edge",
+              "fg": [36129, 36130],
+              "bg": 0
+            },
+            {
+              "id": "unconnected",
+              "fg": [36143],
+              "bg": 0
+            }
+          ]
+        },
+        {
+          "id": ["explosion_medium"],
+          "bg": 972,
+          "rotates": false,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "corner",
+              "fg": [36131, 36132, 36133, 36134],
+              "bg": 0
+            },
+            {
+              "id": "edge",
+              "fg": [36135, 36136],
+              "bg": 0
+            },
+            {
+              "id": "unconnected",
+              "fg": [36143],
+              "bg": 0
+            }
+          ]
+        },
+        {
+          "id": ["explosion_weak"],
+          "bg": 972,
+          "rotates": false,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "corner",
+              "fg": [36137, 36138, 36139, 36140],
+              "bg": 0
+            },
+            {
+              "id": "edge",
+              "fg": [36141, 36142],
+              "bg": 0
+            },
+            {
+              "id": "unconnected",
+              "fg": [36143],
+              "bg": 0
+            }
+          ]
         }
 	]
 	}  
