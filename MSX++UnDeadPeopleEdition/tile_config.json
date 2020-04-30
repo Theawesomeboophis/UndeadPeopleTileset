@@ -148691,6 +148691,18 @@
           "fg": 36024,
           "bg": 0,
           "rotates": false
+        },
+		{
+          "id": ["t_backboard_in"],
+          "fg": 36025,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["t_backboard"],
+          "fg": 36026,
+          "bg": 0,
+          "rotates": false
         }
    
    ] 
@@ -148996,6 +149008,54 @@
               "bg": 0
             }
           ]
+        },
+		{
+          "id": ["bone_knife"],
+          "fg": 36143,
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": ["overlay_wielded_bone_knife"],
+          "fg": 36144,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["bullwhip_razor"],
+          "fg": 36145,
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": ["overlay_wielded_bullwhip_razor"],
+          "fg": 36146,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["knife_baselard"],
+          "fg": 36147,
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": ["overlay_wielded_knife_baselard"],
+          "fg": 36148,
+          "bg": 0,
+          "rotates": false
+        },
+		{
+          "id": ["machete_gimmick"],
+          "fg": 36149,
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": ["overlay_wielded_machete_gimmick"],
+          "fg": 36150,
+          "bg": 0,
+          "rotates": false
         }
 	]
 	}  
