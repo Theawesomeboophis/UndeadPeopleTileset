@@ -148676,19 +148676,31 @@
         },
 		{
           "id": ["mon_turret_rifle"],
-          "fg": 36022,
+		  "animated": true,
+          "fg": [
+            { "weight":100, "sprite":36022},
+            { "weight":100, "sprite":36027}
+            ],
           "bg": 0,
           "rotates": false
         },
 		{
           "id": ["mon_turret_bmg"],
-          "fg": 36023,
+		  "animated": true,
+          "fg": [
+            { "weight":100, "sprite":36023},
+            { "weight":100, "sprite":36028}
+            ],
           "bg": 0,
           "rotates": false
         },
 		{
           "id": ["mon_crows_m240"],
-          "fg": 36024,
+		  "animated": true,
+          "fg": [
+            { "weight":100, "sprite":36024},
+            { "weight":100, "sprite":36029}
+            ],
           "bg": 0,
           "rotates": false
         },
@@ -149054,6 +149066,30 @@
         {
           "id": ["overlay_wielded_machete_gimmick"],
           "fg": 36150,
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": ["box_tea"],
+          "fg": 36151,
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": ["tea_bag"],
+          "fg": 36152,
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": ["herbal_tea_bag"],
+          "fg": 36153,
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": ["factory_handguard"],
+          "fg": 36154,
           "bg": 0,
           "rotates": false
         }
