@@ -4,6 +4,20 @@
 
 Tileset for Cataclysm Dark Days Ahead based on the works by Xotto, Waldo and others. My goal is to make most complete tileset for the game, with support for all mods what are out there.
 
+# UPDATE
+
+![alt text](https://steamcdn-a.akamaihd.net/steam/apps/1268900/header.jpg)
+
+This tileset was provided with generous resourses from upcoming game Nearly Dead made by Xotto and Toro. In the future it will use many item graphics from this game in this tileset which was provided to me by Xotto with no gain to him or his game except for the mention of artists. Despite that i am gonna support and promote this game and it's kickstarter page on this github for everybody to see. Please consider supporting it, it looks like awesome Cataclysm inspired real time survival game and it is made by Cataclysm modders.
+
+https://www.kickstarter.com/projects/monosw2000/nearly-dead
+
+also check their Steam page
+
+https://store.steampowered.com/app/1268900/Nearly_Dead
+
+Thank you, Xotto and Toro. Very Cool.
+
 ## Prerequisites
 
 This tileset always updating to content from latest experimental version of the game.
