@@ -148107,6 +148107,7 @@
           "id": ["fd_fire"],
           "fg": 35834,
 		  "bg": 0,
+		  "animated": true,
 		  "multitile": true,
           "additional_tiles": [ 
 			{
@@ -148136,7 +148137,11 @@
             },
             {
               "id": "unconnected",
-              "fg": 35834,
+			  
+          "fg": [
+            { "weight":100, "sprite":35834},
+            { "weight":100, "sprite":36027}
+            ],
 			  "bg": 0
             }
 			],
@@ -148715,7 +148720,23 @@
           "fg": 36026,
           "bg": 0,
           "rotates": false
-        }
+        },
+		{
+          "id": ["fd_fire"],
+		  "animated": true,
+          "fg": [
+            { "weight":11, "sprite":35834},
+            { "weight":11, "sprite":35919},
+            { "weight":11, "sprite":35920},
+            { "weight":11, "sprite":35921},
+            { "weight":11, "sprite":35922},
+            { "weight":11, "sprite":35923},
+            { "weight":11, "sprite":35924}
+            ],
+		  "bg": 0,
+
+		  "rotates": false
+			}
    
    ] 
     }, 
@@ -149091,6 +149112,12 @@
           "id": ["factory_handguard"],
           "fg": 36154,
           "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": ["mon_zombie_necro_boomer"],
+          "fg": 36155,
+          "bg": 967,
           "rotates": false
         }
 	]
