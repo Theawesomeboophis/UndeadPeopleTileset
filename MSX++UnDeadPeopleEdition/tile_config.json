@@ -24848,7 +24848,7 @@
           "fg": 1439
         },		
 		{
-          "id": ["vp_diesel_engine_i6", "vp_diesel_engine_v6", "vp_engine_v6"],
+          "id": ["vp_diesel_engine_i6", "vp_diesel_engine_v6", "vp_engine_v6", "aero_engine_light"],
           "fg": 1439,
           "rotates": true
         },
@@ -128807,7 +128807,7 @@
 		{
           "id": "mon_mutant_experimental",
           "fg": 24355,
-		  "bg": 957,
+		  "bg": 967,
           "rotates": false
         },	
 		{
@@ -149118,6 +149118,18 @@
           "id": ["mon_zombie_necro_boomer"],
           "fg": 36155,
           "bg": 967,
+          "rotates": false
+        },
+        {
+          "id": ["boots_chitin"],
+          "fg": 36156,
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": ["bell_pepper"],
+          "fg": 36157,
+          "bg": 0,
           "rotates": false
         }
 	]
