@@ -51215,11 +51215,6 @@
           "rotates": false
         },
         {
-          "id": "overlay_worn_mittens",
-          "fg": 611,
-          "rotates": false
-        },
-        {
           "id": "overlay_worn_gloves_fur",
           "fg": 612,
           "rotates": false
@@ -59545,12 +59540,6 @@
           "rotates": false
         },
         {
-          "id": "bottle_metal",
-          "fg": 1391,
-          "bg": 957,
-          "rotates": false
-        },
-        {
           "id": "canteen_wood",
           "fg": 1400,
           "bg": 957,
@@ -64129,7 +64118,15 @@
         },
         {
           "id": "weather_rain_drop",
-          "bg": 983,
+		  "fg":[
+            { "weight":11, "sprite":983},
+            { "weight":11, "sprite":36165},
+            { "weight":11, "sprite":36166},
+            { "weight":11, "sprite":36167},
+            { "weight":11, "sprite":36168},
+            { "weight":11, "sprite":36169}
+            ],
+          "bg": 0,
           "rotates": false
         },
         {
@@ -148102,9 +148099,19 @@
           "fg": 35917,
           "bg": 0,
           "rotates": false
+        },{
+          "id": "bottle_glass",
+          "fg": 35918,
+          "bg": 0,
+          "rotates": false
+        },{
+          "id": "bottle_plastic",
+          "fg": 35925,
+          "bg": 0,
+          "rotates": false
         },
 		{
-          "id": ["fd_fire"],
+          "id": ["!fd_fire"],
           "fg": 35834,
 		  "bg": 0,
 		  "animated": true,
@@ -148736,6 +148743,22 @@
 		  "bg": 0,
 
 		  "rotates": false
+			},
+		{
+          "id": ["fd_fire_vent"],
+		  "animated": true,
+          "fg": [
+            { "weight":11, "sprite":36030},
+            { "weight":11, "sprite":36031},
+            { "weight":11, "sprite":36032},
+            { "weight":11, "sprite":36033},
+            { "weight":11, "sprite":36034},
+            { "weight":11, "sprite":36035},
+            { "weight":11, "sprite":36036}
+            ],
+		  "bg": 0,
+
+		  "rotates": false
 			}
    
    ] 
@@ -149130,6 +149153,53 @@
           "id": ["bell_pepper"],
           "fg": 36157,
           "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": ["book_nonf_soft_mechnic_hotrod"],
+          "fg": 36158,
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": ["book_nonf_soft_speech_naillaw"],
+          "fg": 36159,
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": ["book_nonf_zine_news_anlyst"],
+          "fg": 36159,
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": ["cooked_bell_pepper"],
+          "fg": 36160,
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": ["cooked_bell_pepper"],
+          "fg": 36161,
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": ["seed_bell_pepper"],
+          "fg": 36162,
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": "bottle_metal",
+          "fg": 36163,
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": "overlay_worn_mittens",
+          "fg": 36164,
           "rotates": false
         }
 	]
