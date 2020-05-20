@@ -148109,6 +148109,16 @@
           "fg": 35925,
           "bg": 0,
           "rotates": false
+        },{
+          "id": "bot_turret_speaker",
+          "fg": 35926,
+          "bg": 0,
+          "rotates": false
+        },{
+          "id": "broken_turret_speaker",
+          "fg": 35927,
+          "bg": 0,
+          "rotates": false
         },
 		{
           "id": ["!fd_fire"],
