@@ -64292,12 +64292,12 @@
           "bg": 985
         },
         {
-          "id": "t_gas_tank",
+          "id": ["t_gas_tank", "t_diesel_tank"],
           "fg": 3068,
           "bg": 985
         },
         {
-          "id": "t_diesel_pump",
+          "id": ["t_diesel_pump", "t_diesel_pump_a"],
           "fg": 3018,
           "bg": 985
         },
@@ -110329,22 +110329,22 @@
           "rotates": false
         },
 		{
-          "id": "overlay_wielded_cs_lajatang_off",
+          "id": "!overlay_wielded_cs_lajatang_off",
           "fg": 22703,
           "rotates": false
         },
 		{
-          "id": "overlay_wielded_cs_lajatang_on",
+          "id": "!overlay_wielded_cs_lajatang_on",
           "fg": 22704,
           "rotates": false
         },
 		{
-          "id": "overlay_wielded_ecs_lajatang_off",
+          "id": "!overlay_wielded_ecs_lajatang_off",
           "fg": 22705,
           "rotates": false
         },
 		{
-          "id": "overlay_wielded_ecs_lajatang_on",
+          "id": "!overlay_wielded_ecs_lajatang_on",
           "fg": 22706,
           "rotates": false
         },     
@@ -139729,7 +139729,7 @@
           "fg": 26364,
           "rotates": false
         },		{
-          "id": "t_gas_tank_smashed",
+          "id": ["t_gas_tank_smashed", "t_diesel_tank_smashed"],
           "fg": 26365,
           "bg": 985,
           "rotates": false
@@ -149215,6 +149215,86 @@
         {
           "id": "match",
           "fg": 36165,
+          "rotates": false
+        },
+        {
+          "id": "overlay_worn_jacket_eod_light",
+          "fg": 36166,
+          "rotates": false
+        },
+        {
+          "id": "overlay_worn_jacket_eod",
+          "fg": 36167,
+          "rotates": false
+        },
+        {
+          "id": "overlay_worn_helmet_eod",
+          "fg": 36168,
+          "rotates": false
+        },
+        {
+          "id": "overlay_worn_helmet_eod_on",
+          "fg": 36169,
+          "rotates": false
+        },
+        {
+          "id": "overlay_worn_foot_protectors_eod",
+          "fg": 36170,
+          "rotates": false
+        },
+        {
+          "id": "overlay_worn_gloves_eod",
+          "fg": 36171,
+          "rotates": false
+        },
+        {
+          "id": "overlay_worn_trousers_eod_light",
+          "fg": 36172,
+          "rotates": false
+        },
+        {
+          "id": "overlay_worn_trousers_eod",
+          "fg": 36173,
+          "rotates": false
+        },
+        {
+          "id": "helmet_eod",
+          "fg": 36174,
+          "rotates": false
+        },
+        {
+          "id": "helmet_eod_on",
+          "fg": 36175,
+          "rotates": false
+        },
+        {
+          "id": "gloves_eod",
+          "fg": 36176,
+          "rotates": false
+        },
+        {
+          "id": "jacket_eod",
+          "fg": 36177,
+          "rotates": false
+        },
+        {
+          "id": "jacket_eod_light",
+          "fg": 36178,
+          "rotates": false
+        },
+        {
+          "id": "trousers_eod",
+          "fg": 36179,
+          "rotates": false
+        },
+        {
+          "id": "trousers_eod_light",
+          "fg": 36180,
+          "rotates": false
+        },
+        {
+          "id": "foot_protectors_eod",
+          "fg": 36181,
           "rotates": false
         }
 	]

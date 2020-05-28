@@ -7,7 +7,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	"player_display": false,
+	"player_display": false, 
+    "valid": false,
 	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
@@ -37,7 +38,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	"player_display": false,
+	"player_display": false, 
+    "valid": false,
 	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
@@ -67,7 +69,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	"player_display": false,
+	"player_display": false, 
+    "valid": false,
 	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
@@ -97,7 +100,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	"player_display": false,
+	"player_display": false, 
+    "valid": false,
 	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
@@ -127,7 +131,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	"player_display": false,
+	"player_display": false, 
+    "valid": false,
 	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
@@ -157,7 +162,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	"player_display": false,
+	"player_display": false, 
+    "valid": false,
 	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
@@ -187,7 +193,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	"player_display": false,
+	"player_display": false, 
+    "valid": false,
 	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
@@ -217,7 +224,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	"player_display": false,
+	"player_display": false, 
+    "valid": false,
 	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
@@ -247,7 +255,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	"player_display": false,
+	"player_display": false, 
+    "valid": false,
 	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
@@ -277,7 +286,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	"player_display": false,
+	"player_display": false, 
+    "valid": false,
 	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
@@ -307,7 +317,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	"player_display": false,
+	"player_display": false, 
+    "valid": false,
 	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
@@ -337,7 +348,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	"player_display": false,
+	"player_display": false, 
+    "valid": false,
 	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",

@@ -7,7 +7,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-	"player_display": false,
+	"player_display": false, 
+    "valid": false,
     "types": [ "eye_color" ]
   },
   {
@@ -18,7 +19,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-	"player_display": false,
+	"player_display": false, 
+    "valid": false,
     "types": [ "eye_color" ]
   },
   {
@@ -29,7 +31,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-	"player_display": false,
+	"player_display": false, 
+    "valid": false,
     "types": [ "eye_color" ]
   },
   {
@@ -40,7 +43,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-	"player_display": false,
+	"player_display": false, 
+    "valid": false,
     "types": [ "eye_color" ]
   },
   {
@@ -51,7 +55,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-	"player_display": false,
+	"player_display": false, 
+    "valid": false,
     "types": [ "eye_color" ]
   },
   {
@@ -62,7 +67,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-	"player_display": false,
+	"player_display": false, 
+    "valid": false,
     "types": [ "eye_color" ]
   }
 ]

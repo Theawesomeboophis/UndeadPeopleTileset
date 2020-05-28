@@ -7,7 +7,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-    "player_display": false,
+    "player_display": false, 
+    "valid": false,
 	"types": "skin_tone",
     "cancels": [
       "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN",
@@ -22,7 +23,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-    "player_display": false,
+    "player_display": false, 
+    "valid": false,
 	"types": "skin_tone",
     "cancels": [
       "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN",
@@ -37,7 +39,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-    "player_display": false,
+    "player_display": false, 
+    "valid": false,
 	"types": "skin_tone",
     "cancels": [
       "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN",
@@ -52,7 +55,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-    "player_display": false,
+    "player_display": false, 
+    "valid": false,
 	"types": "skin_tone",
     "cancels": [
       "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN",
@@ -67,7 +71,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-    "player_display": false,
+    "player_display": false, 
+    "valid": false,
 	"types": "skin_tone",
     "cancels": [
       "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN",
@@ -82,7 +87,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-    "player_display": false,
+    "player_display": false, 
+    "valid": false,
 	"types": "skin_tone",
     "cancels": [
       "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN",
