@@ -149296,6 +149296,11 @@
           "id": "foot_protectors_eod",
           "fg": 36181,
           "rotates": false
+        },
+        {
+          "id": "overlay_wielded_SKS",
+          "fg": 36182,
+          "rotates": false
         }
 	]
 	}  
