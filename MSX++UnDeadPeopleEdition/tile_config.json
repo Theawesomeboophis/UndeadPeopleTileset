@@ -81,7 +81,8 @@
 		  "halo_elecresist",
 		  "halo_light",
 		  "halo_shadowsnakes",
-		  "c_atomic_battery_power"
+		  "c_atomic_battery_power",
+		  "fd_shadow"
 		  
 		  
 		  
@@ -148119,6 +148120,11 @@
           "fg": 35927,
           "bg": 0,
           "rotates": false
+        },{
+          "id": "f_sand_castle",
+          "fg": 35928,
+          "bg": 0,
+          "rotates": false
         },
 		{
           "id": ["!fd_fire"],
@@ -149300,6 +149306,36 @@
         {
           "id": "overlay_wielded_SKS",
           "fg": 36182,
+          "rotates": false
+        },
+        {
+          "id": "overlay_wielded_1st_aid",
+          "fg": 36183,
+          "rotates": false
+        },
+        {
+          "id": "overlay_wielded_portable_game",
+          "fg": 36184,
+          "rotates": false
+        },
+        {
+          "id": "sandbox_kit",
+          "fg": 36185,
+          "rotates": false
+        },
+        {
+          "id": "toecaps",
+          "fg": 36186,
+          "rotates": false
+        },
+        {
+          "id": "overlay_worn_toecaps",
+          "fg": 36187,
+          "rotates": false
+        },
+        {
+          "id": "",
+          "fg": 36186,
           "rotates": false
         }
 	]
