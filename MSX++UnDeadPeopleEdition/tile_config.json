@@ -149334,8 +149334,13 @@
           "rotates": false
         },
         {
-          "id": "",
-          "fg": 36186,
+          "id": "jacket_leather_mod",
+          "fg": 36188,
+          "rotates": false
+        },
+        {
+          "id": "overlay_worn_jacket_leather_mod",
+          "fg": 36189,
           "rotates": false
         }
 	]
