@@ -1,17 +1,3 @@
-# UPDATE
-
-![alt text](https://steamcdn-a.akamaihd.net/steam/apps/1268900/header.jpg)
-
-This tileset was provided with generous resourses from upcoming game Nearly Dead made by Xotto and Toro. In the future it will use many item graphics from this game in this tileset which was provided to me by Xotto with no gain to him or his game except for the mention of artists. Despite that i am gonna support and promote this game and it's kickstarter page on this github for everybody to see. Please consider supporting it, it looks like awesome Cataclysm inspired real time survival game and it is made by Cataclysm modders.
-
-https://www.kickstarter.com/projects/monosw2000/nearly-dead
-
-also check their Steam page
-
-https://store.steampowered.com/app/1268900/Nearly_Dead
-
-Thank you, Xotto and Toro. Very Cool.
-
 # MSX++UndeadPeople Tileset
 
 ![alt text](https://i.imgur.com/BFQzWtC.png)
@@ -56,3 +42,21 @@ https://github.com/YukariMindGap/Nechronica_Redux
 https://github.com/Zetsukaze/Zets-Hair-Extensions (old version, do not use with Undead People)
 
 Use updated version in tileset mods/Zets-Hair-Extensions_Undead folder.
+
+# Nearly Dead
+
+![alt text](https://steamcdn-a.akamaihd.net/steam/apps/1268900/header.jpg)
+
+This tileset was provided with generous resourses from upcoming game Nearly Dead made by Xotto and Toro. In the future it will use many item graphics from this game in this tileset which was provided to me by Xotto with no gain to him or his game except for the mention of artists. Despite that i am gonna support and promote this game on this github for everybody to see. Please consider supporting it in the future, it looks like awesome Cataclysm inspired real time survival game and it is made by Cataclysm modders.
+
+https://store.steampowered.com/app/1268900/Nearly_Dead
+
+Check their successful Kickstarter page:
+
+https://www.kickstarter.com/projects/monosw2000/nearly-dead
+
+
+
+
+
+Thank you, Xotto and Toro. Very Cool.
