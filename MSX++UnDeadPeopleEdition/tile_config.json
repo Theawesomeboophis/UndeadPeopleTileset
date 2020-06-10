@@ -47039,13 +47039,13 @@
           "rotates": false
         },
         {
-          "id": [ "556", "bp_556" ],
+          "id": [ "!556", "!bp_556" ],
           "fg": 61,
           "bg": 957,
           "rotates": false
         },
         {
-          "id": [ "556_incendiary", "bp_556_incendiary" ],
+          "id": [ "!556_incendiary", "!bp_556_incendiary" ],
           "fg": 62,
           "bg": 957,
           "rotates": false
@@ -53946,7 +53946,7 @@
           "rotates": false
         },
         {
-          "id": ["8mm_bootleg_jsp", "270win_jsp", "reloaded_270win_jsp", "bp_270win_jsp" ], 
+          "id": ["8mm_bootleg_jsp", "270win_jsp", "!reloaded_270win_jsp", "!bp_270win_jsp" ], 
           "fg": 3937,
           "bg": 957,
           "rotates": false
