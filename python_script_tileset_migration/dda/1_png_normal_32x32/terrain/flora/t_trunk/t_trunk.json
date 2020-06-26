@@ -1,0 +1,94 @@
+{
+  "id": "t_trunk",
+  "fg": [
+    "t_trunk"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "center"
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "corner_1",
+        "corner_2",
+        "corner_3",
+        "corner_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_connection_1",
+        "t_connection_2",
+        "t_connection_3",
+        "t_connection_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "edge_1",
+        "edge_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "end_piece_1",
+        "end_piece_2",
+        "end_piece_3",
+        "end_piece_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        {
+          "weight": 100,
+          "sprite": "unconnected_1"
+        },
+        {
+          "weight": 1,
+          "sprite": "unconnected_2"
+        },
+        {
+          "weight": 1,
+          "sprite": "unconnected_3"
+        },
+        {
+          "weight": 1,
+          "sprite": "unconnected_4"
+        },
+        {
+          "weight": 1,
+          "sprite": "unconnected_5"
+        },
+        {
+          "weight": 1,
+          "sprite": "unconnected_6"
+        },
+        {
+          "weight": 1,
+          "sprite": "unconnected_7"
+        },
+        {
+          "weight": 1,
+          "sprite": "unconnected_8"
+        }
+      ],
+      "bg": []
+    }
+  ]
+}

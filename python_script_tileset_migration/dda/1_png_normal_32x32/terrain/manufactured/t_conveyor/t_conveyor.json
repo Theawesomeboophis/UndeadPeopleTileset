@@ -1,0 +1,39 @@
+{
+  "id": "t_conveyor",
+  "fg": [
+    "t_conveyor"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "edge",
+      "fg": [
+        "edge"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "end_piece"
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "corner"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_connection"
+      ],
+      "bg": []
+    }
+  ]
+}

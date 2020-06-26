@@ -1,0 +1,53 @@
+{
+  "id": "t_cvdbody",
+  "fg": [
+    "t_cvdbody"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "corner",
+      "fg": [
+        "corner"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_connection"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "end_piece"
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "unconnected"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "edge"
+      ],
+      "bg": []
+    },
+    {
+      "id": "center",
+      "fg": [
+        "center"
+      ],
+      "bg": []
+    }
+  ]
+}

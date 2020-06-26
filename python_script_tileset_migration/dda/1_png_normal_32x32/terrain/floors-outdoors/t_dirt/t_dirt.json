@@ -1,0 +1,55 @@
+{
+  "id": "t_dirt",
+  "fg": [
+    {
+      "weight": 40,
+      "sprite": "t_dirt_1"
+    },
+    {
+      "weight": 30,
+      "sprite": "t_dirt_2"
+    },
+    {
+      "weight": 30,
+      "sprite": "t_dirt_3"
+    },
+    {
+      "weight": 30,
+      "sprite": "t_dirt_4"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_dirt_5"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_dirt_6"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_dirt_7"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_dirt_8"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_dirt_9"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_dirt_10"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_dirt_11"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_dirt_12"
+    }
+  ],
+  "bg": [],
+  "rotates": false
+}

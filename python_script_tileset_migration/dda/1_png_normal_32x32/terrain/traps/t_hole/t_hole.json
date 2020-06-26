@@ -1,0 +1,52 @@
+{
+  "id": "t_hole",
+  "fg": [
+    "t_hole"
+  ],
+  "bg": [],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "unconnected",
+      "fg": [
+        "unconnected"
+      ],
+      "bg": []
+    },
+    {
+      "id": "center",
+      "fg": [
+        "center"
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "corner"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "edge"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "end_piece"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_connection"
+      ],
+      "bg": []
+    }
+  ]
+}

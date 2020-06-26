@@ -1,0 +1,231 @@
+{
+  "id": "t_swater_dp",
+  "fg": [
+    "t_swater_dp"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "center_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "center_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "center_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "center_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "center_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "center_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "center_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "center_8"
+        },
+        {
+          "weight": 30,
+          "sprite": "center_9"
+        }
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "corner_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "corner_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "corner_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "corner_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "corner_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "corner_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "corner_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "corner_8"
+        },
+        {
+          "weight": 30,
+          "sprite": "corner_9"
+        }
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_connection_1",
+        "t_connection_2",
+        "t_connection_3",
+        "t_connection_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "edge_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "edge_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "edge_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "edge_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "edge_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "edge_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "edge_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "edge_8"
+        },
+        {
+          "weight": 30,
+          "sprite": "edge_9"
+        }
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "end_piece_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "end_piece_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "end_piece_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "end_piece_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "end_piece_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "end_piece_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "end_piece_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "end_piece_8"
+        },
+        {
+          "weight": 30,
+          "sprite": "end_piece_9"
+        }
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "unconnected_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "unconnected_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "unconnected_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "unconnected_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "unconnected_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "unconnected_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "unconnected_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "unconnected_8"
+        },
+        {
+          "weight": 30,
+          "sprite": "unconnected_9"
+        }
+      ],
+      "bg": []
+    }
+  ]
+}

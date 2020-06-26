@@ -1,0 +1,31 @@
+{
+  "id": "t_missile_exploded",
+  "fg": [
+    "t_missile_exploded"
+  ],
+  "bg": [],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "corner",
+      "fg": [
+        "corner"
+      ],
+      "bg": []
+    },
+    {
+      "id": "center",
+      "fg": [
+        "center"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_connection"
+      ],
+      "bg": []
+    }
+  ]
+}
