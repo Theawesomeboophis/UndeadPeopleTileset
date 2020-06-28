@@ -19197,7 +19197,7 @@
           "rotates": false
         },
         {
-          "id": "t_carpet_red",
+          "id": ["t_carpet_red", "t_carpet_concrete_red"],
           "fg": 19364,
           "bg": 987,
           "multitile": true,
