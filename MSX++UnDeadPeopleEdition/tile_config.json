@@ -1386,7 +1386,6 @@
         { "id": "overlay_wielded_bag_canvas", "fg": 800, "rotates": false },
         { "id": "overlay_wielded_bag_canvas_small", "fg": 800, "rotates": false },
         { "id": "overlay_worn_swat_armor", "fg": 801, "bg": 36093, "rotates": false },
-        { "id": "swat_armor", "fg": 801 },
         { "id": "overlay_worn_swat_shield", "fg": 802, "rotates": false },
         { "id": "overlay_worn_swat_shield_act", "fg": 803, "rotates": false },
         { "id": [ "swat_shield", "swat_shield_act" ], "fg": 803, "rotates": false },
@@ -1800,7 +1799,7 @@
         { "id": "cestus", "fg": 1704, "bg": 957, "rotates": false },
         { "id": "chain", "fg": 1705, "bg": 957, "rotates": false },
         {
-          "id": [ "char_kiln", "kiln", "kilnrig", "vp_veh_kiln", "fake_char_kiln" ],
+          "id": [ "char_kiln", "kiln", "kilnrig", "fake_char_kiln" ],
           "fg": 1706,
           "bg": 957,
           "rotates": false
@@ -2566,7 +2565,6 @@
         { "id": "camera", "fg": 3463, "bg": 957, "rotates": false },
         { "id": "brick_kiln", "fg": 3457, "bg": 957, "rotates": false },
         { "id": "brazier", "fg": 3456, "bg": 957, "rotates": false },
-        { "id": "f_brazier", "fg": 3456, "bg": 957, "rotates": false },
         { "id": "battleaxe_inferior", "fg": 1649, "bg": 957, "rotates": false },
         { "id": "battleaxe", "fg": 3443, "bg": 957, "rotates": false },
         { "id": "barometer", "fg": 3442, "bg": 957, "rotates": false },
@@ -3212,7 +3210,7 @@
         { "id": "mon_tripod", "fg": 2641, "bg": 967, "rotates": false },
         { "id": "mon_turkey", "fg": 2642, "bg": 967, "rotates": false },
         { "id": [ "mon_turret", "mon_turret_9mm" ], "fg": 2643, "bg": 5239, "rotates": false },
-        { "id": [ "mon_turret_rifle", "mon_milturret_556" ], "fg": 2644, "bg": 5239, "rotates": false },
+        { "id": [ "mon_milturret_556" ], "fg": 2644, "bg": 5239, "rotates": false },
         { "id": "mon_twisted_body", "fg": 2647, "bg": 967, "rotates": false },
         { "id": "mon_vinebeast", "fg": 2651, "bg": 967, "rotates": false },
         { "id": "mon_vortex", "fg": 4274, "rotates": false },
@@ -3745,7 +3743,6 @@
           "bg": 0
         },
         { "id": "sheet_metal_lit", "fg": 0, "bg": 1916 },
-        { "id": "t_backboard", "fg": 2969, "bg": 985, "rotates": false },
         { "id": "t_gas_pump", "fg": 3066, "bg": 985, "rotates": false },
         { "id": "t_gas_pump_smashed", "fg": 3067, "bg": 985, "rotates": false },
         { "id": "t_ladder_up", "fg": 3105, "bg": 985, "rotates": false },
@@ -7962,7 +7959,7 @@
         { "id": [ "overlay_wielded_laser_rifle_cheap", "overlay_wielded_wattz_2000" ], "fg": 4950, "rotates": false },
         { "id": [ "pebble_hopper", "bb_hopper", "bolt_hopper", "cannister_rack" ], "fg": 4951, "rotates": false },
         { "id": "aperture_potato", "fg": 4952, "rotates": false },
-        { "id": [ "mon_turret_bmg", "mon_milturret_50bmg" ], "fg": 4953, "bg": 5239, "rotates": false },
+        { "id": [ "mon_milturret_50bmg" ], "fg": 4953, "bg": 5239, "rotates": false },
         {
           "id": "f_target",
           "fg": [ { "weight": 11, "sprite": 4954 }, { "weight": 11, "sprite": 4955 } ],
@@ -9504,7 +9501,6 @@
         { "id": "t_floor_waxed_y", "fg": 3056, "rotates": false },
         { "id": [ "f_standing_tank" ], "fg": 3068 },
         { "id": [ "t_bulk_tank" ], "fg": 3068, "bg": 5010 },
-        { "id": "t_backboard_in", "fg": 2969, "bg": 3058, "rotates": false },
         { "id": "t_gates_control_brick", "fg": 3071, "rotates": false },
         {
           "id": [ "t_gates_control_concrete", "t_reinforced_glass_control", "t_containment_control" ],
@@ -17532,7 +17528,7 @@
           "rotates": false
         },
         {
-          "id": [ "fd_fire", "fd_fire_vent", "fd_flame_burst" ],
+          "id": [ "fd_flame_burst" ],
           "fg": 17860,
           "multitile": true,
           "additional_tiles": [
@@ -17542,20 +17538,6 @@
             { "id": "edge", "fg": [ 17869, 17870 ], "bg": 972 },
             { "id": "end_piece", "fg": [ 17871, 17872, 17873, 17874 ], "bg": 972 },
             { "id": "unconnected", "fg": 17875, "bg": 972 }
-          ],
-          "rotates": false
-        },
-        {
-          "id": [ "fd_fire_vent" ],
-          "fg": 17876,
-          "multitile": true,
-          "additional_tiles": [
-            { "id": "center", "fg": 17876, "bg": 972 },
-            { "id": "corner", "fg": [ 17877, 17878, 17879, 17880 ], "bg": 972 },
-            { "id": "t_connection", "fg": [ 17881, 17882, 17883, 17884 ], "bg": 972 },
-            { "id": "edge", "fg": [ 17885, 17886 ], "bg": 972 },
-            { "id": "end_piece", "fg": [ 17887, 17888, 17889, 17890 ], "bg": 972 },
-            { "id": "unconnected", "fg": 17891, "bg": 972 }
           ],
           "rotates": false
         },
@@ -18474,6 +18456,20 @@
             { "id": "end_piece", "fg": [ 18879, 18880, 18881, 18882 ], "bg": 0 },
             { "id": "unconnected", "fg": 18883, "bg": 0 }
           ]
+        },        {
+          "id": "t_wall_p",
+          "fg": 18884,
+          "bg": 0,
+          "rotates": false,
+          "multitile": true,
+          "additional_tiles": [
+            { "id": "center", "fg": 18884, "bg": 0 },
+            { "id": "corner", "fg": [ 18885, 18886, 18887, 18888 ], "bg": 0 },
+            { "id": "t_connection", "fg": [ 18889, 18890, 18891, 18892 ], "bg": 0 },
+            { "id": "edge", "fg": [ 18893, 18894 ], "bg": 0 },
+            { "id": "end_piece", "fg": [ 18895, 18896, 18897, 18898 ], "bg": 0 },
+            { "id": "unconnected", "fg": 18899, "bg": 0 }
+          ]
         },
         {
           "id": "t_wall_y",
@@ -19232,7 +19228,7 @@
           "rotates": false
         },
         {
-          "id": "t_wall_P",
+          "id": ["t_wall_P"],
           "fg": 19668,
           "bg": 986,
           "multitile": true,
@@ -26245,7 +26241,6 @@
         { "id": [ "overlay_worn_crt_helmet" ], "fg": 25832, "bg": 0, "rotates": false },
         { "id": [ "crt_helmet_on" ], "fg": 25833, "bg": 0, "rotates": false },
         { "id": [ "overlay_worn_crt_helmet_on" ], "fg": 25834, "bg": 0, "rotates": false },
-        { "id": [ "mon_crows_m240" ], "fg": 25835, "bg": 967, "rotates": false },
         { "id": [ "bot_crows_m240" ], "fg": 25836, "bg": 967, "rotates": false },
         { "id": [ "broken_crows_m240" ], "fg": 25837, "bg": 967, "rotates": false },
         { "id": [ "death_note" ], "fg": 25838, "bg": 0, "rotates": false },
