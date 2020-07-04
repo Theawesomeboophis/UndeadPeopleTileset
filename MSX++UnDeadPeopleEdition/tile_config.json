@@ -6,6 +6,10 @@
     {
       "file": "1_tiles_32x32_0-5199.png",
       "tiles": [
+	  { "id": "bg_shadow", "fg": 967, "rotates": false },
+	  { "id": "bg_car", "fg": 1005, "rotates": false },
+	  { "id": "bg_carcargo", "fg": 1006, "rotates": false },
+	  { "id": "bioniocs_pack_common", "fg": 1016, "rotates": false },
         {
           "id": [
             "tear_gas_payload",
@@ -5025,7 +5029,6 @@
         { "id": "f_skin_groundsheet", "fg": 1510 },
         { "id": "t_raincatcher", "fg": 3174, "bg": 1510, "rotates": false },
         { "id": "f_file_cabinet", "fg": 1511, "rotates": false },
-        { "id": "f_locker", "fg": 1511, "rotates": false },
         { "id": [ "f_fireplace", "fake_fireplace" ], "fg": 1512, "rotates": false },
         { "id": [ "f_floor_canvas", "f_punching_bag" ], "fg": 1513, "rotates": false },
         { "id": "f_flower_marloss", "fg": 1515, "bg": 967, "rotates": false },
@@ -5078,26 +5081,19 @@
           ]
         },
         { "id": "f_gunsafe_mj", "fg": 1524, "rotates": false },
-        { "id": "f_gunsafe_ml", "fg": 1525, "rotates": false },
         { "id": "f_gun_safe_el", "fg": 1526, "rotates": false },
         { "id": "f_hay", "fg": 1527, "rotates": false },
         {
           "id": "f_indoor_plant",
           "fg": [
-            { "weight": 10, "sprite": 1529 },
-            { "weight": 10, "sprite": 27767 },
-            { "weight": 10, "sprite": 27768 },
-            { "weight": 10, "sprite": 27769 }
+            { "weight": 10, "sprite": 1529 }
           ],
           "rotates": false
         },
         {
           "id": "f_indoor_plant_y",
           "fg": [
-            { "weight": 1, "sprite": 1530 },
-            { "weight": 0, "sprite": 27767 },
-            { "weight": 0, "sprite": 27768 },
-            { "weight": 0, "sprite": 27769 }
+            { "weight": 1, "sprite": 1530 }
           ],
           "rotates": false
         },
@@ -5121,7 +5117,6 @@
         { "id": "f_mutpoppy", "fg": 1545, "rotates": false },
         { "id": "f_oven", "fg": 1546, "rotates": false },
         { "id": "f_pinball_machine", "fg": 1547, "rotates": false },
-        { "id": "f_rack", "fg": 1555, "rotates": false },
         { "id": "blaze_mag_hbolt", "fg": 3986, "rotates": false },
         { "id": "f_safe_c", "fg": 1558, "rotates": false },
         { "id": "safe_box", "fg": 1558 },
@@ -26924,6 +26919,12 @@
       "sprite_offset_x": -16,
       "sprite_offset_y": -48,
       "tiles": [
+	  { "id": "bg_big_dirt", "fg": 32977, "rotates": false },
+	  { "id": "bg_big_snow", "fg": 32978, "rotates": false },
+	  { "id": "bg_big_fungal_dirt", "fg": 32979, "rotates": false },
+	  { "id": "bg_big_fungal_snow", "fg": 32980, "rotates": false },
+        { "id": [ "t_tree_season_summer", "t_tree", "t_region_tree" ], "fg": 32766, "bg": 32977, "rotates": false },
+	  
         { "id": "t_tree_season_spring", "fg": 32765, "bg": 32977, "rotates": false },
         { "id": [ "t_tree_season_summer", "t_tree", "t_region_tree" ], "fg": 32766, "bg": 32977, "rotates": false },
         { "id": "t_tree_season_autumn", "fg": 32767, "bg": 32977, "rotates": false },
@@ -27484,7 +27485,8 @@
       "sprite_height": 80,
       "sprite_offset_x": -16,
       "sprite_offset_y": -48,
-      "tiles": [
+      "tiles": [        
+	  { "id": "bg_big_pavement", "fg": 35759, "bg": 0, "rotates": false },
         {
           "id": "t_radio_tower",
           "fg": 35758,
@@ -27986,7 +27988,11 @@
         { "id": "mon_exodii_quad", "fg": 36205, "bg": 967, "rotates": false },
         { "id": "broken_exodii_quad", "fg": 36206, "rotates": false },
         { "id": "mon_zomborg", "fg": 36207, "bg": 967, "rotates": false },
-        { "id": "corpse_mon_zomborg", "fg": 36208, "rotates": false }
+        { "id": "corpse_mon_zomborg", "fg": 36208, "rotates": false },
+        { "id": "f_gunsafe_ml", "fg": 36209, "rotates": false },
+        { "id": "f_locker", "fg": 36210, "rotates": false },
+        { "id": "f_rack", "fg": 36211, "rotates": false },
+        { "id": [ "f_rack_wood" ], "fg": 36212, "bg": 0, "rotates": false }
       ]
     }
   ]
