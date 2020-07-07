@@ -18667,6 +18667,36 @@
             { "id": "unconnected", "fg": 20899, "bg": 1012 }
           ],
           "rotates": true
+        },
+        {
+          "id": [ "t_concrete_wall_flesh" ],
+          "fg": 20900,
+          "bg": 1012,
+          "multitile": true,
+          "additional_tiles": [
+            { "id": "center", "fg": 20900, "bg": 1012 },
+            { "id": "corner", "fg": [ 20901, 20902, 20903, 20904 ], "bg": 1012 },
+            { "id": "t_connection", "fg": [ 20905, 20906, 20907, 20908 ], "bg": 1012 },
+            { "id": "edge", "fg": [ 20909, 20910 ], "bg": 1012 },
+            { "id": "end_piece", "fg": [ 20911, 20912, 20913, 20914 ], "bg": 1012 },
+            { "id": "unconnected", "fg": 20915, "bg": 1012 }
+          ],
+          "rotates": true
+        },
+        {
+          "id": [ "t_thconc_floor_flesh" ],
+          "fg": 20916,
+          "bg": 1012,
+          "multitile": true,
+          "additional_tiles": [
+            { "id": "center", "fg": 20916, "bg": 1012 },
+            { "id": "corner", "fg": [ 20917, 20918, 20919, 20920 ], "bg": 1012 },
+            { "id": "t_connection", "fg": [ 20921, 20922, 20923, 20924 ], "bg": 1012 },
+            { "id": "edge", "fg": [ 20925, 20926 ], "bg": 1012 },
+            { "id": "end_piece", "fg": [ 20927, 20928, 20929, 20930 ], "bg": 1012 },
+            { "id": "unconnected", "fg": 20931, "bg": 1012 }
+          ],
+          "rotates": true
         }
       ]
     },
@@ -27824,6 +27854,40 @@
           ],
           "bg": 0,
           "rotates": false
+        },
+        {
+          "id": [ "mon_zombie_scissorlimbs" ],
+          "fg": 36037,
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": [ "mon_zombie_giant_heart" ],
+          "animated": true,
+          "fg": [
+            { "weight": 11, "sprite": 36038 },
+            { "weight": 11, "sprite": 36039 },
+            { "weight": 11, "sprite": 36040 }
+          ],
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": [ "corpse_mon_zombie_giant_heart" ],
+          "fg": 36041,
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": [ "mon_zombie_hanging_innards" ],
+          "animated": true,
+          "fg": [
+            { "weight": 11, "sprite": 36042 },
+            { "weight": 11, "sprite": 36043 },
+            { "weight": 11, "sprite": 36044 }
+          ],
+          "bg": 0,
+          "rotates": false
         }
       ]
     },
@@ -27989,10 +28053,28 @@
         { "id": "broken_exodii_quad", "fg": 36206, "rotates": false },
         { "id": "mon_zomborg", "fg": 36207, "bg": 967, "rotates": false },
         { "id": "corpse_mon_zomborg", "fg": 36208, "rotates": false },
-        { "id": "f_gunsafe_ml", "fg": 36209, "rotates": false },
+        { "id": ["f_gunsafe_ml", "f_gunsafe_mj"], "fg": 36209, "rotates": false },
         { "id": "f_locker", "fg": 36210, "rotates": false },
         { "id": "f_rack", "fg": 36211, "rotates": false },
-        { "id": [ "f_rack_wood" ], "fg": 36212, "bg": 0, "rotates": false }
+        { "id": [ "f_rack_wood" ], "fg": 36212, "bg": 0, "rotates": false },
+        { "id": "rake", "fg": 36213, "rotates": false },
+        { "id": [ "overlay_wielded_rake" ], "fg": 36214, "bg": 0, "rotates": false },
+        { "id": [ "sandpaper" ], "fg": 36215, "bg": 0, "rotates": false },
+        { "id": [ "basic_chemistry" ], "fg": 36216, "bg": 0, "rotates": false },
+        { "id": [ "scots_cookbook", "scots_tailor" ], "fg": 36217, "bg": 0, "rotates": false },
+        { "id": [ "radio_car_box" ], "fg": 36218, "bg": 0, "rotates": false },
+        { "id": [ "mon_tiger" ], "fg": 36219, "bg": 967, "rotates": false },
+        { "id": [ "corpse_mon_tiger" ], "fg": 36220, "bg": 0, "rotates": false },
+        { "id": [ "mon_ziger" ], "fg": 36221, "bg": 967, "rotates": false },
+        { "id": [ "corpse_mon_ziger" ], "fg": 36222, "bg": 0, "rotates": false },
+        { "id": [ "t_ramp_down_high" ], "fg": 36223, "bg": 0, "rotates": false },
+        { "id": [ "t_ramp_down_low" ], "fg": 36224, "bg": 0, "rotates": false },
+        { "id": [ "t_ramp_up_high" ], "fg": 36225, "bg": 0, "rotates": false },
+        { "id": [ "t_ramp_up_low" ], "fg": 36226, "bg": 0, "rotates": false },
+        { "id": [ "t_sidewalk_ramp_down_high" ], "fg": 36227, "bg": 0, "rotates": false },
+        { "id": [ "t_sidewalk_ramp_down_low" ], "fg": 36228, "bg": 0, "rotates": false },
+        { "id": [ "t_sidewalk_ramp_up_high" ], "fg": 36229, "bg": 0, "rotates": false },
+        { "id": [ "t_sidewalk_ramp_up_low" ], "fg": 36230, "bg": 0, "rotates": false }
       ]
     }
   ]
