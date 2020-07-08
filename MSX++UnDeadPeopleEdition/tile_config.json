@@ -486,7 +486,7 @@
         { "id": "solder_wire", "fg": 234, "rotates": false },
         { "id": "steel_chunk", "fg": 235, "rotates": false },
         { "id": "lead_plate", "fg": 235 },
-        { "id": "tripwire", "fg": 3800, "bg": 235 },
+        { "id": "tripwire", "fg": 3800, "bg": 0 },
         { "id": "steel_lump", "fg": 236, "rotates": false },
         { "id": "thread", "fg": 237, "rotates": false },
         { "id": "throwing_axe", "fg": 238, "bg": 957 },
@@ -3072,7 +3072,26 @@
           "bg": 967,
           "rotates": false
         },
-        { "id": "mon_zombie_cop", "fg": 2692, "bg": 967, "rotates": false },
+        { "id": "mon_zombie_cop", "fg": [
+            { "weight": 1, "sprite": 2692 },
+            { "weight": 1, "sprite": 12292 },
+            { "weight": 1, "sprite": 12293 },
+            { "weight": 1, "sprite": 12294 },
+            { "weight": 1, "sprite": 12295 },
+            { "weight": 1, "sprite": 12296 },
+            { "weight": 1, "sprite": 12297 },
+            { "weight": 1, "sprite": 12298 },
+			{ "weight": 1, "sprite": 12299 },
+            { "weight": 1, "sprite": 12300 },
+            { "weight": 1, "sprite": 12301 },
+            { "weight": 1, "sprite": 12302 },
+            { "weight": 1, "sprite": 12303 },
+			{ "weight": 1, "sprite": 12304 },
+            { "weight": 1, "sprite": 12305 },
+            { "weight": 1, "sprite": 12306 },
+            { "weight": 1, "sprite": 12307 }
+          ],
+		"bg": 967, "rotates": false },
         { "id": "mon_zombie_crawler", "fg": 2694, "bg": 967, "rotates": false },
         { "id": "mon_zombie_electric", "fg": 2703, "bg": 967, "rotates": false },
         { "id": "mon_zombie_fireman", "fg": 2713, "bg": 967, "rotates": false },
@@ -3763,8 +3782,6 @@
           ]
         },
         { "id": "tr_beartrap", "bg": 998, "rotates": false },
-        { "id": "tr_beartrap_buried", "fg": 3916, "bg": 998, "rotates": false },
-        { "id": "tr_beartrap_buried_season_winter", "fg": 3917, "bg": 998 },
         {
           "id": "tr_drain",
           "bg": 999,
@@ -4852,7 +4869,7 @@
         { "id": "poppysyrup", "fg": 1379 },
         { "id": [ "yoghurt", "icecream_yogurt" ], "fg": 1382, "rotates": false },
         { "id": "pepto", "fg": 1382, "rotates": false },
-        { "id": "flask_yeast", "fg": 1738, "bg": 1382 },
+        { "id": "flask_yeast", "fg": 1738 },
         { "id": "irradiated_zucchini", "fg": 1383, "rotates": false },
         { "id": "2lcanteen", "fg": 1384, "rotates": false },
         { "id": "30gal_drum", "fg": 1385, "rotates": false },
@@ -8301,7 +8318,7 @@
         { "id": "advanced_ecig", "fg": 3435, "rotates": false },
         { "id": "ecig", "fg": 3435, "rotates": false },
         { "id": "adv_UPS_off", "fg": 3436, "rotates": false },
-        { "id": "battery_ups", "fg": 3820, "bg": 3436 },
+        { "id": "battery_ups", "fg": 3820 },
         { "id": "airhorn", "fg": 3437, "rotates": false },
         { "id": "f_anvil", "fg": 3438, "rotates": false },
         { "id": "beartrap", "fg": 3446, "rotates": false },
@@ -15309,7 +15326,7 @@
             "t_railroad_tie_d2"
           ],
           "fg": 17476,
-          "bg": 22733,
+          "bg": 5131,
           "rotates": false,
           "multitile": true,
           "additional_tiles": [
@@ -15636,12 +15653,12 @@
           "fg": 17652,
           "multitile": true,
           "additional_tiles": [
-            { "id": "center", "fg": 17652, "bg": 23383 },
-            { "id": "corner", "fg": [ 17653, 17654, 17655, 17656 ], "bg": 23383 },
-            { "id": "t_connection", "fg": [ 17657, 17658, 17659, 17660 ], "bg": 23383 },
-            { "id": "edge", "fg": [ 17661, 17662 ], "bg": 23383 },
-            { "id": "end_piece", "fg": [ 17663, 17664, 17665, 17666 ], "bg": 23383 },
-            { "id": "unconnected", "fg": 17667, "bg": 23383 }
+            { "id": "center", "fg": 17652, "bg": 0 },
+            { "id": "corner", "fg": [ 17653, 17654, 17655, 17656 ], "bg": 0 },
+            { "id": "t_connection", "fg": [ 17657, 17658, 17659, 17660 ], "bg": 0 },
+            { "id": "edge", "fg": [ 17661, 17662 ], "bg": 0 },
+            { "id": "end_piece", "fg": [ 17663, 17664, 17665, 17666 ], "bg": 0 },
+            { "id": "unconnected", "fg": 17667, "bg": 0 }
           ],
           "rotates": false
         },
@@ -28074,7 +28091,11 @@
         { "id": [ "t_sidewalk_ramp_down_high" ], "fg": 36227, "bg": 0, "rotates": false },
         { "id": [ "t_sidewalk_ramp_down_low" ], "fg": 36228, "bg": 0, "rotates": false },
         { "id": [ "t_sidewalk_ramp_up_high" ], "fg": 36229, "bg": 0, "rotates": false },
-        { "id": [ "t_sidewalk_ramp_up_low" ], "fg": 36230, "bg": 0, "rotates": false }
+        { "id": [ "t_sidewalk_ramp_up_low" ], "fg": 36230, "bg": 0, "rotates": false },
+        { "id": "tr_beartrap_buried", "fg": 36231, "bg": 0 },
+        { "id": "tr_beartrap_buried_season_winter", "fg": 36232, "bg": 0 },
+        { "id": "laptop_screen_lit", "fg": 36233, "bg": 0 },
+        { "id": "overlay_wielded_laptop_screen_lit", "fg": 36234, "bg": 0 }
       ]
     }
   ]
