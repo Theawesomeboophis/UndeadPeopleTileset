@@ -10012,7 +10012,7 @@
           "fg": 4132,
           "rotates": true,
           "multitile": true,
-          "additional_tiles": [ { "id": "broken", "fg": 3987, "bg": 4132 } ]
+          "additional_tiles": [ { "id": "broken", "fg": 36238, "bg": 0 } ]
         },
         {
           "id": "vp_stowboard_horizontal",
@@ -12502,6 +12502,60 @@
             { "weight": 10, "sprite": 12289 },
             { "weight": 10, "sprite": 12290 }
           ],
+          "rotates": false
+        },
+        {
+          "id": "mon_feral_human_pipe",
+          "animated": false,
+          "fg": [
+            { "weight": 10, "sprite": 12308 },
+            { "weight": 10, "sprite": 12309 },
+            { "weight": 10, "sprite": 12310 },
+            { "weight": 10, "sprite": 12311 },
+            { "weight": 10, "sprite": 12312 },
+            { "weight": 10, "sprite": 12313 },
+            { "weight": 10, "sprite": 12314 },
+            { "weight": 10, "sprite": 12315 },
+            { "weight": 10, "sprite": 12316 },
+            { "weight": 10, "sprite": 12317 }
+          ],
+		  "bg": 967,
+          "rotates": false
+        },
+        {
+          "id": "mon_feral_human_axe",
+          "animated": false,
+          "fg": [
+            { "weight": 10, "sprite": 12324 },
+            { "weight": 10, "sprite": 12325 },
+            { "weight": 10, "sprite": 12326 },
+            { "weight": 10, "sprite": 12327 },
+            { "weight": 10, "sprite": 12328 },
+            { "weight": 10, "sprite": 12329 },
+            { "weight": 10, "sprite": 12330 },
+            { "weight": 10, "sprite": 12331 },
+            { "weight": 10, "sprite": 12332 },
+            { "weight": 10, "sprite": 12333 }
+          ],
+		  "bg": 967,
+          "rotates": false
+        },
+        {
+          "id": "mon_feral_human_crowbar",
+          "animated": false,
+          "fg": [
+            { "weight": 10, "sprite": 12340 },
+            { "weight": 10, "sprite": 12341 },
+            { "weight": 10, "sprite": 12342 },
+            { "weight": 10, "sprite": 12343 },
+            { "weight": 10, "sprite": 12344 },
+            { "weight": 10, "sprite": 12345 },
+            { "weight": 10, "sprite": 12346 },
+            { "weight": 10, "sprite": 12347 },
+            { "weight": 10, "sprite": 12348 },
+            { "weight": 10, "sprite": 12349 }
+          ],
+		  "bg": 967,
           "rotates": false
         }
       ]
@@ -28095,7 +28149,10 @@
         { "id": "tr_beartrap_buried", "fg": 36231, "bg": 0 },
         { "id": "tr_beartrap_buried_season_winter", "fg": 36232, "bg": 0 },
         { "id": "laptop_screen_lit", "fg": 36233, "bg": 0 },
-        { "id": "overlay_wielded_laptop_screen_lit", "fg": 36234, "bg": 0 }
+        { "id": "overlay_wielded_laptop_screen_lit", "fg": 36234, "bg": 0 },
+        { "id": "vp_vehicle_dashboard", "fg": 36235, "bg": 0 },
+        { "id": "vehicle_dashboard", "fg": 36236, "bg": 0 },
+        { "id": ["corpse_mon_feral_human_pipe", "corpse_mon_feral_human_crowbar", "corpse_mon_feral_human_axe"], "fg": 36237, "bg": 0 }
       ]
     }
   ]
