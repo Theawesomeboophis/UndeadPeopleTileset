@@ -80,7 +80,8 @@
             "halo_light",
             "halo_shadowsnakes",
             "c_atomic_battery_power",
-            "fd_shadow"
+            "fd_shadow",
+			"mon_human"
           ],
           "fg": 0,
           "bg": 0,
@@ -3023,7 +3024,7 @@
         { "id": "mon_horse", "fg": 2511, "bg": 967, "rotates": false },
         { "id": "mon_human_snail", "fg": 2514, "bg": 967, "rotates": false },
         { "id": "mon_kreck", "fg": 2525, "bg": 967, "rotates": false },
-        { "id": [ "mon_laserturret", "mon_advturret_laser" ], "fg": 2526, "bg": 5239, "rotates": false },
+        { "id": [ "mon_laserturret", "mon_advturret_laser", "mon_robofac_laserturret_mk1" ], "fg": 2526, "bg": 5239, "rotates": false },
         { "id": "mon_manhack", "fg": 2531, "bg": 967, "rotates": false },
         { "id": "mon_molebot", "fg": 2545, "bg": 967, "rotates": false },
         { "id": "mon_moose", "fg": 2547, "bg": 967, "rotates": false },
@@ -19508,7 +19509,7 @@
         { "id": "mon_milturret_flame", "fg": 22781, "bg": 5239, "rotates": true },
         { "id": "broken_milturret_flame", "fg": 22782, "rotates": true },
         { "id": "bot_milturret_flame", "fg": 22783, "rotates": true },
-        { "id": [ "broken_laserturret", "broken_advturret_laser" ], "fg": 22784, "rotates": true },
+        { "id": [ "broken_laserturret", "broken_advturret_laser", "broken_robofac_laserturret_mk1" ], "fg": 22784, "rotates": true },
         { "id": [ "bot_laserturret", "bot_advturret_laser" ], "fg": 22785, "rotates": true },
         { "id": "mon_advturret_acid", "fg": 22786, "bg": 5239, "rotates": true },
         { "id": "broken_advturret_acid", "fg": 22787, "rotates": true },
@@ -27764,6 +27765,8 @@
         { "id": "f_sand_castle", "fg": 35928, "bg": 0, "rotates": false },
         { "id": [ "t_grave_new" ], "fg": 35929, "bg": 0 },
         { "id": [ "t_grave_new_season_winter" ], "fg": 35930, "bg": 0 },
+        { "id": [ "mon_leech_radio" ], "fg": 35931, "bg": 0 },
+		{ "id": [ "corpse_mon_leech_radio" ], "fg": 35932, "bg": 0 },
         { "id": [ "mon_fused", "mon_devourer" ], "fg": 35933, "bg": 0, "rotates": false },
         { "id": [ "corpse_mon_fused", "corpse_mon_devourer" ], "fg": 35934, "bg": 0, "rotates": false },
         { "id": [ "t_street_light", "f_street_light" ], "fg": 35935, "bg": 0, "rotates": false },
@@ -27959,6 +27962,36 @@
           ],
           "bg": 0,
           "rotates": false
+        },
+        {
+          "id": [ "mon_exodii_turret" ],
+          "animated": true,
+          "fg": [
+            { "weight": 101, "sprite": 36045 },
+            { "weight": 101, "sprite": 36046 }
+          ],
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": [ "broken_exodii_turret" ],
+          "fg": [
+            { "weight": 101, "sprite": 36047 }
+          ],
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": [ "mon_dog_zombie_hulk" ],
+          "fg": 36048,
+          "bg": 0,
+          "rotates": false
+        },
+        {
+          "id": [ "corpse_mon_dog_zombie_hulk" ],
+          "fg": 36049,
+          "bg": 0,
+          "rotates": false
         }
       ]
     },
@@ -28152,7 +28185,15 @@
         { "id": "overlay_wielded_laptop_screen_lit", "fg": 36234, "bg": 0 },
         { "id": "vp_vehicle_dashboard", "fg": 36235, "bg": 0 },
         { "id": "vehicle_dashboard", "fg": 36236, "bg": 0 },
-        { "id": ["corpse_mon_feral_human_pipe", "corpse_mon_feral_human_crowbar", "corpse_mon_feral_human_axe"], "fg": 36237, "bg": 0 }
+        { "id": ["corpse_mon_feral_human_pipe", "corpse_mon_feral_human_crowbar", "corpse_mon_feral_human_axe"], "fg": 36237, "bg": 0 },
+        { "id": ["mon_dog_skeleton_brute"], "fg": 36239, "bg": 967 },
+        { "id": ["corpse_mon_dog_skeleton_brute"], "fg": 36240, "bg": 0 },
+        { "id": ["mon_dog_zombie_brute"], "fg": 36241, "bg": 967 },
+        { "id": ["corpse_mon_dog_zombie_brute"], "fg": 36242, "bg": 0 },
+        { "id": ["mon_wolf_skeleton"], "fg": 36243, "bg": 967 },
+        { "id": ["corpse_mon_wolf_skeleton"], "fg": 36244, "bg": 0 },
+        { "id": ["mon_zombie_horse"], "fg": 36245, "bg": 967 },
+        { "id": ["corpse_mon_zombie_horse"], "fg": 36246, "bg": 0 }
       ]
     }
   ]
