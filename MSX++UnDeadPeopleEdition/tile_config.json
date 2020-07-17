@@ -3490,6 +3490,7 @@
           ],
           "rotates": false
         },
+		{ "id": "bg_t_floor", "fg": 987, "rotates": false },
         { "id": "t_door_frame", "fg": 3035, "bg": 987, "rotates": false },
         { "id": "t_door_glass_o", "fg": 3037, "bg": 987, "rotates": false },
         { "id": "t_door_o", "fg": 3044, "bg": 987, "rotates": false },
@@ -5126,16 +5127,12 @@
         { "id": "f_hay", "fg": 1527, "rotates": false },
         {
           "id": "f_indoor_plant",
-          "fg": [
-            { "weight": 10, "sprite": 1529 }
-          ],
+          "fg":  1529,
           "rotates": false
         },
         {
           "id": "f_indoor_plant_y",
-          "fg": [
-            { "weight": 1, "sprite": 1530 }
-          ],
+          "fg":  1530,
           "rotates": false
         },
         { "id": "f_kiln_full", "fg": 1531, "rotates": false },
@@ -5203,7 +5200,7 @@
         { "id": "f_spike", "fg": 1582, "rotates": false },
         { "id": [ "f_statue", "t_sliding_brick_wall_control" ], "fg": 1583, "rotates": false },
         { "id": "f_straw_bed", "fg": 1584, "rotates": false },
-        { "id": "f_toilet", "fg": [ { "weight": 10, "sprite": 1594 } ], "rotates": false },
+        { "id": "f_toilet", "fg": 1594, "rotates": false },
         { "id": "f_trashcan", "fg": 1595, "rotates": false },
         { "id": "f_treadmill", "fg": 1596, "rotates": false },
         { "id": "f_vending_c", "fg": 1597, "rotates": false },
