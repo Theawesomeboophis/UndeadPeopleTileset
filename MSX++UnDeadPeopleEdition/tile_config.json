@@ -53328,6 +53328,9 @@
           "id": "distaff_spindle",
           "fg": 878,
           "bg": 970
+        },        {
+          "id": "bg_distaff_spindle",
+          "fg": 970
         },
         {
           "id": "shield_scutum",
