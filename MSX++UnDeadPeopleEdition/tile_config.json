@@ -28041,7 +28041,9 @@
             { "weight": 10, "sprite": 36254 }
           ] },
         { "id": ["f_console_broken"], "fg": 36255  },
-        { "id": ["adhesive_bandages"], "fg": 36256  }
+        { "id": ["adhesive_bandages"], "fg": 36256  },
+        { "id": "powered_earmuffs_on", "fg": 36257 },
+        { "id": "overlay_worn_powered_earmuffs_on", "fg": 36258 }
       ]
     },
     {
