@@ -20867,6 +20867,7 @@
         { "id": "overlay_wielded_armor_riot", "bg": 23991 },
         { "id": [ "armor_riot", "survivor_miko_suikan" ], "fg": 23991 },
         { "id": [ "overlay_worn_armor_riot", "overlay_worn_survivor_miko_suikan" ], "fg": 23992, "bg": 36092 },
+		{ "id": [ "bg_armor_riot" ], "fg": 36092 },
         { "id": "overlay_wielded_police_belt", "bg": 23993 },
         { "id": "police_belt", "fg": 23993 },
         { "id": "overlay_worn_police_belt", "fg": 23994 },
