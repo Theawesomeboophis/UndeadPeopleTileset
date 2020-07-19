@@ -27832,7 +27832,25 @@
           "id": [ "corpse_mon_dog_zombie_hulk" ],
           "fg": 36049,
           "rotates": false
+        },
+        { "id": "overlay_wielded_zweihander", "fg": 36050, "bg": 957, "rotates": false },
+        { "id": "overlay_wielded_zweihander_fake", "fg": 36050, "bg": 957, "rotates": false },
+        { "id": "overlay_wielded_zweihander_inferior", "fg": 36050, "bg": 957, "rotates": false },
+        { "id": "overlay_wielded_zweifire_off", "fg": 36051, "bg": 957, "rotates": false },
+		{
+          "id": [ "overlay_wielded_zweifire_on" ],
+		  "animated": true,
+          "fg": [
+            { "weight": 1, "sprite": 36052 },
+			{ "weight": 1, "sprite": 36053 },
+            { "weight": 1, "sprite": 36054 },
+			{ "weight": 1, "sprite": 36055 },
+            { "weight": 1, "sprite": 36056 },
+            { "weight": 1, "sprite": 36057 }
+          ],
+          "rotates": false
         }
+		
       ]
     },
     {
