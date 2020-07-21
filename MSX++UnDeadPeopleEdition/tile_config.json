@@ -17297,7 +17297,7 @@
           "rotates": false
         },
         {
-          "id": [ "t_carpet_red", "t_carpet_concrete_red" ],
+          "id": [ "t_carpet_red", "t_carpet_concrete_red", "t_carpet_base", "t_carpet_base_concrete", "t_carpet_base_metal" ],
           "fg": 19364,
           "bg": 987,
           "multitile": true,
@@ -18740,10 +18740,70 @@
           "additional_tiles": [
             { "id": "center", "fg": 20932, "bg": 1012 },
             { "id": "corner", "fg": [ 20933, 20934, 20935, 20936 ], "bg": 1012 },
-            { "id": "t_connection", "fg": [ 20937, 20938, 20941, 20942 ], "bg": 1012 },
-            { "id": "edge", "fg": [ 20943, 20944 ], "bg": 1012 },
-            { "id": "end_piece", "fg": [ 20945, 20946, 20947, 20948 ], "bg": 1012 },
-            { "id": "unconnected", "fg": 20949, "bg": 1012 }
+            { "id": "t_connection", "fg": [ 20937, 20938, 20939, 20940 ], "bg": 1012 },
+            { "id": "edge", "fg": [ 20941, 20942 ], "bg": 1012 },
+            { "id": "end_piece", "fg": [ 20943, 20944, 20945, 20946 ], "bg": 1012 },
+            { "id": "unconnected", "fg": 20947, "bg": 1012 }
+          ],
+          "rotates": true
+        },
+        {
+          "id": [ "f_exodii_generator_1", "f_exodii_generator_2", "f_exodii_generator_3", "f_exodii_generator_4" ],
+          "fg": 20948,
+          "bg": 1012,
+          "multitile": true,
+          "additional_tiles": [
+            { "id": "center", "fg": 20948, "bg": 1012 },
+            { "id": "corner", "fg": [ 20949, 20950, 20951, 20952 ], "bg": 1012 },
+            { "id": "t_connection", "fg": [ 20953, 20954, 20955, 20956 ], "bg": 1012 },
+            { "id": "edge", "fg": [ 20957, 20958 ], "bg": 1012 },
+            { "id": "end_piece", "fg": [ 20959, 20960, 20961, 20962 ], "bg": 1012 },
+            { "id": "unconnected", "fg": 20963, "bg": 1012 }
+          ],
+          "rotates": true
+        },
+        {
+          "id": [ "!f_exodii_charger" ],
+          "fg": 20964,
+          "bg": 1012,
+          "multitile": true,
+          "additional_tiles": [
+            { "id": "center", "fg": 20964, "bg": 1012 },
+            { "id": "corner", "fg": [ 20965, 20966, 20967, 20968 ], "bg": 1012 },
+            { "id": "t_connection", "fg": [ 20969, 20970, 20971, 20972 ], "bg": 1012 },
+            { "id": "edge", "fg": [ 20973, 20974 ], "bg": 1012 },
+            { "id": "end_piece", "fg": [ 20975, 20976, 20977, 20978 ], "bg": 1012 },
+            { "id": "unconnected", "fg": 20979, "bg": 1012 }
+          ],
+          "rotates": true
+        },
+        {
+          "id": [ "!free_space" ],
+          "fg": 20982,
+          "bg": 1012,
+          "multitile": true,
+          "additional_tiles": [
+            { "id": "center", "fg": 20982, "bg": 1012 },
+            { "id": "corner", "fg": [ 20983, 20984, 20985, 20986 ], "bg": 1012 },
+            { "id": "t_connection", "fg": [ 20987, 20988, 20989, 20990 ], "bg": 1012 },
+            { "id": "edge", "fg": [ 20991, 20992 ], "bg": 1012 },
+            { "id": "end_piece", "fg": [ 20993, 20994, 20995, 20996 ], "bg": 1012 },
+            { "id": "unconnected", "fg": 20997, "bg": 1012 }
+          ],
+          "rotates": true
+        },
+        {
+          "id": [ "!free_space" ],
+          "fg": 20998,
+          "bg": 1012,
+          "multitile": true,
+          "additional_tiles": [
+            { "id": "center", "fg": 20998, "bg": 1012 },
+            { "id": "corner", "fg": [ 20999, 21000, 21001, 21002 ], "bg": 1012 },
+            { "id": "t_connection", "fg": [ 21003, 21004, 21005, 21006 ], "bg": 1012 },
+            { "id": "edge", "fg": [ 21007, 21008 ], "bg": 1012 },
+            { "id": "end_piece", "fg": [ 21009, 21010, 21011, 21012 ], "bg": 1012 },
+            { "id": "unconnected", "fg": 21013, "bg": 1012 }
           ],
           "rotates": true
         }
@@ -27833,10 +27893,10 @@
           "fg": 36049,
           "rotates": false
         },
-        { "id": "overlay_wielded_zweihander", "fg": 36050, "bg": 957, "rotates": false },
-        { "id": "overlay_wielded_zweihander_fake", "fg": 36050, "bg": 957, "rotates": false },
-        { "id": "overlay_wielded_zweihander_inferior", "fg": 36050, "bg": 957, "rotates": false },
-        { "id": "overlay_wielded_zweifire_off", "fg": 36051, "bg": 957, "rotates": false },
+        { "id": "overlay_wielded_zweihander", "fg": 36050, "bg": 0, "rotates": false },
+        { "id": "overlay_wielded_zweihander_fake", "fg": 36050, "bg": 0, "rotates": false },
+        { "id": "overlay_wielded_zweihander_inferior", "fg": 36050, "bg": 0, "rotates": false },
+        { "id": "overlay_wielded_zweifire_off", "fg": 36051, "bg": 0, "rotates": false },
 		{
           "id": [ "overlay_wielded_zweifire_on" ],
 		  "animated": true,
@@ -27849,7 +27909,13 @@
             { "weight": 1, "sprite": 36057 }
           ],
           "rotates": false
-        }
+        },
+        { "id": "f_exodii_lamp", "fg": 36058, "bg": 0, "rotates": false },
+        { "id": "f_exodii_pump", "fg": 36059, "bg": 0, "rotates": false },
+        { "id": "f_exodii_printer_large", "fg": 36060, "bg": 0, "rotates": false },
+        { "id": "mon_zombull", "fg": 36061, "bg": 0, "rotates": false },
+        { "id": "corpse_mon_zombull", "fg": 36062, "bg": 0, "rotates": false },
+        { "id": "f_statue", "fg": 36064, "bg": 0, "rotates": false }
 		
       ]
     },
@@ -28061,12 +28127,19 @@
         { "id": ["f_console_broken"], "fg": 36255  },
         { "id": ["adhesive_bandages"], "fg": 36256  },
         { "id": "powered_earmuffs_on", "fg": 36257 },
-        { "id": "overlay_worn_powered_earmuffs_on", "fg": 36258 }
+        { "id": "overlay_worn_powered_earmuffs_on", "fg": 36258 },
+        { "id": "f_exodii_botrack", "fg": 36259 },
+        { "id": "f_exodii_scanner", "fg": 36261 },
+        { "id": "f_exodii_printer_small", "fg": 36262 },
+        { "id": "tr_cot", "fg": 36263 },
+        { "id": "t_milking_machine", "fg": 36264, "bg": 987 },
+        { "id": "f_exodii_charger", "fg": 36265 },
+        { "id": "f_exodii_charger_cheap", "fg": 36266, "bg": 987 }
       ]
     },
     {
       "file": "20_bg_temp_32x32_36397-36909.png",
-      "tiles": [ { "id": "bg_shadow_normal", "fg": 36397 , "rotates": false },
+      "tiles": [ { "id": "bg_shadow_normal", "fg": 36397 , "rotates": false }, 
 				 { "id": "bg_shadow_small", "fg": 36398 , "rotates": false },
 				 { "id": "bg_shadow_big", "fg": 36399 , "rotates": false },
 				 { "id": "bg_book", "fg": 36400 , "rotates": false },
