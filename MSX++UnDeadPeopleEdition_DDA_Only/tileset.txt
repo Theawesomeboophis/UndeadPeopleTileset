@@ -1,4 +1,4 @@
-NAME: UDP_Vanilla
+NAME: UDP_DDA
 VIEW: UndeadPeople_DDA_only
 JSON: tile_config.json
 TILESET: tiles.png
