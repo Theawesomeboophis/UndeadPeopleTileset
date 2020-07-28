@@ -1,4 +1,4 @@
-NAME: UndeadPeople_BASE
-VIEW: UndeadPeople
+NAME: UNDEAD_PEOPLE_BASE
+VIEW: UNDEAD_PEOPLE (NEW verion!)
 JSON: tile_config.json
 TILESET: tiles.png
