@@ -9,7 +9,10 @@
  As you may know, my tileset is higly unorganized, ram munching mess. While you playing the game it loads a lot of stuff from various mods what you never gonna use. You can't easily change or add tiles in my tileset cause each time you do you have to edit giant tilesheet. All of this will end very soon. My tileset migration to another format is in effect.
 It is a relativy long process, but it soon will be finished.
 # For now know this: 
-## Tileset called MSX++UndeadPeople_DDA_only is only for dda module, and only need to be used if you not using any other mod becides dda. If you playing with other mods do not use it, cause any stuff from the mods will not have graphics. Use older regular UndeadPeople tileset for now if you playing with other mods.
+## Tileset called MSX++UndeadPeople is NOW only for dda module, and only need to be used if you not using any other mod becides dda. If you playing with other mods do not use it, cause any stuff from the mods will not have graphics. Use  UndeadPeopleLegacy tileset for now if you playing with other mods.
+
+I am now starting slowly to add mods with graphics. To use graphics for mods with new UndeadPeople select mod called "*name_of_the_mod* - UndeadPeople Tileset" in mod selection screen (or add it ID of the mod at the bottom of mods.json).
+
 Soon i will update this record with new information and even maybe even wright something more coherent!
 
 # MSX++UndeadPeople Tileset
