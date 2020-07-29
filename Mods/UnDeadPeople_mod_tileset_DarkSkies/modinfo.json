@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "DarkSkiesAboveUDP",
+    "name": "Dark Skies Above - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Dark Skies Above",
+    "category": "graphical",
+    "dependencies": [ "darkskies" ]
+  }
+]
