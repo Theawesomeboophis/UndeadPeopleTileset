@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "crt_expansionUDP",
+    "name": "C.R.I.T Expansion Mod - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for C.R.I.T Expansion Mod",
+    "category": "graphical",
+    "dependencies": [ "crt_expansion" ]
+  }
+]
