@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "DinoModUDP",
+    "name": "DinoMod - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for DinoMod",
+    "category": "graphical",
+    "dependencies": [ "DinoMod" ]
+  }
+]
