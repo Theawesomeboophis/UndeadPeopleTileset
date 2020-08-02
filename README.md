@@ -1,20 +1,4 @@
-# Warning! The tileset migration sequence has been activated.
-
-# Repeat, The tileset migration sequence has been activated, this sequence may not be aborted.
-
-# All tileset users proceed to the emergency car at the bottom platform.
-
-# [Repeat, all tileset users proceed to the bottom platform]
-
- As you may know, my tileset is higly unorganized, ram munching mess. While you playing the game it loads a lot of stuff from various mods what you never gonna use. You can't easily change or add tiles in my tileset cause each time you do you have to edit giant tilesheet. All of this will end very soon. My tileset migration to another format is in effect.
-It is a relativy long process, but it soon will be finished.
-# For now know this: 
-## Tileset called MSX++UndeadPeople is NOW only for dda module, and only need to be used if you not using any other mod becides dda. If you playing with other mods do not use it, cause any stuff from the mods will not have graphics. Use  UndeadPeopleLegacy tileset for now if you playing with other mods.
-
-I am now starting slowly to add mods with graphics. To use graphics for mods with new UndeadPeople select mod called "*name_of_the_mod* - UndeadPeople Tileset" in mod selection screen (or add ID of the mod with the graphics at the bottom of mods.json).
-
-Soon i will update this record with new information and even maybe even wright something more coherent!
-
+# Attention! Tileset Migration in in effect. Please review new instalation instructions.
 # MSX++UndeadPeople Tileset
 
 ![alt text](https://i.imgur.com/BFQzWtC.png)
@@ -29,14 +13,18 @@ Latest game version can be downloaded here https://cataclysmdda.org/experimental
 
 ## Installing
 
-Download this tileset, put folder MSX++UnDeadPeopleEdition in "CDDA Installation folder"/gfx, in the game choose *UNDEAD_PEOPLE* tileset in **Settings->Options->Graphics->Choose Tileset**
+Download this tileset, put folder MSX++UnDeadPeopleEdition or MSX++UnDeadPeopleEditionLegacy in "CDDA Installation folder"/gfx, in the game choose *UNDEAD_PEOPLE (NEW VERSION)* or *UNDEAD_PEOPLE_LEGACY* tileset in **Settings->Options->Graphics->Choose Tileset**
 
-If you using only DDA module (and maybe some little mods what do not add any stuff) use tileset named "UndeadPeople_DDA_only"
+*UNDEAD_PEOPLE (NEW VERSION)* - latest updated version of the tileset. On it's own it only covers main game and do not supports any mods (which comes with the game or located in other places). To get graphics for mods you will need to enable mods with the same name as mod what are you going to use plus "- UndeadPeople Tileset" in it's name under "graphical" category.
+
+So for mod like *"PKs Rebalancing"* you will need to enable *"PKs Rebalancing - UndeadPeople Tileset"* along side with it to get graphics for this mod.
+
+*UNDEAD_PEOPLE_LEGACY* - old version of the tileset. It does supports mods out of the box like before, but is no longer updated due problems with performance.
 
 ## How to install Mods (the proper way)
 Put *Mods* folder in "CDDA Installation folder", **NOT**  in "CDDA Installation folder"/data, that way you can separate mods what are updated with the game and mods you downloaded somewhere else, what you need to update by hand.
 
-Mods what bundled with this tileset are graphical mods designed to work with this tileset and change certain aspects of it.
+Mods what bundled with this tileset (other then mods with graphics for other mods) are graphical mods designed to work with this tileset and change certain aspects of it.
 
 If graphical mod (or any other mod with supplemental tileset inside (Secronom, Arcana, etc.)) do not work - save the game, close it, open it again and load save. It should 100% hook mods with tileset to the game.
 
