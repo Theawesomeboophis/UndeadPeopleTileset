@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Generic_GunsUDP",
+    "name": "Generic Guns - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Generic Guns",
+    "category": "graphical",
+    "dependencies": [ "generic_guns" ]
+  }
+]

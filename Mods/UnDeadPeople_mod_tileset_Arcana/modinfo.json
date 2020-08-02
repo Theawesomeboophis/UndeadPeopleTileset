@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "ArcanaUDP",
+    "name": "Arcana - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Arcana",
+    "category": "graphical",
+    "dependencies": [ "arcana" ]
+  }
+]

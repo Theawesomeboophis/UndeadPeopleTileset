@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "more_locationsUDP",
+    "name": "More Locations - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for More Locations",
+    "category": "graphical",
+    "dependencies": [ "more_locations" ]
+  }
+]

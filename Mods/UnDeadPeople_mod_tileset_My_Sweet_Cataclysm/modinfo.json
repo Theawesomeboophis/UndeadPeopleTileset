@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "My_Sweet_CataclysmUDP",
+    "name": "My Sweet Cataclysm - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for MySweet Cataclysm",
+    "category": "graphical",
+    "dependencies": [ "my_sweet_cataclysm" ]
+  }
+]
