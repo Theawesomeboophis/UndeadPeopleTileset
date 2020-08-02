@@ -1,4 +1,4 @@
-# Attention! Tileset Migration in in effect. Please review new instalation instructions.
+# Attention! Tileset Migration in in effect. Please review new installation instructions.
 # MSX++UndeadPeople Tileset
 
 ![alt text](https://i.imgur.com/BFQzWtC.png)
