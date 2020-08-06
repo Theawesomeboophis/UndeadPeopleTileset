@@ -6,6 +6,6 @@
     "authors": [ "SomeDeadGuy" ],
     "description": "UDP graphics for Arcana",
     "category": "graphical",
-    "dependencies": [ "arcana" ]
+    "dependencies": [ "Arcana" ]
   }
 ]
