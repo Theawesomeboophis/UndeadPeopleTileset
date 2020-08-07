@@ -1,6 +1,7 @@
-# Devs decided (instead of implementing it smartly and subtly using their favorite "looks_like" feature) to change the way graphics works for cars and furniture.
-# For some time UndeadPeople tileset will be broken. It will present cars without graphics and furniture rotated in weird positions. It will be fixed, ofhorse, but there is A LOT to fix, it will take some time.
-# Stay tuned for more info in the future. I hope to whip out fixes for all stuff at the end of the weekend.
+# Warning! All UDP tileset users!
+## Devs decided (instead of implementing it smartly and subtly using their favorite "looks_like" feature) to change the way graphics works for cars and furniture.
+## For some time UndeadPeople tileset will be broken. It will present cars without graphics and furniture rotated in weird positions. It will be fixed, ofhorse, but there is A LOT to fix, it will take some time.
+## Stay tuned for more info in the future. I hope to whip out fixes for all stuff at the end of the weekend.
 # MSX++UndeadPeople Tileset
 
 ![alt text](https://i.imgur.com/BFQzWtC.png)
