@@ -1,9 +1,5 @@
-# Warning! All UDP tileset users!
-## Devs decided (instead of implementing it smartly and subtly using their favorite "looks_like" feature) to change the way graphics works for cars and furniture.
-## For some time UndeadPeople tileset will be broken. It will present cars without graphics and furniture rotated in weird positions. It will be fixed, ofhorse, but there is A LOT to fix, it will take some time.
-## Stay tuned for more info in the future. I hope to whip out fixes for all stuff at the end of the weekend.
-# MSX++UndeadPeople Tileset
-
+## new car parts added in legacy and new tileset
+## in the future there will be more situations like this - car changes, it now consist untiled parts so it will not have graphics for it. Depending on number of new car parts added it will take some time to draw them, so wait for it for some time before reporting
 ![alt text](https://i.imgur.com/BFQzWtC.png)
 
 Tileset for Cataclysm Dark Days Ahead based on the works by Xotto, Waldo and others. My goal is to make most complete tileset for the game, with support for all mods what are out there.
