@@ -5024,7 +5024,7 @@
         { "id": "f_skin_door_o", "fg": 1470, "rotates": false },
         { "id": "f_large_canvas_door_o", "fg": 1470 },
         { "id": "f_cattails", "fg": 1477, "rotates": false },
-        { "id": "f_chair", "fg": 1478, "rotates": false },
+        { "id": "!f_chair", "fg": 1478, "rotates": false },
         { "id": "f_chamomile", "fg": 1479, "rotates": false },
         { "id": "f_coffin_c", "fg": 1480 },
         { "id": "f_coffin_o", "fg": 1481 },
@@ -6425,8 +6425,8 @@
           "rotates": true,
           "multitile": false
         },
-        { "id": "f_autodoc_couch", "fg": 4736, "rotates": true },
-        { "id": "f_autodoc", "fg": 4737, "rotates": true },
+        { "id": "f_autodoc_couch", "fg": 4736, "rotates": false },
+        { "id": "f_autodoc", "fg": 4737, "rotates": false },
         { "id": "beam_scatterer", "fg": 4738, "rotates": false },
         { "id": [ "chime_scrap", "chime_scrap_act" ], "fg": 4739, "rotates": false },
         { "id": "survbowpack", "fg": 4740, "rotates": false },
@@ -15492,7 +15492,7 @@
             { "fg": [ 17513, 17514, 17515, 17516 ], "id": "t_connection" },
             { "fg": [ 17517, 17518 ], "id": "edge" },
             { "fg": [ 17519, 17520, 17521, 17522 ], "id": "end_piece" },
-            { "fg": 17523, "id": "unconnected" }
+            { "fg": [17523, 17523], "id": "unconnected" }
           ],
           "rotates": false
         },
@@ -16010,9 +16010,9 @@
             { "id": "t_connection", "fg": [ 17977, 17978, 17979, 17980 ]  },
             { "id": "edge", "fg": [ 17981, 17982 ]  },
             { "id": "end_piece", "fg": [ 17983, 17984, 17985, 17986 ]  },
-            { "id": "unconnected", "fg": 17987  }
+            { "id": "unconnected", "fg": [17987]  }
           ],
-          "rotates": false
+          "rotates": true
         },
         {
           "id": [ "f_pool_table" ],
@@ -16038,7 +16038,7 @@
             { "id": "t_connection", "fg": [ 18009, 18010, 18011, 18012 ]  },
             { "id": "edge", "fg": [ 18013, 18014 ]  },
             { "id": "end_piece", "fg": [ 18015, 18016, 18017, 18018 ]  },
-            { "id": "unconnected", "fg": 18019  }
+            { "id": "unconnected", "fg": [18019, 18019]  }
           ],
           "rotates": false
         },
@@ -16052,7 +16052,7 @@
             { "id": "t_connection", "fg": [ 18025, 18026, 18027, 18028 ]  },
             { "id": "edge", "fg": [ 18029, 18030 ]  },
             { "id": "end_piece", "fg": [ 18031, 18032, 18033, 18034 ]  },
-            { "id": "unconnected", "fg": 18035  }
+            { "id": "unconnected", "fg": [18035, 18035]  }
           ],
           "rotates": false
         },
@@ -16066,7 +16066,7 @@
             { "id": "t_connection", "fg": [ 18041, 18042, 18043, 18044 ]  },
             { "id": "edge", "fg": [ 18045, 18046 ]  },
             { "id": "end_piece", "fg": [ 18047, 18048, 18049, 18050 ]  },
-            { "id": "unconnected", "fg": 18051  }
+            { "id": "unconnected", "fg": [18051, 18051]  }
           ],
           "rotates": false
         },
@@ -16080,7 +16080,7 @@
             { "id": "t_connection", "fg": [ 18057, 18058, 18059, 18060 ]  },
             { "id": "edge", "fg": [ 18061, 18062 ]  },
             { "id": "end_piece", "fg": [ 18063, 18064, 18065, 18066 ]  },
-            { "id": "unconnected", "fg": 18067  }
+            { "id": "unconnected", "fg": [18067, 18067]  }
           ],
           "rotates": false
         },
@@ -16486,7 +16486,7 @@
             { "id": "t_connection", "fg": [ 18521, 18522, 18523, 18524 ]  },
             { "id": "edge", "fg": [ 18525, 18526 ]  },
             { "id": "end_piece", "fg": [ 18527, 18528, 18529, 18530 ]  },
-            { "id": "unconnected", "fg": 18531  }
+            { "id": "unconnected", "fg": [18531, 18531]  }
           ],
           "rotates": false
         },
@@ -16500,7 +16500,7 @@
             { "id": "t_connection", "fg": [ 18537, 18538, 18539, 18540 ]  },
             { "id": "edge", "fg": [ 18541, 18542 ]  },
             { "id": "end_piece", "fg": [ 18543, 18544, 18545, 18546 ]  },
-            { "id": "unconnected", "fg": 18547  }
+            { "id": "unconnected", "fg": [18547, 18547]  }
           ],
           "rotates": false
         },
@@ -16586,7 +16586,7 @@
             { "id": "t_connection", "fg": [ 17571, 17571, 17571, 17571 ]  },
             { "id": "edge", "fg": [ 17571, 17571 ]  },
             { "id": "end_piece", "fg": [ 17571, 17571, 17571, 17571 ]  },
-            { "id": "unconnected", "fg": 23770  }
+            { "id": "unconnected", "fg": [23770, 23770]  }
           ],
           "rotates": false
         },
@@ -16717,7 +16717,7 @@
             { "id": "t_connection", "fg": [ 18761, 18762, 18763, 18764 ]  },
             { "id": "edge", "fg": [ 18765, 18766 ]  },
             { "id": "end_piece", "fg": [ 18767, 18768, 18769, 18770 ]  },
-            { "id": "unconnected", "fg": 18771  }
+            { "id": "unconnected", "fg": [18771, 18771]  }
           ]
         },
         {
@@ -16956,7 +16956,7 @@
             { "id": "t_connection", "fg": [ 19033, 19034, 19035, 19036 ] },
             { "id": "edge", "fg": [ 19037, 19038 ] },
             { "id": "end_piece", "fg": [ 19039, 19040, 19041, 19042 ] },
-            { "id": "unconnected", "fg": 19043 }
+            { "id": "unconnected", "fg": [19043, 19043] }
           ]
         },
         {
@@ -17082,7 +17082,7 @@
             { "id": "t_connection", "fg": [ 19145, 19146, 19147, 19148 ]  },
             { "id": "edge", "fg": [ 19149, 19150 ]  },
             { "id": "end_piece", "fg": [ 19151, 19152, 19153, 19154 ]  },
-            { "id": "unconnected", "fg": 19155  }
+            { "id": "unconnected", "fg": [19155, 19155]  }
           ]
         },
         {
@@ -18032,7 +18032,7 @@
             { "id": "t_connection", "fg": [ 20137, 20138, 20139, 20140 ]  },
             { "id": "edge", "fg": [ 20141, 20142 ]  },
             { "id": "end_piece", "fg": [ 20143, 20144, 20145, 20146 ]  },
-            { "id": "unconnected", "fg": 20147  }
+            { "id": "unconnected", "fg": [20147, 20147]  }
           ],
           "rotates": true
         },
@@ -18046,7 +18046,7 @@
             { "id": "t_connection", "fg": [ 20153, 20154, 20155, 20156 ]  },
             { "id": "edge", "fg": [ 20157, 20158 ]  },
             { "id": "end_piece", "fg": [ 20159, 20160, 20161, 20162 ]  },
-            { "id": "unconnected", "fg": 20163  }
+            { "id": "unconnected", "fg": [20163, 20163]  }
           ],
           "rotates": true
         },
@@ -18116,7 +18116,7 @@
             { "id": "t_connection", "fg": [ 20233, 20234, 20235, 20236 ]  },
             { "id": "edge", "fg": [ 20237, 20238 ]  },
             { "id": "end_piece", "fg": [ 20239, 20240, 20241, 20242 ]  },
-            { "id": "unconnected", "fg": 20243  }
+            { "id": "unconnected", "fg": [20243, 20243]  }
           ],
           "rotates": true
         },
@@ -18188,7 +18188,7 @@
             { "id": "t_connection", "fg": [ 20313, 20314, 20315, 20316 ]  },
             { "id": "edge", "fg": [ 20317, 20318 ]  },
             { "id": "end_piece", "fg": [ 20319, 20320, 20321, 20322 ]  },
-            { "id": "unconnected", "fg": 20323  }
+            { "id": "unconnected", "fg": [20323, 20323]  }
           ],
           "rotates": true
         },
@@ -18258,7 +18258,7 @@
             { "id": "t_connection", "fg": [ 20393, 20394, 20395, 20396 ]  },
             { "id": "edge", "fg": [ 20397, 20398 ]  },
             { "id": "end_piece", "fg": [ 20399, 20400, 20401, 20402 ]  },
-            { "id": "unconnected", "fg": 20403  }
+            { "id": "unconnected", "fg": [20403, 20403]  }
           ],
           "rotates": true
         },
@@ -18272,7 +18272,7 @@
             { "id": "t_connection", "fg": [ 20409, 20410, 20411, 20412 ]  },
             { "id": "edge", "fg": [ 20413, 20414 ]  },
             { "id": "end_piece", "fg": [ 20415, 20416, 20417, 20418 ]  },
-            { "id": "unconnected", "fg": 20419  }
+            { "id": "unconnected", "fg": [20419, 20419]  }
           ],
           "rotates": true
         },
@@ -18286,7 +18286,7 @@
             { "id": "t_connection", "fg": [ 20425, 20426, 20427, 20428 ]  },
             { "id": "edge", "fg": [ 20429, 20430 ]  },
             { "id": "end_piece", "fg": [ 20431, 20432, 20433, 20434 ]  },
-            { "id": "unconnected", "fg": 20435  }
+            { "id": "unconnected", "fg": [20435, 20435]  }
           ],
           "rotates": true
         },
@@ -18300,7 +18300,7 @@
             { "id": "t_connection", "fg": [ 20441, 20442, 20443, 20444 ]  },
             { "id": "edge", "fg": [ 20445, 20446 ]  },
             { "id": "end_piece", "fg": [ 20447, 20448, 20449, 20450 ]  },
-            { "id": "unconnected", "fg": 20451  }
+            { "id": "unconnected", "fg": [20451, 20451]  }
           ],
           "rotates": true
         },
@@ -18314,7 +18314,7 @@
             { "id": "t_connection", "fg": [ 20457, 20458, 20459, 20460 ]  },
             { "id": "edge", "fg": [ 20461, 20462 ]  },
             { "id": "end_piece", "fg": [ 20463, 20464, 20465, 20466 ]  },
-            { "id": "unconnected", "fg": 20467  }
+            { "id": "unconnected", "fg": [20467, 20467]  }
           ],
           "rotates": true
         },
@@ -18831,7 +18831,7 @@
             { "id": "t_connection", "fg": [ 21017, 21018, 21019, 21020 ] },
             { "id": "edge", "fg": [ 21021, 21022 ] },
             { "id": "end_piece", "fg": [ 21023, 21024, 21025, 21026 ] },
-            { "id": "unconnected", "fg": 21027 }
+            { "id": "unconnected", "fg": [21027, 21027] }
           ],
           "rotates": true
         },
@@ -27558,7 +27558,7 @@
             { "fg": [ 35757, 35757, 35757, 35757 ], "bg": 35759, "id": "t_connection" },
             { "fg": [ 35757, 35757 ], "bg": 35759, "id": "edge" },
             { "fg": [ 35757, 35757, 35757, 35757 ], "bg": 35759, "id": "end_piece" },
-            { "fg": 35757, "bg": 35759, "id": "unconnected" }
+            { "fg": [35757, 35757], "bg": 35759, "id": "unconnected" }
           ]
         },
         { "id": "mon_triffid_queen", "fg": 35760 , "rotates": false },
@@ -28185,7 +28185,67 @@
         { "id": "f_chest", "fg": 36270 },
         { "id": "f_foot_locker", "fg": 36271 },
         { "id": "rm13_armor", "fg": 36272 },
-        { "id": "rm13_armor_on", "fg": 36273 }
+        { "id": "rm13_armor_on", "fg": 36273 },
+        {
+          "id": [ "vp_windshield_horizontal_front" ],
+          "fg": 36274,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": 36275 } ]
+        },
+        {
+          "id": [ "vp_windshield_ne" ],
+          "fg": 36276,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": 36277 } ]
+        },
+        {
+          "id": [ "vp_windshield_nw" ],
+          "fg": 36278,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": 36279 } ]
+        },
+        {
+          "id": [ "vp_door_front_left" ],
+          "fg": 36280,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": 36281 }, { "id": "open", "fg": 36282 } ]
+        },
+        {
+          "id": [ "vp_door_front_right" ],
+          "fg": 36283,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": 36284 }, { "id": "open", "fg": 36285 } ]
+        },
+        {
+          "id": [ "vp_door_rear_left" ],
+          "fg": 36280,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": 36281 }, { "id": "open", "fg": 36282 } ]
+        },
+        {
+          "id": [ "vp_door_rear_right" ],
+          "fg": 36283,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": 36284 }, { "id": "open", "fg": 36285 } ]
+        },
+        {
+          "id": [ "vp_door_rear_right" ],
+          "fg": 36283,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": 36284 }, { "id": "open", "fg": 36285 } ]
+        },
+
+        { "id": "f_chair", "fg": [36286, 36287, 36288, 36289], "rotates": true },
+
+        { "id": "f_armchair", "fg": [36290, 36291, 36292, 36293], "rotates": true }
       ]
     },
     {
