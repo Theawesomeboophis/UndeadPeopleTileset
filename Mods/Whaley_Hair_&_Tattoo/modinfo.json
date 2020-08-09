@@ -1,0 +1,13 @@
+[
+{
+    "type": "MOD_INFO",
+    "mod-type": "SUPPLEMENTAL",
+    "ident": "WHALEYHAIR_UDP",
+    "name": "Whaleys Hair Mod (UDP Tweaks)",
+    "description": "Adds New Hairstyles, Tattoos, Makeup and cosmetic injuries. Updated to be used with new version of UndeadPeople tileset.",
+    "category": "Other",
+    "authors": "Whaley",
+	"maintainers": "SomeDeadGuy",
+    "path": ""
+}
+]
