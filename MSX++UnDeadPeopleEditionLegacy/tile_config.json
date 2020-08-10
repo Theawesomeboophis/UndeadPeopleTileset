@@ -10650,7 +10650,7 @@
         { "id": "hd_steel_drum", "fg": 4132 },
         { "id": "vp_benginein", "fg": 4132, "rotates": true },
         { "id": "vp_bwheel", "fg": 4132, "rotates": true },
-        { "id": "vp_saddle", "fg": 4133, "rotates": true },
+        { "id": "!vp_saddle", "fg": 4133, "rotates": true },
         { "id": "seat", "fg": 4134, "rotates": false },
         { "id": "vp_seed_drill", "fg": 4136, "rotates": true },
         { "id": "vp_seed_drill_advanced", "fg": 4136, "rotates": true },
@@ -28235,17 +28235,42 @@
           "multitile": true,
           "additional_tiles": [ { "id": "broken", "fg": 36284 }, { "id": "open", "fg": 36285 } ]
         },
-        {
-          "id": [ "vp_door_rear_right" ],
-          "fg": 36283,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [ { "id": "broken", "fg": 36284 }, { "id": "open", "fg": 36285 } ]
-        },
-
         { "id": "f_chair", "fg": [36286, 36287, 36288, 36289], "rotates": true },
 
-        { "id": "f_armchair", "fg": [36290, 36291, 36292, 36293], "rotates": true }
+        { "id": "f_armchair", "fg": [36290, 36291, 36292, 36293], "rotates": true },
+		        {
+          "id": [ "vp_box_wheelbarrow" ],
+          "fg": [36294, 36295, 36296, 36297],
+          "rotates": true
+        },
+		        {
+          "id": [ "vp_saddle", "vp_saddle_pedal" ],
+          "fg": [36298, 36299, 36300, 36301],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36302, 36303, 36304, 36305] } ]
+        },
+		        {
+          "id": [ "vp_wheel_bicycle_rear", "vp_wheel_bicycle_or_rear" ],
+          "fg": [36306, 36307, 36308, 36309],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36310, 36311, 36312, 36313] } ]
+        },
+		        {
+          "id": [ "vp_wheel_bicycle", "vp_wheel_bicycle_steerable", "vp_wheel_bicycle_or" ],
+          "fg": [36314, 36315, 36316, 36317],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36318, 36319, 36320, 36321]} ]
+        },
+		        {
+          "id": [ "vp_basketsm_bike_rear" ],
+          "fg": [36322, 36323, 36324, 36325],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36326, 36327, 36328, 36329]} ]
+        }
       ]
     },
     {
