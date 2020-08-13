@@ -8304,7 +8304,7 @@
             { "id": "unconnected", "fg": 3232, "bg": 3215 }
           ]
         },
-        { "id": "t_sand_season_winter", "fg": 992, "rotates": false },
+        { "id": "!t_sand_season_winter", "fg": 992, "rotates": false },
         { "id": "t_sandmound", "fg": 3218, "bg": 1012, "rotates": false },
         { "id": "t_sandmound_season_winter", "fg": 3021, "bg": 992 },
         { "id": "t_low_stairs_begin", "fg": 3257, "rotates": false },
@@ -8326,7 +8326,7 @@
           ]
         },
         {
-          "id": "t_wall_wood_season_winter",
+          "id": "!t_wall_wood_season_winter",
           "fg": 3389,
           "multitile": true,
           "additional_tiles": [
@@ -15265,12 +15265,7 @@
         },
         {
           "id": [
-            "t_grass_long_season_winter",
-            "t_flat_roof_season_winter",
-            "t_gutter_south_season_winter",
-            "t_gutter_north_season_winter",
-            "t_gutter_west_season_winter",
-            "t_gutter_east_season_winter"
+            "t_grass_long_season_winter"
           ],
           "fg": 17428,
           "multitile": true,
@@ -15518,108 +15513,91 @@
             {
               "fg": 17540,
               "bg": [
-                { "weight": 40, "sprite": 1012 },
-                { "weight": 30, "sprite": 4833 },
-                { "weight": 30, "sprite": 4834 },
-                { "weight": 30, "sprite": 4835 },
-                { "weight": 1, "sprite": 4836 },
-                { "weight": 1, "sprite": 4837 },
-                { "weight": 1, "sprite": 4838 },
-                { "weight": 1, "sprite": 4839 },
-                { "weight": 1, "sprite": 4840 },
-                { "weight": 1, "sprite": 4841 },
-                { "weight": 1, "sprite": 4842 },
-                { "weight": 1, "sprite": 4843 }
+                { "weight": 40, "sprite": 1012 }
               ],
               "id": "center"
             },
             {
               "fg": [ 17541, 17542, 17543, 17544 ],
               "bg": [
-                { "weight": 40, "sprite": 1012 },
-                { "weight": 30, "sprite": 4833 },
-                { "weight": 30, "sprite": 4834 },
-                { "weight": 30, "sprite": 4835 },
-                { "weight": 1, "sprite": 4836 },
-                { "weight": 1, "sprite": 4837 },
-                { "weight": 1, "sprite": 4838 },
-                { "weight": 1, "sprite": 4839 },
-                { "weight": 1, "sprite": 4840 },
-                { "weight": 1, "sprite": 4841 },
-                { "weight": 1, "sprite": 4842 },
-                { "weight": 1, "sprite": 4843 }
+                { "weight": 40, "sprite": 1012 }
               ],
               "id": "corner"
             },
             {
               "fg": [ 17545, 17546, 17547, 17548 ],
               "bg": [
-                { "weight": 40, "sprite": 1012 },
-                { "weight": 30, "sprite": 4833 },
-                { "weight": 30, "sprite": 4834 },
-                { "weight": 30, "sprite": 4835 },
-                { "weight": 1, "sprite": 4836 },
-                { "weight": 1, "sprite": 4837 },
-                { "weight": 1, "sprite": 4838 },
-                { "weight": 1, "sprite": 4839 },
-                { "weight": 1, "sprite": 4840 },
-                { "weight": 1, "sprite": 4841 },
-                { "weight": 1, "sprite": 4842 },
-                { "weight": 1, "sprite": 4843 }
+                { "weight": 40, "sprite": 1012 }
               ],
               "id": "t_connection"
             },
             {
               "fg": [ 17549, 17550 ],
               "bg": [
-                { "weight": 40, "sprite": 1012 },
-                { "weight": 30, "sprite": 4833 },
-                { "weight": 30, "sprite": 4834 },
-                { "weight": 30, "sprite": 4835 },
-                { "weight": 1, "sprite": 4836 },
-                { "weight": 1, "sprite": 4837 },
-                { "weight": 1, "sprite": 4838 },
-                { "weight": 1, "sprite": 4839 },
-                { "weight": 1, "sprite": 4840 },
-                { "weight": 1, "sprite": 4841 },
-                { "weight": 1, "sprite": 4842 },
-                { "weight": 1, "sprite": 4843 }
+                { "weight": 40, "sprite": 1012 }
               ],
               "id": "edge"
             },
             {
               "fg": [ 17551, 17552, 17553, 17554 ],
               "bg": [
-                { "weight": 40, "sprite": 1012 },
-                { "weight": 30, "sprite": 4833 },
-                { "weight": 30, "sprite": 4834 },
-                { "weight": 30, "sprite": 4835 },
-                { "weight": 1, "sprite": 4836 },
-                { "weight": 1, "sprite": 4837 },
-                { "weight": 1, "sprite": 4838 },
-                { "weight": 1, "sprite": 4839 },
-                { "weight": 1, "sprite": 4840 },
-                { "weight": 1, "sprite": 4841 },
-                { "weight": 1, "sprite": 4842 },
-                { "weight": 1, "sprite": 4843 }
+                { "weight": 40, "sprite": 1012 }
               ],
               "id": "end_piece"
             },
             {
               "fg": 17555,
               "bg": [
-                { "weight": 40, "sprite": 1012 },
-                { "weight": 30, "sprite": 4833 },
-                { "weight": 30, "sprite": 4834 },
-                { "weight": 30, "sprite": 4835 },
-                { "weight": 1, "sprite": 4836 },
-                { "weight": 1, "sprite": 4837 },
-                { "weight": 1, "sprite": 4838 },
-                { "weight": 1, "sprite": 4839 },
-                { "weight": 1, "sprite": 4840 },
-                { "weight": 1, "sprite": 4841 },
-                { "weight": 1, "sprite": 4842 },
-                { "weight": 1, "sprite": 4843 }
+                { "weight": 40, "sprite": 1012 }
+              ],
+              "id": "unconnected"
+            }
+          ],
+          "rotates": false
+        },        {
+          "id": [ "t_sand", "t_sand_singing", "t_sanddune" ],
+          "fg": 17540,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "fg": 17540,
+              "bg": [
+                { "weight": 40, "sprite": 992 }
+              ],
+              "id": "center"
+            },
+            {
+              "fg": [ 17541, 17542, 17543, 17544 ],
+              "bg": [
+                { "weight": 40, "sprite": 992 }
+              ],
+              "id": "corner"
+            },
+            {
+              "fg": [ 17545, 17546, 17547, 17548 ],
+              "bg": [
+                { "weight": 40, "sprite": 992 }
+              ],
+              "id": "t_connection"
+            },
+            {
+              "fg": [ 17549, 17550 ],
+              "bg": [
+                { "weight": 40, "sprite": 992 }
+              ],
+              "id": "edge"
+            },
+            {
+              "fg": [ 17551, 17552, 17553, 17554 ],
+              "bg": [
+                { "weight": 40, "sprite": 992 }
+              ],
+              "id": "end_piece"
+            },
+            {
+              "fg": 17555,
+              "bg": [
+                { "weight": 40, "sprite": 992 }
               ],
               "id": "unconnected"
             }
@@ -16127,7 +16105,7 @@
           "rotates": false
         },
         {
-          "id": [ "t_sandbox_season_winter" ],
+          "id": [ "!t_sandbox_season_winter" ],
           "fg": 18100,
           "multitile": true,
           "additional_tiles": [
@@ -18010,15 +17988,15 @@
         {
           "id": [ "t_clay_season_winter" ],
           "fg": 20116,
-          "bg": 5131,
+          "bg": 992,
           "multitile": true,
           "additional_tiles": [
-            { "id": "center", "fg": 20116, "bg": 5131 },
-            { "id": "corner", "fg": [ 20117, 20118, 20119, 20120 ], "bg": 5131 },
-            { "id": "t_connection", "fg": [ 20121, 20122, 20123, 20124 ], "bg": 5131 },
-            { "id": "edge", "fg": [ 20125, 20126 ], "bg": 5131 },
-            { "id": "end_piece", "fg": [ 20127, 20128, 20129, 20130 ], "bg": 5131 },
-            { "id": "unconnected", "fg": 20131, "bg": 5131 }
+            { "id": "center", "fg": 20116, "bg": 992 },
+            { "id": "corner", "fg": [ 20117, 20118, 20119, 20120 ], "bg": 992 },
+            { "id": "t_connection", "fg": [ 20121, 20122, 20123, 20124 ], "bg": 992 },
+            { "id": "edge", "fg": [ 20125, 20126 ], "bg": 992 },
+            { "id": "end_piece", "fg": [ 20127, 20128, 20129, 20130 ], "bg": 992 },
+            { "id": "unconnected", "fg": 20131, "bg": 992 }
           ],
           "rotates": true
         },
@@ -18522,6 +18500,35 @@
             { "id": "unconnected", "fg": 20691, "bg": 1012 }
           ],
           "rotates": true
+        }, {
+          "id": [ "t_splitrail_fencegate_c_season_winter" ],
+          "fg": 20660,
+          "bg": 992,
+          "multitile": true,
+          "additional_tiles": [
+            { "id": "center", "fg": 20660, "bg": 992 },
+            { "id": "corner", "fg": [ 20661, 20662, 20663, 20664 ], "bg": 992 },
+            { "id": "t_connection", "fg": [ 20665, 20666, 20667, 20668 ], "bg": 992 },
+            { "id": "edge", "fg": [ 20669, 20670 ], "bg": 992 },
+            { "id": "end_piece", "fg": [ 20671, 20672, 20673, 20674 ], "bg": 992 },
+            { "id": "unconnected", "fg": 20675, "bg": 992 }
+          ],
+          "rotates": true
+        },
+        {
+          "id": [ "t_splitrail_fencegate_o_season_winter" ],
+          "fg": 20676,
+          "bg": 992,
+          "multitile": true,
+          "additional_tiles": [
+            { "id": "center", "fg": 20676, "bg": 992 },
+            { "id": "corner", "fg": [ 20677, 20678, 20679, 20680 ], "bg": 992 },
+            { "id": "t_connection", "fg": [ 20681, 20682, 20683, 20684 ], "bg": 992 },
+            { "id": "edge", "fg": [ 20685, 20686 ], "bg": 992 },
+            { "id": "end_piece", "fg": [ 20687, 20688, 20689, 20690 ], "bg": 992 },
+            { "id": "unconnected", "fg": 20691, "bg": 992 }
+          ],
+          "rotates": true
         },
         {
           "id": [ "t_grass_tall_season_winter" ],
@@ -18846,6 +18853,48 @@
             { "id": "edge", "fg": [ 21037, 21038 ] },
             { "id": "end_piece", "fg": [ 21039, 21040, 21041, 21042 ] },
             { "id": "unconnected", "fg": 21043 }
+          ],
+          "rotates": true
+        },
+        {
+          "id": [ "t_grass_season_winter" ],
+          "fg": 21044,
+		  "bg": 992,
+          "multitile": true,
+          "additional_tiles": [
+            { "id": "center", "fg": 21044,
+		  "bg": 992 },
+            { "id": "corner", "fg": [ 21045, 21046, 21047, 21048 ],
+		  "bg": 992 },
+            { "id": "t_connection", "fg": [ 21049, 21050, 21051, 21052 ],
+		  "bg": 992 },
+            { "id": "edge", "fg": [ 21053, 21054 ],
+		  "bg": 992 },
+            { "id": "end_piece", "fg": [ 21055, 21056, 21057, 21058 ],
+		  "bg": 992 },
+            { "id": "unconnected", "fg": 21059,
+		  "bg": 992 }
+          ],
+          "rotates": true
+        },
+        {
+          "id": [ "t_grass_dead_season_winter" ],
+          "fg": 21060,
+		  "bg": 992,
+          "multitile": true,
+          "additional_tiles": [
+            { "id": "center", "fg": 21060,
+		  "bg": 992 },
+            { "id": "corner", "fg": [ 21061, 21062, 21063, 21064 ],
+		  "bg": 992 },
+            { "id": "t_connection", "fg": [ 21065, 21066, 21067, 21068 ],
+		  "bg": 992 },
+            { "id": "edge", "fg": [ 21069, 21070 ],
+		  "bg": 992 },
+            { "id": "end_piece", "fg": [ 21071, 21072, 21073, 21074 ],
+		  "bg": 992 },
+            { "id": "unconnected", "fg": 21075,
+		  "bg": 992 }
           ],
           "rotates": true
         }
@@ -21827,10 +21876,11 @@
             "f_sunflower_season_winter",
             "f_mutpoppy_season_winter",
             "f_chicory_season_winter",
-            "f_burdock_season_winter"
+            "f_burdock_season_winter",
+			"f_mustard_season_winter"
           ],
           "fg": 24327,
-          "bg": 19204,
+          "bg": 0,
           "rotates": false
         },
         { "id": "f_cattails_season_winter", "fg": 24328 , "rotates": false },
@@ -27713,7 +27763,7 @@
         { "id": "mon_slasher_weak", "fg": 35912, "rotates": false },
         { "id": "overlay_worn_afs_hev_helmet_on", "fg": 35913, "rotates": false },
         { "id": "f_fridge", "fg": 35914, "rotates": false },
-        { "id": "vp_basketlg", "fg": 35915, "rotates": false },
+        { "id": ["vp_basketlg", "vp_basketlg_cart"], "fg": 35915, "rotates": false },
         { "id": "t_tarptent_leather", "fg": 35916, "bg": 32977, "rotates": false },
         { "id": "tr_unfinished_construction", "fg": 35917 , "rotates": false },
         { "id": "bottle_glass", "fg": 35918 , "rotates": false },
@@ -28026,32 +28076,35 @@
         },
         {
           "id": [ "explosion" ],
+          "bg": 972,
           "rotates": false,
           "multitile": true,
           "additional_tiles": [
-            { "id": "corner", "fg": [ 36125, 36126, 36127, 36128 ]  },
-            { "id": "edge", "fg": [ 36129, 36130 ]  },
-            { "id": "unconnected", "fg": [ 36143 ]  }
+            { "id": "corner", "bg": [ 36125, 36126, 36127, 36128 ]  },
+            { "id": "edge", "bg": [ 36129, 36130 ]  },
+            { "id": "unconnected", "bg": [ 36143 ]  }
           ]
         },
         {
           "id": [ "explosion_medium" ],
+          "bg": 972,
           "rotates": false,
           "multitile": true,
           "additional_tiles": [
-            { "id": "corner", "fg": [ 36131, 36132, 36133, 36134 ]  },
-            { "id": "edge", "fg": [ 36135, 36136 ]  },
-            { "id": "unconnected", "fg": [ 36143 ]  }
+            { "id": "corner", "bg": [ 36131, 36132, 36133, 36134 ]  },
+            { "id": "edge", "bg": [ 36135, 36136 ]  },
+            { "id": "unconnected", "bg": [ 36143 ]  }
           ]
         },
         {
           "id": [ "explosion_weak" ],
+		  "bg": 972,
           "rotates": false,
           "multitile": true,
           "additional_tiles": [
-            { "id": "corner", "fg": [ 36137, 36138, 36139, 36140 ]  },
-            { "id": "edge", "fg": [ 36141, 36142 ]  },
-            { "id": "unconnected", "fg": [ 36143 ]  }
+            { "id": "corner", "bg": [ 36137, 36138, 36139, 36140 ]  },
+            { "id": "edge", "bg": [ 36141, 36142 ]  },
+            { "id": "unconnected", "bg": [ 36143 ]  }
           ]
         },
         { "id": [ "bone_knife" ], "fg": 36143 , "rotates": false },
@@ -28176,7 +28229,7 @@
         { "id": "f_exodii_scanner", "fg": 36261 },
         { "id": "f_exodii_printer_small", "fg": 36262 },
         { "id": "tr_cot", "fg": 36263 },
-        { "id": "t_milking_machine", "fg": 36264 },
+        { "id": "t_milking_machine", "fg": 36264, "bg": 987},
         { "id": "f_exodii_charger", "fg": 36265 },
         { "id": "f_exodii_charger_cheap", "fg": 36266 },
         { "id": "rock_flaking", "fg": 36267 },
