@@ -28393,20 +28393,134 @@
           "rotates": true,
 		  "multitile": true,
           "additional_tiles": [ { "id": "broken", "fg": [36357]} ]
+        },
+		        {
+          "id": [ "vp_hdhalfboard_horizontal_front", "vp_hdboard_horizontal_front" ],
+          "fg": [36358],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36359]} ]
+        },
+		        {
+          "id": [ "vp_hdhalfboard_vertical_left", "vp_hdboard_vertical_left" ],
+          "fg": [36360],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36361]} ]
+        },
+		        {
+          "id": [ "vp_hdhalfboard_vertical_right", "vp_hdboard_vertical_right" ],
+          "fg": [36362],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36363]} ]
+        },
+		        {
+          "id": [ "vp_hdhalfboard_horizontal_rear", "vp_hdboard_horizontal_rear" ],
+          "fg": [36364],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36365]} ]
+        },
+		        {
+          "id": [ "vp_hddoor_left" ],
+          "fg": [36366],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "open", "fg": [36367]}, { "id": "broken", "fg": [36368]} ]
+        },
+		        {
+          "id": [ "vp_hddoor_right" ],
+          "fg": [36369],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "open", "fg": [36370]}, { "id": "broken", "fg": [36371]} ]
+        },
+		        {
+          "id": [ "vp_reinforced_windshield_nw" ],
+          "fg": [36372],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36373]} ]
+        },
+		        {
+          "id": [ "vp_reinforced_windshield_horizontal_front" ],
+          "fg": [36374],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36375]} ]
+        },
+		        {
+          "id": [ "vp_reinforced_windshield_ne" ],
+          "fg": [36376],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36377]} ]
+        },
+		        {
+          "id": [ "vp_hdframe_horizontal_front" ],
+          "fg": [36378],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36379]} ]
+        },
+		        {
+          "id": [ "vp_windshield_sw_edge" ],
+          "fg": [36380],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36381]} ]
+        },
+		        {
+          "id": [ "vp_windshield_se_edge" ],
+          "fg": [36382],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36383]} ]
+        },
+		        {
+          "id": [ "vp_windshield_horizontal_rear_edge" ],
+          "fg": [36384],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36385]} ]
+        },
+		        {
+          "id": [ "vp_stowboard_vertical_right" ],
+          "fg": [36386],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36387]} ]
+        },
+		        {
+          "id": [ "vp_stowboard_vertical_left" ],
+          "fg": [36388],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36389]} ]
+        },
+		        {
+          "id": [ "vp_hdframe_horizontal_2_front" ],
+          "fg": [36390],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36391]} ]
+        },
+		        {
+          "id": [ "vp_stowboard_horizontal_rear" ],
+          "fg": [36392],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36393]} ]
+        },
+		        {
+          "id": [ "vp_stowboard_horizontal" ],
+          "fg": [36394],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36395]} ]
         }
       ]
-    },
-    {
-      "file": "20_bg_temp_32x32_36397-36909.png",
-      "tiles": [ { "id": "bg_shadow_normal", "fg": 36397 , "rotates": false }, 
-				 { "id": "bg_shadow_small", "fg": 36398 , "rotates": false },
-				 { "id": "bg_shadow_big", "fg": 36399 , "rotates": false },
-				 { "id": "bg_book", "fg": 36400 , "rotates": false },
-				 { "id": "bg_book_adv", "fg": 36401 , "rotates": false },
-				 { "id": "bg_book_manual", "fg": 36402 , "rotates": false },
-				 { "id": "bg_book_magazine", "fg": 36403 , "rotates": false },
-				 { "id": "bg_book_encyclopedia", "fg": 36404 , "rotates": false },
-				 { "id": "bg_shadow_item", "fg": 36405 , "rotates": false } ]
     }
   ]
 }
