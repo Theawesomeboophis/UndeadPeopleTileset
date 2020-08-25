@@ -3816,7 +3816,7 @@
           "id": "vp_cargo_space",
           "fg": 3986,
           "bg": 1005,
-          "rotates": false,
+          "rotates": true,
           "multitile": true,
           "additional_tiles": [ { "id": "broken", "fg": 3987, "bg": 3986 } ]
         },
@@ -28009,7 +28009,9 @@
         { "id": "mon_zombull", "fg": 36061, "bg": 0, "rotates": false },
         { "id": "corpse_mon_zombull", "fg": 36062, "bg": 0, "rotates": false },
         { "id": "f_statue", "fg": 36064, "bg": 0, "rotates": false },
-        { "id": [ "pike", "pike_fake", "pike_inferior" ], "fg": 36065, "rotates": false }
+        { "id": [ "pike", "pike_fake", "pike_inferior" ], "fg": 36065, "rotates": false },
+        { "id": "mon_zombie_winged", "fg": 36066, "bg": 0, "rotates": false },
+        { "id": "mon_zombie_brute_winged", "fg": 36067, "bg": 0, "rotates": false }
 		
       ]
     },
@@ -28486,14 +28488,14 @@
           "additional_tiles": [ { "id": "broken", "fg": [36385]} ]
         },
 		        {
-          "id": [ "vp_stowboard_vertical_right" ],
+          "id": [ "vp_stowboard_vertical_left" ],
           "fg": [36386],
           "rotates": true,
 		  "multitile": true,
           "additional_tiles": [ { "id": "broken", "fg": [36387]} ]
         },
 		        {
-          "id": [ "vp_stowboard_vertical_left" ],
+          "id": [ "vp_stowboard_vertical_right" ],
           "fg": [36388],
           "rotates": true,
 		  "multitile": true,
@@ -28519,6 +28521,95 @@
           "rotates": true,
 		  "multitile": true,
           "additional_tiles": [ { "id": "broken", "fg": [36395]} ]
+        },
+        { "id": "t_metal_floor_olight", "fg": 36396, "bg": 23383},
+        { "id": "t_floor_olight", "fg": 36396, "bg": 17155},
+        {
+          "id": "mon_zombie_crawler_pupa",
+          "animated": true,
+          "fg": [
+            { "weight": 25, "sprite": 36397 },
+            { "weight": 25, "sprite": 36398 },
+            { "weight": 25, "sprite": 36399 },
+            { "weight": 25, "sprite": 36398 }
+          ],
+          "rotates": false
+        },
+        {
+          "id": "corpse_mon_zombie_crawler_pupa",
+          "fg": 36400,
+          "rotates": false
+        },
+        {
+          "id": "mon_smoker_brute",
+          "fg": 36401,
+          "rotates": false
+        },
+        {
+          "id": "corpse_mon_zombie_winged",
+          "fg": 36402,
+          "rotates": false
+        },
+        {
+          "id": "corpse_mon_zombie_brute_winged",
+          "fg": 36403,
+          "rotates": false
+        },
+		        {
+          "id": [ "vp_clothboard_vertical_right" ],
+          "fg": [36404],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36405]} ]
+        },
+		        {
+          "id": [ "vp_clothboard_vertical_left" ],
+          "fg": [36406],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36407]} ]
+        },
+		        {
+          "id": [ "vp_clothboard_sw" ],
+          "fg": [36408],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36409]} ]
+        },
+		        {
+          "id": [ "vp_clothboard_se" ],
+          "fg": [36410],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36411]} ]
+        },
+		        {
+          "id": [ "vp_wing_mirror_left" ],
+          "fg": [36412],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36413]} ]
+        },
+		        {
+          "id": [ "vp_wing_mirror_right" ],
+          "fg": [36414],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36415]} ]
+        },
+		        {
+          "id": [ "vp_clothboard_nw" ],
+          "fg": [36416],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36417]} ]
+        },
+		        {
+          "id": [ "vp_clothboard_ne" ],
+          "fg": [36418],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36419]} ]
         }
       ]
     }
