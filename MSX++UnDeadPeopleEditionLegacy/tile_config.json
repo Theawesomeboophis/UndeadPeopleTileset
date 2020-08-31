@@ -3858,7 +3858,7 @@
           "bg": 1005,
           "rotates": true,
           "multitile": true,
-          "additional_tiles": [ { "id": "broken", "fg": 3987, "bg": 4134, "rotates": true } ]
+          "additional_tiles": [ { "id": "broken", "fg": 23516, "bg": 1005, "rotates": true } ]
         },
         {
           "id": "vp_veh_table",
@@ -3914,7 +3914,7 @@
           "bg": 1005,
           "rotates": true,
           "multitile": true,
-          "additional_tiles": [ { "id": "broken", "fg": 3987, "bg": 4134 } ]
+          "additional_tiles": [ { "id": "broken", "fg": 23516, "bg": 1005 } ]
         },
         {
           "id": "vp_folding_seat",
@@ -15562,42 +15562,42 @@
             {
               "fg": 17540,
               "bg": [
-                { "weight": 40, "sprite": 992 }
+                { "weight": 40, "sprite": 1012 }
               ],
               "id": "center"
             },
             {
               "fg": [ 17541, 17542, 17543, 17544 ],
               "bg": [
-                { "weight": 40, "sprite": 992 }
+                { "weight": 40, "sprite": 1012 }
               ],
               "id": "corner"
             },
             {
               "fg": [ 17545, 17546, 17547, 17548 ],
               "bg": [
-                { "weight": 40, "sprite": 992 }
+                { "weight": 40, "sprite": 1012 }
               ],
               "id": "t_connection"
             },
             {
               "fg": [ 17549, 17550 ],
               "bg": [
-                { "weight": 40, "sprite": 992 }
+                { "weight": 40, "sprite": 1012 }
               ],
               "id": "edge"
             },
             {
               "fg": [ 17551, 17552, 17553, 17554 ],
               "bg": [
-                { "weight": 40, "sprite": 992 }
+                { "weight": 40, "sprite": 1012 }
               ],
               "id": "end_piece"
             },
             {
               "fg": 17555,
               "bg": [
-                { "weight": 40, "sprite": 992 }
+                { "weight": 40, "sprite": 1012 }
               ],
               "id": "unconnected"
             }
@@ -27763,7 +27763,7 @@
         { "id": "mon_slasher_weak", "fg": 35912, "rotates": false },
         { "id": "overlay_worn_afs_hev_helmet_on", "fg": 35913, "rotates": false },
         { "id": "f_fridge", "fg": 35914, "rotates": false },
-        { "id": ["vp_basketlg", "vp_basketlg_cart"], "fg": 35915, "rotates": false },
+        { "id": ["vp_basketlg", "vp_basketlg_cart"], "fg": [36070, 36068, 36069, 35915], "rotates": true },
         { "id": "t_tarptent_leather", "fg": 35916, "bg": 32977, "rotates": false },
         { "id": "tr_unfinished_construction", "fg": 35917 , "rotates": false },
         { "id": "bottle_glass", "fg": 35918 , "rotates": false },
@@ -28610,6 +28610,62 @@
           "rotates": true,
 		  "multitile": true,
           "additional_tiles": [ { "id": "broken", "fg": [36419]} ]
+        },
+		        {
+          "id": [ "vp_reinforced_windshield_vertical_left" ],
+          "fg": [36420],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36421]} ]
+        },
+		        {
+          "id": [ "vp_reinforced_windshield_vertical_right" ],
+          "fg": [36422],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36423]} ]
+        },
+		        {
+          "id": [ "vp_reinforced_windshield_sw_edge" ],
+          "fg": [36424],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36425]} ]
+        },
+		        {
+          "id": [ "vp_reinforced_windshield_se_edge" ],
+          "fg": [36426],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36427]} ]
+        },
+		        {
+          "id": [ "vp_reinforced_windshield_horizontal_rear_edge" ],
+          "fg": [36428],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36429]} ]
+        },
+		        {
+          "id": [ "vp_windshield_nw_edge" ],
+          "fg": [36430],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36431]} ]
+        },
+		        {
+          "id": [ "vp_windshield_ne_edge" ],
+          "fg": [36432],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36433]} ]
+        },
+		        {
+          "id": [ "!vp_windshield_horizontal_front" ],
+          "fg": [36434],
+          "rotates": true,
+		  "multitile": true,
+          "additional_tiles": [ { "id": "broken", "fg": [36435]} ]
         }
       ]
     }
