@@ -1,4 +1,3 @@
-## new car parts added in legacy and new tileset
 ## in the future there will be more situations like this - car changes, it now consist untiled parts so it will not have graphics for it. Depending on number of new car parts added it will take some time to draw them, so wait for it for some time before reporting
 ![alt text](https://i.imgur.com/BFQzWtC.png)
 
