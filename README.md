@@ -30,13 +30,14 @@ If graphical mod (or any other mod with supplemental tileset inside (Secronom, A
 ## Interesting Mods with Undead_People sub tilesets (mini tileset within mod folder)
 
 #### *Secronom Zombies*:
-https://github.com/Axema/Secronom-Zombies
+https://github.com/Kenan2000/Secronom-Zombies
 
 #### *ARCANA Magic Mod*:
 https://github.com/chaosvolt/cdda-arcana-mod
 
 #### *Whaleys Hair & Tattoo Mod*:
-https://drive.google.com/file/d/1F88Sw412Y0FODT7DBMPIKhG5NLqVMFMt/view
+https://drive.google.com/file/d/1F88Sw412Y0FODT7DBMPIKhG5NLqVMFMt/view (old version, works only with legacy tileset)
+Version for new tileset fixed by me is in Mods folder.
 
 #### *Whaleys Collectibles Mod*:
 https://drive.google.com/open?id=1uGD3cqwKZpGoCQ8QUOkhvlvZs__4c2d0
