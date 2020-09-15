@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Cata++UDP",
+    "name": "Cataclysm++ - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Cataclysm++",
+    "category": "graphical",
+    "dependencies": [ "Cata++" ]
+  }
+]
