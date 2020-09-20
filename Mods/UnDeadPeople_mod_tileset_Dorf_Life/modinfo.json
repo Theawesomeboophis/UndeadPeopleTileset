@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Dorf_LifeUDP",
+    "name": "Dorf Life - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Dorf Life",
+    "category": "graphical",
+    "dependencies": [ "Dorf_Life" ]
+  }
+]
