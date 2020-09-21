@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Tankmod_RevivedUDP",
+    "name": "Tankmod: Revived - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Tankmod: Revived",
+    "category": "graphical",
+    "dependencies": [ "Tankmod_Revived" ]
+  }
+]
