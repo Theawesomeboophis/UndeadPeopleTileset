@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Fallout_CDDA_UDP",
+    "name": "Fallout CDDA - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Fallout New England",
+    "category": "graphical",
+    "dependencies": [ "fallout" ]
+  }
+]
