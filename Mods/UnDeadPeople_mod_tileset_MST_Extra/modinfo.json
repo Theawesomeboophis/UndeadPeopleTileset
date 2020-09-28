@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "MST_ExtraUDP",
+    "name": "MST Extra - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for More Survival Tools Extra",
+    "category": "graphical",
+    "dependencies": [ "MST_Extra" ]
+  }
+]
