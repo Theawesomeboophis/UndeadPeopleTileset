@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Arts' GunsUDP",
+    "name": "Artyoms' Gun Emporium - Reloaded - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Artyoms' Gun Emporium - Reloaded",
+    "category": "graphical",
+    "dependencies": [ "Arts' Guns" ]
+  }
+]

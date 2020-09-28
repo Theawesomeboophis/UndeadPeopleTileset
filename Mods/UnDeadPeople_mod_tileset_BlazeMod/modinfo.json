@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "blazemodUDP",
+    "name": "Vehicle Additions Pack - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Vehicle Additions Pack (original blazemod)",
+    "category": "graphical",
+    "dependencies": [ "blazemod" ]
+  }
+]

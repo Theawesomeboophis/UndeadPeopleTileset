@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "ArmUpSurvExUDP",
+    "name": "Armor Up! Survivor Expansion - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Armor Up! Survivor Expansion",
+    "category": "graphical",
+    "dependencies": [ "ArmUpSurvEx" ]
+  }
+]

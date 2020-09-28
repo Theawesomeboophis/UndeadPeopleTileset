@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "adv_gearUDP",
+    "name": "Advanced Gear - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Advanced Gear",
+    "category": "graphical",
+    "dependencies": [ "adv_gear" ]
+  }
+]

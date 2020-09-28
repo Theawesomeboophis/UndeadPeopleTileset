@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "modern_weaponUDP",
+    "name": "Modern Weapon Pack Expanded - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Modern Weapon Pack Expanded",
+    "category": "graphical",
+    "dependencies": [ "modern_weapon" ]
+  }
+]
