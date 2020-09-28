@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "darkskies_altUDP",
+    "name": "Dark Skies Above (Kenan Version) - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Dark Skies Above (Kenan Version)",
+    "category": "graphical",
+    "dependencies": [ "darkskies_alt" ]
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "national_guard_camp_altUDP",
+    "name": "National Guard Camp (Kenan Version) - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for National Guard Camp (Kenan Version)",
+    "category": "graphical",
+    "dependencies": [ "national_guard_camp_alt" ]
+  }
+]
