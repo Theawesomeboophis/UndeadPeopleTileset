@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "AscensionUDP",
+    "name": "Ascension - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Ascension",
+    "category": "graphical",
+    "dependencies": [ "Ascension" ]
+  }
+]

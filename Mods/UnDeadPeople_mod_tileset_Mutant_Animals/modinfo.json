@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "mutant_animalsUDP",
+    "name": "Mutant Animals - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Mutant Animals",
+    "category": "graphical",
+    "dependencies": [ "mutant_animals" ]
+  }
+]

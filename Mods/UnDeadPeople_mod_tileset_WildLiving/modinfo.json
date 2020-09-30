@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "WildLivingUDP",
+    "name": "Wild Living - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Wild Living",
+    "category": "graphical",
+    "dependencies": [ "WildLiving" ]
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Arsenal_BreachUDP",
+    "name": "Arsenal Breach",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP support for Arsenal Breach",
+    "category": "graphical",
+    "dependencies": [ "arsenal_breach" ]
+  }
+]

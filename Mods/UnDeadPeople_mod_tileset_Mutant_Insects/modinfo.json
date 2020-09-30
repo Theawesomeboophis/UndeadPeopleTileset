@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "mutant_insectsUDP",
+    "name": "Mutant Insects - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Mutant Insects",
+    "category": "graphical",
+    "dependencies": [ "mutant_insects" ]
+  }
+]

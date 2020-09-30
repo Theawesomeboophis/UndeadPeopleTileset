@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "battle_maidUDP",
+    "name": "Battle Maid Redux - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Battle Maid Redux",
+    "category": "graphical",
+    "dependencies": [ "battle_maid" ]
+  }
+]
