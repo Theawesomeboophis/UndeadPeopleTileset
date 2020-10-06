@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Mutation_ChangesUDP",
+    "name": "Mutation Changes - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy", "Kosolaper" ],
+    "description": "UDP graphics for Mutation Changes",
+    "category": "graphical",
+    "dependencies": [ "Mutation_Changes" ]
+  }
+]
