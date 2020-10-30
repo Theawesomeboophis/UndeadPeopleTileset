@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Salvaged_RobotsUDP",
+    "name": "Salvaged Robots - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Salvaged Robots",
+    "category": "graphical",
+    "dependencies": [ "Salvaged_Robots" ]
+  }
+]

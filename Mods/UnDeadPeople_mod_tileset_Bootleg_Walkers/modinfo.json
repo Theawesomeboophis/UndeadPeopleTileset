@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Bootleg_WalkersUDP",
+    "name": "Bootleg Walkers - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Bootleg Walkers",
+    "category": "graphical",
+    "dependencies": [ "Bootleg_Walkers" ]
+  }
+]

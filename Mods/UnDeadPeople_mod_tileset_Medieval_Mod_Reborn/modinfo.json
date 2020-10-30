@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Medieval_Mod_RebornUDP",
+    "name": "Medieval Mod Reborn - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Medieval Mod Reborn by Chaosvolt",
+    "category": "graphical",
+    "dependencies": [ "Medieval_Mod_Reborn" ]
+  }
+]
