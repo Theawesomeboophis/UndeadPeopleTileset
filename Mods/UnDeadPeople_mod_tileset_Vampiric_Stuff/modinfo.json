@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "secronom_UDP",
+    "name": "Secronom - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Secronom",
+    "category": "graphical",
+    "dependencies": [ "secronom" ]
+  }
+]
