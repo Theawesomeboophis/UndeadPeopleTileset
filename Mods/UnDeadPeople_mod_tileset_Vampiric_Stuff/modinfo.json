@@ -1,11 +1,11 @@
 [
   {
     "type": "MOD_INFO",
-    "ident": "secronom_UDP",
-    "name": "Secronom - UndeadPeople Tileset",
+    "ident": "vamp_stuff_UDP",
+    "name": "Vampiric Stuff - UndeadPeople Tileset",
     "authors": [ "SomeDeadGuy" ],
-    "description": "UDP graphics for Secronom",
+    "description": "UDP graphics for Vampiric Stuff",
     "category": "graphical",
-    "dependencies": [ "secronom" ]
+    "dependencies": [ "vamp_stuff" ]
   }
 ]
