@@ -47,17 +47,18 @@ Mods what bundled with this tileset (other then mods with graphics for other mod
 If graphical mod (or any other mod with supplemental tileset inside (Secronom, Arcana, etc.)) do not work - save the game, close it, open it again and load save. It should 100% hook mods with tileset to the game.
 
 ## Interesting Mods with Undead_People sub tilesets (mini tileset within mod folder)
-This tileset is now works for Kenan Mod Pack https://github.com/Kenan2000/CDDA-Kenan-Modpack
-This modpack consist of all interesting mods for Cataclysm and 
+
 #### *Secronom Zombies*:
 https://github.com/Kenan2000/Secronom-Zombies
+version with tileset included is in Kenan Mod Pack
 
 #### *ARCANA Magic Mod*:
 https://github.com/chaosvolt/cdda-arcana-mod
+version with tileset included is in Kenan Mod Pack
 
 #### *Whaleys Hair & Tattoo Mod*:
 https://drive.google.com/file/d/1F88Sw412Y0FODT7DBMPIKhG5NLqVMFMt/view (old version, works only with legacy tileset)
-Version for new tileset fixed by me is in Mods folder.
+Version for new tileset fixed by me is in Kenan Mod Pack.
 
 #### *Whaleys Collectibles Mod*:
 https://drive.google.com/open?id=1uGD3cqwKZpGoCQ8QUOkhvlvZs__4c2d0
@@ -68,7 +69,7 @@ https://github.com/YukariMindGap/Nechronica_Redux
 #### *Zets-Hair-Extensions*:
 https://github.com/Zetsukaze/Zets-Hair-Extensions (old version, do not use with Undead People)
 
-Use updated version in tileset mods/Zets-Hair-Extensions_Undead folder.
+Use updated version in Kenan Mod Pack.
 
 # Nearly Dead
 
