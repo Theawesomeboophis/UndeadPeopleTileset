@@ -1,16 +1,27 @@
+
+## Modpack With FULL UNDEAD support (No Mods with tileset mentioned below needed)
+This tileset is now works with Kenan's Mod Pack 
+This modpack consist of all interesting mods for Cataclysm, they always updated to the latest game version and have mod tiles from Undead People already installed in to them. So you do not need to use Mods with tilesets from my package to see graphics for these mods in the game. Please check this modpack for all interesting and updated mods!
+
+https://github.com/Kenan2000/CDDA-Kenan-Modpack - for CDDA 
+https://github.com/Kenan2000/Bright-Nights-Kenan-Mod-Pack - for BN
+
+Despite my recomendations this modpack needs to be installed in *Cataclysm Installation folder*/data/mods (cause of the way cataclysm works), put all folders from "Kenan-Modpack" folder in there with agreeing on file replacement. Sadly that means what each time you update the game via Launcher (cause you lazy like that, and do not want to learn how you can update the game easily without it) it will likely erase all of the modpack files from *data* folder. So you need to reinstall it after each time you update the game. Sucks, i know. But it is how it is.
+
 ![alt text](https://i.imgur.com/BFQzWtC.png)
 
-Tileset for Cataclysm Dark Days Ahead based on the works by Xotto, Waldo and others. My goal is to make most complete tileset for the game, with support for all mods what are out there.
+Tileset for Cataclysm Dark Days Ahead (and for Bright Nights fork of this game) based on the works by Xotto, Waldo and others. My goal is to make most complete tileset for the game, with support for all mods what are out there.
 
 
 ## Prerequisites
 
-This tileset always updating to content from latest experimental version of the game.
+This tileset always updating to content from latest experimental versions of the game.
 Latest game version can be downloaded here https://cataclysmdda.org/experimental/
+Bright Nights fork can be found here https://github.com/cataclysmbnteam/Cataclysm-BN#cataclysm-bright-nights
 
 ## Installing
 
-Download this tileset, put folder MSX++UnDeadPeopleEdition or MSX++UnDeadPeopleEditionLegacy in "CDDA Installation folder"/gfx, in the game choose *UNDEAD_PEOPLE (NEW VERSION)* or *UNDEAD_PEOPLE_LEGACY* tileset in **Settings->Options->Graphics->Choose Tileset**
+Download this tileset, put folder MSX++UnDeadPeopleEdition or MSX++UnDeadPeopleEditionLegacy in "Cataclysm Installation folder"/gfx, in the game choose *UNDEAD_PEOPLE (NEW VERSION)* or *UNDEAD_PEOPLE_LEGACY* tileset in **Settings->Options->Graphics->Choose Tileset**
 
 *UNDEAD_PEOPLE (NEW VERSION)* - latest updated version of the tileset. On it's own it only covers main game and do not supports any mods (which comes with the game or located in other places). To get graphics for mods you will need to enable mods with the same name as mod what are you going to use plus "- UndeadPeople Tileset" in it's name under "graphical" category.
 
@@ -18,15 +29,17 @@ So for mod like *"PKs Rebalancing"* you will need to enable *"PKs Rebalancing - 
 
 *UNDEAD_PEOPLE_LEGACY* - old version of the tileset. It does supports mods out of the box like before, but is no longer updated due problems with performance.
 
+
 ## How to install Mods (the proper way)
-Put *Mods* folder in "CDDA Installation folder", **NOT**  in "CDDA Installation folder"/data, that way you can separate mods what are updated with the game and mods you downloaded somewhere else, what you need to update by hand.
+Put *Mods* folder in "Cataclysm Installation folder", **NOT**  in "Cataclysm Installation folder"/data, that way you can separate mods what are updated with the game and mods you downloaded somewhere else, what you need to update by hand.
 
 Mods what bundled with this tileset (other then mods with graphics for other mods) are graphical mods designed to work with this tileset and change certain aspects of it.
 
 If graphical mod (or any other mod with supplemental tileset inside (Secronom, Arcana, etc.)) do not work - save the game, close it, open it again and load save. It should 100% hook mods with tileset to the game.
 
 ## Interesting Mods with Undead_People sub tilesets (mini tileset within mod folder)
-
+This tileset is now works for Kenan Mod Pack https://github.com/Kenan2000/CDDA-Kenan-Modpack
+This modpack consist of all interesting mods for Cataclysm and 
 #### *Secronom Zombies*:
 https://github.com/Kenan2000/Secronom-Zombies
 
