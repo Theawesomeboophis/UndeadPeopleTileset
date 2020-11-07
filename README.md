@@ -34,7 +34,7 @@ So for mod like *"PKs Rebalancing"* you will need to enable *"PKs Rebalancing - 
 *UNDEAD_PEOPLE_LEGACY* - old version of the tileset. It does supports mods out of the box like before, but is no longer updated due problems with performance.
 
 
-## How to install Mods (the proper way)
+## How to install my graphical Mods
 Put *Mods* folder in "Cataclysm Installation folder", **NOT**  in "Cataclysm Installation folder"/data, that way you can separate mods what are updated with the game and mods you downloaded somewhere else, what you need to update by hand.
 
 Mods what bundled with this tileset (other then mods with graphics for other mods) are graphical mods designed to work with this tileset and change certain aspects of it.
