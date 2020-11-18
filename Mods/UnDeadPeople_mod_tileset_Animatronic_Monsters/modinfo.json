@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "AnimatronicsUDP",
+    "name": "Animatronic Monsters - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Animatronic Monsters",
+    "category": "graphical",
+    "dependencies": [ "Animatronics" ]
+  }
+]
