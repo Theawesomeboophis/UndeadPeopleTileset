@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Mining_ModUDP",
+    "name": "Mining Mod - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Mining Mod",
+    "category": "graphical",
+    "dependencies": [ "Mining_Mod" ]
+  }
+]
