@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "UDP_BlackMilitaryCars",
+    "name": "MSX Black Military Cars",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "Makes Military Cars Black",
+    "category": "graphical",
+    "dependencies": [ "dda" ]
+  }
+]
