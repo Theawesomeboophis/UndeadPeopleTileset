@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Gourmand'sGracesUDP",
+    "name": "Gourmand's Graces - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Gourmand's Graces",
+    "category": "graphical",
+    "dependencies": [ "Gourmand'sGraces" ]
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "dried_fruitsUDP",
+    "name": "Dried Fruits - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Dried Fruits",
+    "category": "graphical",
+    "dependencies": [ "dried_fruits" ]
+  }
+]

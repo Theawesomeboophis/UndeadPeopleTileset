@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "ExArchUDP",
+    "name": "Expanded Archery - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Expanded Archery",
+    "category": "graphical",
+    "dependencies": [ "ExArch" ]
+  }
+]
