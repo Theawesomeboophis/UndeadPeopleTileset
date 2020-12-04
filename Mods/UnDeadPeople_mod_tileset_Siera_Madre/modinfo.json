@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "sierra_madreUDP",
+    "name": "Sierra Madre - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Sierra Madre",
+    "category": "graphical",
+    "dependencies": [ "sierra_madre" ]
+  }
+]
