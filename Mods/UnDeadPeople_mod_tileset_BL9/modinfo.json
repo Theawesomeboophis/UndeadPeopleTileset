@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "BL9_100monresUDP",
+    "name": "BL9 - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for BL9 (100%-monster-resilience-version)",
+    "category": "graphical",
+    "dependencies": [ "BL9_100monres" ]
+  }
+]
