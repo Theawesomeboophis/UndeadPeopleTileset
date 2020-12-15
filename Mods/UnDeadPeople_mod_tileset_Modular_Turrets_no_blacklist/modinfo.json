@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "modular_turrets_no_blacklist_UDP",
+    "name": "Modular Turrets with No Blacklist - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Modular Turrets with No Blacklist",
+    "category": "graphical",
+    "dependencies": [ "modular_turrets_no_blacklist" ]
+  }
+]

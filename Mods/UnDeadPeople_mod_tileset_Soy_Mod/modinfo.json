@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "GOV_BANDITS_UDP",
+    "name": "Add Bandits - UndeadPeople Tileset",
+    "authors": [ "SomeDeadGuy" ],
+    "description": "UDP graphics for Add Bandits",
+    "category": "graphical",
+    "dependencies": [ "GOV_BANDITS" ]
+  }
+]
