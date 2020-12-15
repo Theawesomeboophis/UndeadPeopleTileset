@@ -1,11 +1,11 @@
 [
   {
     "type": "MOD_INFO",
-    "ident": "SoyMod_UDP",
-    "name": "SoyMod - UndeadPeople Tileset",
+    "ident": "GOV_BANDITS_UDP",
+    "name": "Compatible Add Bandits - UndeadPeople Tileset",
     "authors": [ "SomeDeadGuy" ],
-    "description": "UDP graphics for SoyMod",
+    "description": "UDP graphics for Compatible Add Bandits",
     "category": "graphical",
-    "dependencies": [ "Soy mod" ]
+    "dependencies": [ "GOV_BANDITS" ]
   }
 ]
