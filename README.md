@@ -1,3 +1,5 @@
+## TILESET IS BROKEN ON VERSION 11268
+Use 11265 untill i fix this broken mess! Thanks, dda devs!
 
 ## Modpack With FULL UNDEAD support (No Mods with tileset mentioned below needed)
 This tileset is now works with Kenan's Mod Pack 
