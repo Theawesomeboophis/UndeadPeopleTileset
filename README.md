@@ -1,5 +1,6 @@
-## BASE TILESET IS NOW WORKING PAST 11268
-But i am sure mod tilesets are still broken. Will fix them in the following days.
+## TILESET AND MOD TILESET SHOULD ALL WORK NOW
+Check it out! :)
+Kenan mods will be fixed shortly.
 
 ## Modpack With FULL UNDEAD support (No Mods with tileset mentioned below needed)
 This tileset is now works with Kenan's Mod Pack 
