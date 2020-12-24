@@ -1,3 +1,10 @@
+## My own Memory Color Settings
+Make memory black and white while making it darker so darkness can be distinguashe from memory. In my opinion make the game way better looking. Try it out!
+
+![alt text](https://i.imgur.com/mp2c27G.png)
+
+
+
 ## Modpack With FULL UNDEAD support (No Mods with tileset mentioned below needed)
 This tileset is now works with Kenan's Mod Pack 
 
