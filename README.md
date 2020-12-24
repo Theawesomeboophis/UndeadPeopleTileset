@@ -1,7 +1,3 @@
-## TILESET AND MOD TILESET SHOULD ALL WORK NOW
-Check it out! :)
-Kenan mods will be fixed shortly.
-
 ## Modpack With FULL UNDEAD support (No Mods with tileset mentioned below needed)
 This tileset is now works with Kenan's Mod Pack 
 
