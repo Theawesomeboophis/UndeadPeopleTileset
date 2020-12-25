@@ -1,5 +1,5 @@
 ## My own Memory Color Settings
-Make memory black and white while making it darker so darkness can be distinguashe from memory. In my opinion make the game way better looking. Try it out!
+Make memory black and white while making it darker so darkness can be distinguashed from memory. In my opinion make the game way better looking. Try it out!
 
 ![alt text](https://i.imgur.com/mp2c27G.png)
 
