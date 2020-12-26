@@ -3,7 +3,7 @@ Make memory black and white while making it darker so darkness can be distinguis
 
 ![alt text](https://i.imgur.com/mp2c27G.png)
 
-##PRs submitted here:
+PRs submitted here:
 https://github.com/SomeDeadGuy/UndeadPeopleUnpacked
 ## Modpack With FULL UNDEAD support (No Mods with tileset mentioned below needed)
 This tileset is now works with Kenan's Mod Pack 
