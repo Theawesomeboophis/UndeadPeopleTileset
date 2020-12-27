@@ -3,8 +3,6 @@ Make memory black and white while making it darker so darkness can be distinguis
 
 ![alt text](https://i.imgur.com/mp2c27G.png)
 
-PRs submitted here:
-https://github.com/SomeDeadGuy/UndeadPeopleUnpacked
 ## Modpack With FULL UNDEAD support (No Mods with tileset mentioned below needed)
 This tileset is now works with Kenan's Mod Pack 
 
@@ -44,6 +42,10 @@ So for mod like *"PKs Rebalancing"* you will need to enable *"PKs Rebalancing - 
 
 *UNDEAD_PEOPLE_LEGACY* - old version of the tileset. It does supports mods out of the box like before, but is no longer updated due problems with performance.
 
+##Want to add or change something in this tileset?
+
+PRs submitted here:
+https://github.com/SomeDeadGuy/UndeadPeopleUnpacked
 
 ## How to install my graphical Mods
 Put *Mods* folder in "Cataclysm Installation folder", **NOT**  in "Cataclysm Installation folder"/data, that way you can separate mods what are updated with the game and mods you downloaded somewhere else, what you need to update by hand.
