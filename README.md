@@ -1,17 +1,7 @@
-## Modpack With FULL UNDEAD support (No Mods with tileset mentioned below needed)
-This tileset is now works with Kenan's Mod Pack 
+## Want to add or change something in this tileset?
 
-This modpack consist of all interesting mods for Cataclysm, they always updated to the latest game version and have mod tiles from Undead People already installed in to them. So you do not need to use Mods with tilesets from my package to see graphics for these mods in the game. Please check this modpack for all interesting and updated mods!
-
-
-https://github.com/Kenan2000/CDDA-Kenan-Modpack - for CDDA 
-
-
-https://github.com/Kenan2000/Bright-Nights-Kenan-Mod-Pack - for BN
-
-
-Despite my recomendations this modpack needs to be installed in *Cataclysm Installation folder*/data/mods (cause of the way cataclysm works), put all folders from "Kenan-Modpack" folder in there with agreeing on file replacement. Sadly that means what each time you update the game via Launcher (cause you lazy like that, and do not want to learn how you can update the game easily without it) it will likely erase all of the modpack files from *data* folder. So you need to reinstall it after each time you update the game. Sucks, i know. But it is how it is.
-
+PRs submitted here:
+https://github.com/SomeDeadGuy/UndeadPeopleUnpacked
 
 ![alt text](https://i.imgur.com/BFQzWtC.png)
 
@@ -45,30 +35,24 @@ Mods what bundled with this tileset (other then mods with graphics for other mod
 
 If graphical mod (or any other mod with supplemental tileset inside (Secronom, Arcana, etc.)) do not work - save the game, close it, open it again and load save. It should 100% hook mods with tileset to the game.
 
-## Interesting Mods with Undead_People sub tilesets (mini tileset within mod folder)
+## My own Memory Color Settings
+Make memory black and white while making it darker so darkness can be distinguished from memory. In my opinion make the game way better looking. Try it out!
 
-#### *Secronom Zombies*:
-https://github.com/Kenan2000/Secronom-Zombies
-version with tileset included is in Kenan Mod Pack
+![alt text](https://i.imgur.com/mp2c27G.png)
 
-#### *ARCANA Magic Mod*:
-https://github.com/chaosvolt/cdda-arcana-mod
-version with tileset included is in Kenan Mod Pack
+## Modpack With FULL UNDEAD support (No Mods with tileset mentioned below needed)
+This tileset is now works with Kenan's Mod Pack 
 
-#### *Whaleys Hair & Tattoo Mod*:
-https://drive.google.com/file/d/1F88Sw412Y0FODT7DBMPIKhG5NLqVMFMt/view (old version, works only with legacy tileset)
-Version for new tileset fixed by me is in Kenan Mod Pack.
+This modpack consist of all interesting mods for Cataclysm, they always updated to the latest game version and have mod tiles from Undead People already installed in to them. So you do not need to use Mods with tilesets from my package to see graphics for these mods in the game. Please check this modpack for all interesting and updated mods!
 
-#### *Whaleys Collectibles Mod*:
-https://drive.google.com/open?id=1uGD3cqwKZpGoCQ8QUOkhvlvZs__4c2d0
 
-#### *Nechronica Redux*:
-https://github.com/YukariMindGap/Nechronica_Redux
+https://github.com/Kenan2000/CDDA-Kenan-Modpack - for CDDA 
 
-#### *Zets-Hair-Extensions*:
-https://github.com/Zetsukaze/Zets-Hair-Extensions (old version, do not use with Undead People)
 
-Use updated version in Kenan Mod Pack.
+https://github.com/Kenan2000/Bright-Nights-Kenan-Mod-Pack - for BN
+
+
+Despite my recomendations this modpack needs to be installed in *Cataclysm Installation folder*/data/mods (cause of the way cataclysm works), put all folders from "Kenan-Modpack" folder in there with agreeing on file replacement. Sadly that means what each time you update the game via Launcher (cause you lazy like that, and do not want to learn how you can update the game easily without it) it will likely erase all of the modpack files from *data* folder. So you need to reinstall it after each time you update the game. Sucks, i know. But it is how it is.
 
 # Nearly Dead
 
