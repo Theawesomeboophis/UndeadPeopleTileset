@@ -1,0 +1,96 @@
+ [
+ {
+    "type": "overmap_terrain",
+    "id": "pottery_cottage",
+    "copy-from": "pottery_cottage",
+    "sym": "\u00E2",
+    "color": "yellow"
+  } ,{
+    "type": "overmap_terrain",
+    "id": "pottery_cottage_basement",
+    "copy-from": "pottery_cottage_basement",
+    "sym": "\u00E2",
+    "color": "yellow"
+  },{
+    "type": "overmap_terrain",
+    "id": "pottery_cottage_2nd",
+    "copy-from": "pottery_cottage_2nd",
+    "sym": "\u00E2",
+    "color": "yellow"
+  },{
+    "type": "overmap_terrain",
+    "id": "pottery_cottage_roof",
+    "copy-from": "pottery_cottage_roof",
+    "sym": "\u00E2",
+    "color": "yellow"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "pottery_cottage_field",
+    "copy-from": "pottery_cottage_field",
+    "sym": "\u00A9",
+    "color": "green"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "pottery_cottage_field_2nd",
+    "copy-from": "pottery_cottage_field_2nd",
+    "sym": "\u00A6",
+    "color": "blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "pottery_cottage_field_roof",
+    "copy-from": "pottery_cottage_field_roof",
+    "sym": "\u00A6",
+    "color": "blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hot_springs",
+    "copy-from": "hot_springs",
+    "sym": "\u00DC"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "sealab_small_surface",
+    "copy-from": "sealab_small_surface",
+    "sym": "\u00D8",
+    "color": "light_cyan"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "sealab_small_-1",
+    "copy-from": "sealab_small_-1",
+    "sym": "\u00C1",
+    "color": "light_cyan"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "sealab_small_-2",
+    "copy-from": "sealab_small_-2",
+    "sym": "\u00C1",
+    "color": "light_cyan"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "sealab_small_-3",
+    "copy-from": "sealab_small_-3",
+    "sym": "\u00C1",
+    "color": "light_cyan"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "sealab_small_-4",
+    "copy-from": "sealab_small_-4",
+    "sym": "\u00C1",
+    "color": "light_cyan"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "sealab_small_-5",
+    "copy-from": "sealab_small_-5",
+    "sym": "\u00C1",
+    "color": "light_cyan"
+  }
+]

@@ -1,0 +1,33 @@
+ [
+  {
+    "type": "overmap_terrain",
+    "id": "farm_stills_3",
+    "copy-from": "farm_stills_3",
+    "sym": "\u00D1",
+    "color": "brown"
+  },{
+    "type": "overmap_terrain",
+    "id": "farm_stills_3_basement",
+    "copy-from": "farm_stills_3_basement",
+    "sym": "\u00D1",
+    "color": "brown"
+  },{
+    "type": "overmap_terrain",
+    "id": "farm_stills_3_2nd",
+    "copy-from": "farm_stills_3_2nd",
+    "sym": "\u00D1",
+    "color": "brown"
+  },{
+    "type": "overmap_terrain",
+    "id": "farm_stills_3_roof",
+    "copy-from": "farm_stills_3_roof",
+    "sym": "\u00D1",
+    "color": "brown"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "farm_stills_7_roof",
+    "copy-from": "farm_stills_7_roof",
+    "sym": "\u00E9"
+  }
+]

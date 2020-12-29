@@ -1,0 +1,20 @@
+ [
+ {
+    "type": "overmap_terrain",
+    "id": "shelter_vandal",
+    "copy-from": "shelter_vandal",
+    "sym": "\u00D6"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "shelter_1_vandal",
+    "copy-from": "shelter_1_vandal",
+    "sym": "\u00D6"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "shelter_2_vandal",
+    "copy-from": "shelter_2_vandal",
+    "sym": "\u00D6"
+  }
+]

@@ -1,0 +1,100 @@
+ [
+  {
+    "type": "overmap_terrain",
+    "id": "microlab_generic_isolated_elevator_pit",
+    "copy-from": "microlab_generic_isolated_elevator_pit",
+    "sym": "\u00D2"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "lab_subway_vent_shaft-1",
+    "copy-from": "lab_subway_vent_shaft-1",
+    "sym": "\u00D2"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "lab_subway_vent_shaft-2",
+    "copy-from": "lab_subway_vent_shaft-2",
+    "sym": "\u00D2"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "lab_subway_vent_shaft-3",
+    "copy-from": "lab_subway_vent_shaft-3",
+    "sym": "\u00D2"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "lab_subway_vent_shaft-3",
+    "copy-from": "lab_subway_vent_shaft-3",
+    "sym": "\u00D2"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "microlab_generic_vent_shaft_connector",
+    "copy-from": "microlab_generic_vent_shaft_connector",
+    "sym": "\u00C1",
+	"color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "microlab_generic_hallway_start",
+    "copy-from": "microlab_generic_hallway_start",
+    "sym": "\u00C1",
+	"color": "light_blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "microlab_generic_hallway",
+    "copy-from": "microlab_generic_hallway",
+    "sym": "\u00C1",
+	"color": "light_blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "microlab_generic_firebreak",
+    "copy-from": "microlab_generic_firebreak",
+    "sym": "\u00C1",
+	"color": "light_blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "microlab_generic_stairs_down",
+    "copy-from": "microlab_generic_stairs_down",
+    "sym": "\u00C1",
+	"color": "blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "microlab_generic_isolated_stairs_up",
+    "copy-from": "microlab_generic_isolated_stairs_up",
+    "sym": "\u00C1",
+	"color": "blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "microlab_generic_isolated_stairs_odd",
+    "copy-from": "microlab_generic_isolated_stairs_odd",
+    "sym": "\u00C1",
+	"color": "blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "microlab_generic_edge_room_connector",
+    "copy-from": "microlab_generic_edge_room_connector",
+    "sym": "\u00C1",
+	"color": "light_blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "microlab_reactor",
+    "copy-from": "microlab_reactor",
+    "sym": "\u00C1"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "microlab_reactor_b",
+    "copy-from": "microlab_reactor_b",
+    "sym": "\u00C1"
+  }
+]

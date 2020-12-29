@@ -1,0 +1,1059 @@
+ [
+  {
+    "type": "overmap_terrain",
+    "id": "house_detatched1_basement",
+    "copy-from": "house_detatched1_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_detatched2_basement",
+    "copy-from": "house_detatched2_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_detatched3_basement",
+    "copy-from": "house_detatched3_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_detatched4_basement",
+    "copy-from": "house_detatched4_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_detatched5_basement",
+    "copy-from": "house_detatched5_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_detatched6_basement",
+    "copy-from": "house_detatched6_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_detatched7_basement",
+    "copy-from": "house_detatched7_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_detatched8_basement",
+    "copy-from": "house_detatched8_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_detatched9_basement",
+    "copy-from": "house_detatched9_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "basement_weed",
+    "copy-from": "basement_weed",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "basement_meth",
+    "copy-from": "basement_meth",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_crack3_basement",
+    "copy-from": "house_crack3_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_rv_basement",
+    "copy-from": "house_rv_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_garage_basement",
+    "copy-from": "house_garage_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_garage2_basement",
+    "copy-from": "house_garage2_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_garage3_basement",
+    "copy-from": "house_garage3_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_garage4_basement",
+    "copy-from": "house_garage4_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_garage5_basement",
+    "copy-from": "house_garage5_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_garage6_basement",
+    "copy-from": "house_garage6_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_garage7_basement",
+    "copy-from": "house_garage7_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_garage8_basement",
+    "copy-from": "house_garage8_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_modern_1_basement",
+    "copy-from": "house_modern_1_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_gardener_basement",
+    "copy-from": "house_gardener_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_prepper_basement",
+    "copy-from": "house_prepper_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_prepper2_basement",
+    "copy-from": "house_prepper2_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_fortified_basement",
+    "copy-from": "house_fortified_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "basement_survival",
+    "copy-from": "basement_survival",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_toolshed_basement",
+    "copy-from": "house_toolshed_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_patio_basement",
+    "copy-from": "house_patio_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_2story_basement",
+    "copy-from": "house_2story_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_porch_basement",
+    "copy-from": "house_porch_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "basement_messed",
+    "copy-from": "basement_messed",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "basement_chem",
+    "copy-from": "basement_chem",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "basement_chem2",
+    "copy-from": "basement_chem2",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "basement_bionic_decoy",
+    "copy-from": "basement_bionic_decoy",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_w_1_basement",
+    "copy-from": "house_w_1_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_w_2_basement",
+    "copy-from": "house_w_2_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_w_3_basement",
+    "copy-from": "house_w_3_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_w_4_basement",
+    "copy-from": "house_w_4_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_w_5_basement",
+    "copy-from": "house_w_5_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_08_basement",
+    "copy-from": "house_08_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_10_basement",
+    "copy-from": "house_10_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_11_basement",
+    "copy-from": "house_11_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_12_basement",
+    "copy-from": "house_12_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_13_basement",
+    "copy-from": "house_13_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_14_basement",
+    "copy-from": "house_14_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_15_basement",
+    "copy-from": "house_15_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_16_basement",
+    "copy-from": "house_16_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_17_basement",
+    "copy-from": "house_17_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_19_basement",
+    "copy-from": "house_19_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_22_basement",
+    "copy-from": "house_22_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_33_basement",
+    "copy-from": "house_33_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_34_basement",
+    "copy-from": "house_34_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_36_basement",
+    "copy-from": "house_36_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_37_basement",
+    "copy-from": "house_37_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_39_basement",
+    "copy-from": "house_39_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "rural_house2_basement",
+    "copy-from": "rural_house2_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_1_2_basement",
+    "copy-from": "urban_2_1_basement",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_1_2",
+    "copy-from": "urban_2_1_basement",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_1_4",
+    "copy-from": "urban_2_1_basement",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_1_6",
+    "copy-from": "urban_2_1_basement",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_2_1",
+    "copy-from": "urban_2_1",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_2_2",
+    "copy-from": "urban_2_2",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_2_1_basement",
+    "copy-from": "urban_2_1_basement",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_2_2_basement",
+    "copy-from": "urban_2_2_basement",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_2_3",
+    "copy-from": "urban_2_3",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_2_4",
+    "copy-from": "urban_2_4",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_2_5",
+    "copy-from": "urban_2_5",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_2_6",
+    "copy-from": "urban_2_6",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_6_1",
+    "copy-from": "urban_6_1",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_6_2",
+    "copy-from": "urban_6_2",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_6_1_basement",
+    "copy-from": "urban_6_1_basement",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_6_2_basement",
+    "copy-from": "urban_6_2_basement",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_6_3",
+    "copy-from": "urban_6_3",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_6_4",
+    "copy-from": "urban_6_4",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_6_5",
+    "copy-from": "urban_6_5",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_6_6",
+    "copy-from": "urban_6_6",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_9_1",
+    "copy-from": "urban_9_1",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_9_2",
+    "copy-from": "urban_9_2",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_9_3",
+    "copy-from": "urban_9_3",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_9_4",
+    "copy-from": "urban_9_4",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_9_5",
+    "copy-from": "urban_9_5",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_9_6",
+    "copy-from": "urban_9_6",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_12_1",
+    "copy-from": "urban_12_1",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_12_2",
+    "copy-from": "urban_12_2",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_12_3",
+    "copy-from": "urban_12_3",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_12_4",
+    "copy-from": "urban_12_4",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_12_5",
+    "copy-from": "urban_12_5",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_12_6",
+    "copy-from": "urban_12_6",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_15_1",
+    "copy-from": "urban_15_1",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_15_2",
+    "copy-from": "urban_15_2",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_15_3",
+    "copy-from": "urban_15_3",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_15_4",
+    "copy-from": "urban_15_4",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_15_5",
+    "copy-from": "urban_15_5",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_15_6",
+    "copy-from": "urban_15_6",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_18_1",
+    "copy-from": "urban_18_1",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_18_2",
+    "copy-from": "urban_18_2",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_18_3",
+    "copy-from": "urban_18_3",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_18_4",
+    "copy-from": "urban_18_4",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_18_5",
+    "copy-from": "urban_18_5",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_18_6",
+    "copy-from": "urban_18_6",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_18_7",
+    "copy-from": "urban_18_7",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_18_8",
+    "copy-from": "urban_18_8",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_18_9",
+    "copy-from": "urban_18_9",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_18_10",
+    "copy-from": "urban_18_10",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_w_6_2ndfloor",
+    "copy-from": "house_w_6_2ndfloor",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_w_6_roof",
+    "copy-from": "house_w_6_2ndfloor",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_w_6",
+    "copy-from": "house_w_6",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "house_w_6_basement",
+    "copy-from": "house_w_6_basement",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_7_1_basement",
+    "copy-from": "urban_7_1_basement",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_7_2_basement",
+    "copy-from": "urban_7_2_basement",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_7_1",
+    "copy-from": "urban_7_1",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_7_2",
+    "copy-from": "urban_7_2",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_7_3",
+    "copy-from": "urban_7_3",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_7_4",
+    "copy-from": "urban_7_4",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_7_5",
+    "copy-from": "urban_7_5",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_7_6",
+    "copy-from": "urban_7_6",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_1_1_basement",
+    "copy-from": "urban_1_1_basement",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_1_1",
+    "copy-from": "urban_1_1",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_1_3",
+    "copy-from": "urban_1_3",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_8_1",
+    "copy-from": "urban_8_1",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_8_2",
+    "copy-from": "urban_8_2",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_8_3",
+    "copy-from": "urban_8_3",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_8_4",
+    "copy-from": "urban_8_4",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_8_6",
+    "copy-from": "urban_8_6",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_9_1",
+    "copy-from": "urban_9_1",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_9_2",
+    "copy-from": "urban_9_2",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_10_1",
+    "copy-from": "urban_10_1",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_10_2",
+    "copy-from": "urban_10_2",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_10_3",
+    "copy-from": "urban_10_3",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_10_4",
+    "copy-from": "urban_10_4",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_10_5",
+    "copy-from": "urban_10_5",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_10_6",
+    "copy-from": "urban_10_6",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_10_7",
+    "copy-from": "urban_10_7",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_10_8",
+    "copy-from": "urban_10_8",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_11_1",
+    "copy-from": "urban_11_1",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_11_2",
+    "copy-from": "urban_11_2",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_12_1",
+    "copy-from": "urban_12_1",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_12_2",
+    "copy-from": "urban_12_2",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_14_1",
+    "copy-from": "urban_14_1",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_14_2",
+    "copy-from": "urban_14_2",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_15_1",
+    "copy-from": "urban_15_1",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_15_2",
+    "copy-from": "urban_15_2",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_16_1",
+    "copy-from": "urban_16_1",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_16_2",
+    "copy-from": "urban_16_2",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_16_3",
+    "copy-from": "urban_16_3",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_16_4",
+    "copy-from": "urban_16_4",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_17_1",
+    "copy-from": "urban_17_1",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_17_2",
+    "copy-from": "urban_17_2",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_17_3",
+    "copy-from": "urban_17_3",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_17_4",
+    "copy-from": "urban_17_4",
+    "sym": "\u00E0",
+    "color": "light_gray"
+  }
+]

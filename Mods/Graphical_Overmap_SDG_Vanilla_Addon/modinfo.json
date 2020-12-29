@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Graphical_Overmap_SDG",
+    "name": "Graphical Overmap Vanilla Additions",
+    "authors": [ "SDG" ],
+    "maintainers": [ "SDG" ],
+    "description": "Addon for graphical overmap mod what adds missing stuff to the map.",
+    "category": "graphical",
+    "dependencies": [ "dda", "Graphical_Overmap" ]
+  }
+]
