@@ -1,4 +1,4 @@
-##Graphical Overmap Vanilla Additions mod added! Check it out!
+## Graphical Overmap Vanilla Additions mod added! Check it out!
 Mod adds missing stuff to overmap graphics and also changes colors on some places to better suited ones.
 Soon i will move graphical overmap mod to a separate github page and will add addons for various mods. Stay tuned.
 
