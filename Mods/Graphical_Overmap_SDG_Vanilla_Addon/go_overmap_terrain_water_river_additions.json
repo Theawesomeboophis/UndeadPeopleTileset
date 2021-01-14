@@ -92,5 +92,11 @@
     "copy-from": "sealab_small_-5",
     "sym": "\u00C1",
     "color": "light_cyan"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "island_forest_water",
+    "copy-from": "island_forest_water",
+    "sym": "\u00EC"
   }
 ]

@@ -408,21 +408,21 @@
   {
     "type": "overmap_terrain",
     "id": "urban_1_2",
-    "copy-from": "urban_2_1_basement",
+    "copy-from": "urban_1_2",
     "sym": "\u00D1",
     "color": "light_gray"
   }, 
   {
     "type": "overmap_terrain",
     "id": "urban_1_4",
-    "copy-from": "urban_2_1_basement",
+    "copy-from": "urban_1_4",
     "sym": "\u00D1",
     "color": "light_gray"
   }, 
   {
     "type": "overmap_terrain",
     "id": "urban_1_6",
-    "copy-from": "urban_2_1_basement",
+    "copy-from": "urban_1_6",
     "sym": "\u00D1",
     "color": "light_gray"
   }, 
@@ -582,6 +582,48 @@
   }, 
   {
     "type": "overmap_terrain",
+    "id": "urban_11_1",
+    "copy-from": "urban_11_1",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_11_2",
+    "copy-from": "urban_11_2",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_11_3",
+    "copy-from": "urban_11_3",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_11_4",
+    "copy-from": "urban_11_4",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_11_5",
+    "copy-from": "urban_11_5",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_11_6",
+    "copy-from": "urban_11_6",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
     "id": "urban_12_1",
     "copy-from": "urban_12_1",
     "sym": "\u00D1",
@@ -736,6 +778,76 @@
   }, 
   {
     "type": "overmap_terrain",
+    "id": "urban_29_1",
+    "copy-from": "urban_29_1",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_29_2",
+    "copy-from": "urban_29_2",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_29_3",
+    "copy-from": "urban_29_3",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_29_4",
+    "copy-from": "urban_29_4",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_29_5",
+    "copy-from": "urban_29_5",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_29_6",
+    "copy-from": "urban_29_6",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_29_7",
+    "copy-from": "urban_29_7",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_29_8",
+    "copy-from": "urban_29_8",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_29_9",
+    "copy-from": "urban_29_9",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "urban_29_10",
+    "copy-from": "urban_29_10",
+    "sym": "\u00D1",
+    "color": "light_gray"
+  }, 
+  {
+    "type": "overmap_terrain",
     "id": "house_w_6_2ndfloor",
     "copy-from": "house_w_6_2ndfloor",
     "sym": "\u00D1",
@@ -876,20 +988,6 @@
   }, 
   {
     "type": "overmap_terrain",
-    "id": "urban_9_1",
-    "copy-from": "urban_9_1",
-    "sym": "\u00E0",
-    "color": "light_gray"
-  }, 
-  {
-    "type": "overmap_terrain",
-    "id": "urban_9_2",
-    "copy-from": "urban_9_2",
-    "sym": "\u00E0",
-    "color": "light_gray"
-  }, 
-  {
-    "type": "overmap_terrain",
     "id": "urban_10_1",
     "copy-from": "urban_10_1",
     "sym": "\u00D1",
@@ -942,20 +1040,6 @@
     "id": "urban_10_8",
     "copy-from": "urban_10_8",
     "sym": "\u00D1",
-    "color": "light_gray"
-  }, 
-  {
-    "type": "overmap_terrain",
-    "id": "urban_11_1",
-    "copy-from": "urban_11_1",
-    "sym": "\u00E0",
-    "color": "light_gray"
-  }, 
-  {
-    "type": "overmap_terrain",
-    "id": "urban_11_2",
-    "copy-from": "urban_11_2",
-    "sym": "\u00E0",
     "color": "light_gray"
   }, 
   {
