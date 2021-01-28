@@ -689,5 +689,59 @@
     "copy-from": "airliner_1b",
     "sym": "\u00FC",
     "color": "light_blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "nest_dermatik",
+    "copy-from": "nest_dermatik",
+    "sym": "\u00F3",
+    "color": "brown"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cabin_lake",
+    "copy-from": "cabin_lake",
+    "sym": "\u00E2"
+  } ,
+  {
+    "type": "overmap_terrain",
+    "id": "cabin_lake_roof",
+    "copy-from": "cabin_lake_roof",
+    "sym": "\u00E2"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "lake_cabin_boathouse",
+    "copy-from": "lake_cabin_boathouse",
+    "sym": "\u00D4",
+    "color": "light_cyan",
+    "name": "boathouse"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "lake_cabin_boathouse_roof",
+    "copy-from": "lake_cabin_boathouse_roof",
+    "sym": "\u00D4",
+    "color": "light_cyan",
+    "name": "boathouse"
+	
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cabin_strange",
+    "copy-from": "cabin_strange",
+    "sym": "\u00E2"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cabin_strange_roof",
+    "copy-from": "cabin_strange_roof",
+    "sym": "\u00E2"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cabin_strange_b",
+    "copy-from": "cabin_strange_b",
+    "sym": "\u00E2"
   }
 ]
