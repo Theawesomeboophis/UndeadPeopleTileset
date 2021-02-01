@@ -1,0 +1,51 @@
+ [
+  {
+    "type": "overmap_terrain",
+    "id": "triffid_grove_swamp",
+    "copy-from": "triffid_grove_swamp",
+    "sym": "\u00F5",
+    "color": "pink"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "pit_topside",
+    "copy-from": "pit_topside",
+    "sym": "\u00EA",
+    "color": "light_gray"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "pit_dusk_horror",
+    "copy-from": "pit_dusk_horror",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "sludge_pit",
+    "copy-from": "sludge_pit",
+    "sym": "\u00F3",
+    "color": "light_gray"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "sludge_pit_under",
+    "copy-from": "sludge_pit_under",
+    "sym": "\u00F3",
+    "color": "light_gray"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "wasp_center",
+    "copy-from": "wasp_center",
+    "sym": "\u00F3",
+    "color": "dark_gray"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "spider_pit",
+    "copy-from": "spider_pit",
+    "sym": "\u00B0",
+    "color": "white"
+  }
+]

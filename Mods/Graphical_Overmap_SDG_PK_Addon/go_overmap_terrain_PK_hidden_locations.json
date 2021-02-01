@@ -1,0 +1,20 @@
+ [
+  {
+    "type": "overmap_terrain",
+    "id": "sky_vortex_ground",
+    "copy-from": "sky_vortex_ground",
+    "sym": "\u00A8"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "sky_vortex",
+    "copy-from": "sky_vortex",
+    "sym": "\u00A6"
+  },
+    {
+    "type": "overmap_terrain",
+    "id": "trapdoor_pit",
+    "copy-from": "trapdoor_pit",
+    "sym": "\u00A8"
+  }
+]

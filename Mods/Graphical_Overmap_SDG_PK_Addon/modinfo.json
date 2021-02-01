@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Graphical_Overmap_SDG_PK",
+    "name": "Graphical Overmap PK's Rebalancing",
+    "authors": [ "SDG" ],
+    "maintainers": [ "SDG" ],
+    "description": "Addon for graphical overmap mod what adds missing stuff to the map from the mod PK's Rebalancing.",
+    "category": "graphical",
+    "dependencies": [ "PK_REBALANCE", "Graphical_Overmap" ]
+  }
+]

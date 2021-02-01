@@ -1,0 +1,268 @@
+ [
+  {
+    "type": "overmap_terrain",
+    "id": "hell_city_entranceSW",
+    "copy-from": "hell_city_entranceSW",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_city_entranceSE",
+    "copy-from": "hell_city_entranceSE",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_city_entranceNW",
+    "copy-from": "hell_city_entranceNW",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_city_entranceNE",
+    "copy-from": "hell_city_entranceNE",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_city_tunnel_B1W",
+    "copy-from": "hell_city_tunnel_B1W",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_city_tunnel_B1E",
+    "copy-from": "hell_city_tunnel_B1E",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_city_tunnel_B2E",
+    "copy-from": "hell_city_tunnel_B2E",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_city_tunnel_prison_S",
+    "copy-from": "hell_city_tunnel_prison_S",
+    "sym": "\u00CF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_city_tunnel_prison_N",
+    "copy-from": "hell_city_tunnel_prison_N",
+    "sym": "\u00CF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_city_B3S",
+    "copy-from": "hell_city_B3S",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_city_B3N",
+    "copy-from": "hell_city_B3N",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_NE",
+    "copy-from": "hell_castle_NE",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_CE",
+    "copy-from": "hell_castle_CE",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_SE",
+    "copy-from": "hell_castle_SE",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_N",
+    "copy-from": "hell_castle_N",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_C",
+    "copy-from": "hell_castle_C",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_S",
+    "copy-from": "hell_castle_S",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_NW",
+    "copy-from": "hell_castle_NW",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_CW",
+    "copy-from": "hell_castle_CW",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_SW",
+    "copy-from": "hell_castle_SW",
+    "sym": "\u00A5",
+    "color": "red"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_B1_NE",
+    "copy-from": "hell_castle_B1_NE",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_B1_CE",
+    "copy-from": "hell_castle_B1_CE",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_B1_SE",
+    "copy-from": "hell_castle_B1_SE",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_B1_N",
+    "copy-from": "hell_castle_B1_N",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_B1_C",
+    "copy-from": "hell_castle_B1_C",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_B1_S",
+    "copy-from": "hell_castle_B1_S",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_B1_NW",
+    "copy-from": "hell_castle_B1_NW",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_B1_CW",
+    "copy-from": "hell_castle_B1_CW",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_B1_SW",
+    "copy-from": "hell_castle_B1_SW",
+    "sym": "\u00A5",
+    "color": "red"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_B2_NE",
+    "copy-from": "hell_castle_B2_NE",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_B2_CE",
+    "copy-from": "hell_castle_B2_CE",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_B2_SE",
+    "copy-from": "hell_castle_B2_SE",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_B2_N",
+    "copy-from": "hell_castle_B2_N",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_B2_C",
+    "copy-from": "hell_castle_B2_C",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_B2_S",
+    "copy-from": "hell_castle_B2_S",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_B2_NW",
+    "copy-from": "hell_castle_B2_NW",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_B2_CW",
+    "copy-from": "hell_castle_B2_CW",
+    "sym": "\u00A5",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "hell_castle_B2_SW",
+    "copy-from": "hell_castle_B2_SW",
+    "sym": "\u00A5",
+    "color": "red"
+  }
+]

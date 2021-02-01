@@ -1,0 +1,63 @@
+[
+  {
+    "type": "overmap_terrain",
+    "id": "doomlab_f00_20",
+    "copy-from": "doomlab_f00_20",
+    "sym": "\u00C1"
+  },{
+    "type": "overmap_terrain",
+    "id": "doomlab_lab_open",
+    "copy-from": "doomlab_lab_open",
+    "sym": "\u00C1"
+  },{
+    "type": "overmap_terrain",
+    "id": "doomlab_f01_20",
+    "copy-from": "doomlab_f01_20",
+    "sym": "\u00C1"
+  },{
+    "type": "overmap_terrain",
+    "id": "doomlab_office",
+    "copy-from": "doomlab_office",
+    "sym": "\u00C1"
+  },{
+    "type": "overmap_terrain",
+    "id": "doomlab_dorm",
+    "copy-from": "doomlab_dorm",
+    "sym": "\u00C1"
+  },{
+    "type": "overmap_terrain",
+    "id": "doomlab_redacted",
+    "copy-from": "doomlab_redacted",
+    "sym": "\u00C1"
+  },{
+    "type": "overmap_terrain",
+    "id": "doomlab_stairs",
+    "copy-from": "doomlab_stairs",
+    "sym": "\u00C1"
+  },{
+    "type": "overmap_terrain",
+    "id": "doomlab_stairs_II",
+    "copy-from": "doomlab_stairs_II",
+    "sym": "\u00C1"
+  },{
+    "type": "overmap_terrain",
+    "id": "doomlab_comms",
+    "copy-from": "doomlab_comms",
+    "sym": "\u00C1"
+  },{
+    "type": "overmap_terrain",
+    "id": "doomlab_lab_prm",
+    "copy-from": "doomlab_lab_prm",
+    "sym": "\u00C1"
+  },{
+    "type": "overmap_terrain",
+    "id": "doomlab_finale",
+    "copy-from": "doomlab_finale",
+    "sym": "\u00CF"
+  },{
+    "type": "overmap_terrain",
+    "id": "doomlab_finale_II",
+    "copy-from": "doomlab_finale_II",
+    "sym": "\u00A5"
+  }
+]

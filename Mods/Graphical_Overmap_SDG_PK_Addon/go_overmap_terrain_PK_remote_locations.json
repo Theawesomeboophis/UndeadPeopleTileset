@@ -1,0 +1,252 @@
+[
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_00",
+    "copy-from": "cemetery_large_00",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_01",
+    "copy-from": "cemetery_large_01",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_02",
+    "copy-from": "cemetery_large_02",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_03",
+    "copy-from": "cemetery_large_03",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_04",
+    "copy-from": "cemetery_large_04",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_10",
+    "copy-from": "cemetery_large_10",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_11",
+    "copy-from": "cemetery_large_11",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_12",
+    "copy-from": "cemetery_large_12",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_13",
+    "copy-from": "cemetery_large_13",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_14",
+    "copy-from": "cemetery_large_14",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_20",
+    "copy-from": "cemetery_large_20",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_21",
+    "copy-from": "cemetery_large_21",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_22",
+    "copy-from": "cemetery_large_22",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_23",
+    "copy-from": "cemetery_large_23",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_24",
+    "copy-from": "cemetery_large_24",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_30",
+    "copy-from": "cemetery_large_30",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_31",
+    "copy-from": "cemetery_large_31",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_32",
+    "copy-from": "cemetery_large_32",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_33",
+    "copy-from": "cemetery_large_33",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_34",
+    "copy-from": "cemetery_large_34",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_40",
+    "copy-from": "cemetery_large_40",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_41",
+    "copy-from": "cemetery_large_41",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_42",
+    "copy-from": "cemetery_large_42",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_43",
+    "copy-from": "cemetery_large_43",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_44",
+    "copy-from": "cemetery_large_44",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_50",
+    "copy-from": "cemetery_large_50",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_51",
+    "copy-from": "cemetery_large_51",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_52",
+    "copy-from": "cemetery_large_52",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_53",
+    "copy-from": "cemetery_large_53",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cemetery_large_54",
+    "copy-from": "cemetery_large_54",
+    "sym": "\u00C4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "barn_old",
+    "copy-from": "barn_old",
+    "sym": "\u00E9",
+	"color": "brown"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "police_hub_00",
+    "copy-from": "police_hub_00",
+    "sym": "\u00E3",
+	"color": "yellow"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "police_hub_01",
+    "copy-from": "police_hub_01",
+    "sym": "\u00E3",
+	"color": "yellow"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "police_hub_02",
+    "copy-from": "police_hub_02",
+    "sym": "\u00E3",
+	"color": "yellow"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "police_hub_10",
+    "copy-from": "police_hub_10",
+    "sym": "\u00E3",
+	"color": "yellow"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "police_hub_11",
+    "copy-from": "police_hub_11",
+    "sym": "\u00E3",
+	"color": "yellow"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "police_hub_12",
+    "copy-from": "police_hub_12",
+    "sym": "\u00E3",
+	"color": "yellow"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "police_hub_20",
+    "copy-from": "police_hub_20",
+    "sym": "\u00E3",
+	"color": "yellow"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "police_hub_21",
+    "copy-from": "police_hub_21",
+    "sym": "\u00E3",
+	"color": "yellow"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "police_hub_22",
+    "copy-from": "police_hub_22",
+    "sym": "\u00E3",
+	"color": "yellow"
+  }
+]
