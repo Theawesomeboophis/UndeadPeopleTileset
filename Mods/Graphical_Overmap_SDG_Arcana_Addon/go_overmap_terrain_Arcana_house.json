@@ -1,0 +1,16 @@
+ [
+  {
+    "type": "overmap_terrain",
+    "id": "house_arcana",
+    "copy-from": "house_arcana",
+    "sym": "\u00E4",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "arcanist_basement",
+    "copy-from": "arcanist_basement",
+    "sym": "\u00E4",
+    "color": "light_gray"
+  }
+]

@@ -699,6 +699,19 @@
   },
   {
     "type": "overmap_terrain",
+    "id": "nest_dermatik_roof",
+    "copy-from": "nest_dermatik_roof",
+    "sym": "\u00F3",
+    "color": "brown"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "bandit_cabin",
+    "copy-from": "bandit_cabin",
+    "sym": "\u00E2"
+  },
+  {
+    "type": "overmap_terrain",
     "id": "cabin_lake",
     "copy-from": "cabin_lake",
     "sym": "\u00E2"

@@ -1,0 +1,235 @@
+ [
+  {
+    "type": "overmap_terrain",
+    "id": "dsaddler_motel_entrance",
+    "copy-from": "dsaddler_motel_entrance",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "dsaddler_motel_entrance_roof",
+    "copy-from": "dsaddler_motel_entrance_roof",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "dsaddler_motel_1",
+    "copy-from": "dsaddler_motel_1",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "dsaddler_motel_1_roof",
+    "copy-from": "dsaddler_motel_1_roof",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "dsaddler_motel_2",
+    "copy-from": "dsaddler_motel_2",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "dsaddler_motel_2_roof",
+    "copy-from": "dsaddler_motel_2_roof",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "dsaddler_motel_3",
+    "copy-from": "dsaddler_motel_3",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "dsaddler_motel_3_roof",
+    "copy-from": "dsaddler_motel_3_roof",
+    "sym": "\u00E7"
+  },
+ 
+ 
+ 
+ 
+ 
+   {
+    "type": "overmap_terrain",
+    "id": "saddler_motel_entrance",
+    "copy-from": "saddler_motel_entrance",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_motel_entrance_roof",
+    "copy-from": "saddler_motel_entrance_roof",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_motel_1",
+    "copy-from": "saddler_motel_1",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_motel_1_roof",
+    "copy-from": "saddler_motel_1_roof",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_motel_2",
+    "copy-from": "saddler_motel_2",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_motel_2_roof",
+    "copy-from": "saddler_motel_2_roof",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_motel_3",
+    "copy-from": "saddler_motel_3",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_motel_3_roof",
+    "copy-from": "saddler_motel_3_roof",
+    "sym": "\u00E7"
+  },
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   {
+    "type": "overmap_terrain",
+    "id": "s_saddler_reststop_1",
+    "copy-from": "s_saddler_reststop_1",
+    "sym": "\u00FF",
+    "color": "yellow"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "s_saddler_reststop_1_roof",
+    "copy-from": "s_saddler_reststop_1_roof",
+    "sym": "\u00FF",
+    "color": "yellow"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "s_saddler_reststop_2",
+    "copy-from": "s_saddler_reststop_2",
+    "sym": "\u00FF",
+    "color": "yellow"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "s_saddler_reststop_2_roof",
+    "copy-from": "s_saddler_reststop_2_roof",
+    "sym": "\u00FF",
+    "color": "yellow"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "s_saddler_restparking_1",
+    "copy-from": "s_saddler_restparking_1",
+    "sym": "\u00F4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "s_saddler_restparking_2",
+    "copy-from": "s_saddler_restparking_2",
+    "sym": "\u00F4"
+  },
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  {
+    "type": "overmap_terrain",
+    "id": "s_dsaddler_reststop_1",
+    "copy-from": "s_dsaddler_reststop_1",
+    "sym": "\u00FF",
+    "color": "yellow"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "s_dsaddler_reststop_1_roof",
+    "copy-from": "s_dsaddler_reststop_1_roof",
+    "sym": "\u00FF",
+    "color": "yellow"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "s_dsaddler_reststop_2",
+    "copy-from": "s_dsaddler_reststop_2",
+    "sym": "\u00FF",
+    "color": "yellow"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "s_dsaddler_reststop_2_roof",
+    "copy-from": "s_dsaddler_reststop_2_roof",
+    "sym": "\u00FF",
+    "color": "yellow"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "s_dsaddler_restparking_1",
+    "copy-from": "s_dsaddler_restparking_1",
+    "sym": "\u00F4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "s_dsaddler_restparking_2",
+    "copy-from": "s_dsaddler_restparking_2",
+    "sym": "\u00F4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_motel_twd_1",
+    "copy-from": "saddler_motel_twd_1",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_motel_twd_2",
+    "copy-from": "saddler_motel_twd_2",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_motel_twd_second_floor",
+    "copy-from": "saddler_motel_twd_second_floor",
+    "sym": "\u00E7"
+  },  {
+    "type": "overmap_terrain",
+    "id": "dsaddler_motel_twd_1",
+    "copy-from": "saddler_motel_twd_1",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "dsaddler_motel_twd_2",
+    "copy-from": "saddler_motel_twd_2",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "dsaddler_motel_twd_second_floor",
+    "copy-from": "saddler_motel_twd_second_floor",
+    "sym": "\u00E7"
+  }
+]

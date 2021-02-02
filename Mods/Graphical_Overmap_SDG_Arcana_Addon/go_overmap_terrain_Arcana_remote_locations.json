@@ -1,0 +1,324 @@
+ [
+  {
+    "type": "overmap_terrain",
+    "id": "shrine_anomaly_3",
+    "copy-from": "shrine_anomaly_3",
+    "sym": "\u00A1",
+    "color": "dark_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "strange_grove",
+    "copy-from": "strange_grove",
+    "sym": "\u00A1",
+    "color": "light_green"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "grove_ruins",
+    "copy-from": "grove_ruins",
+    "sym": "\u00A1",
+    "color": "green"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "impact_site",
+    "copy-from": "impact_site",
+    "sym": "\u00AA",
+    "color": "light_red"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "impact_platforms_center",
+    "copy-from": "impact_platforms_center",
+    "sym": "\u00AB",
+    "color": "light_blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "impact_platforms_right",
+    "copy-from": "impact_platforms_right",
+    "sym": "\u00AB",
+    "color": "light_blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "impact_platforms_left",
+    "copy-from": "impact_platforms_left",
+    "sym": "\u00AB",
+    "color": "light_blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "impact_temple_left",
+    "copy-from": "impact_temple_left",
+    "sym": "\u00AB",
+    "color": "light_blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "impact_temple_center",
+    "copy-from": "impact_temple_center",
+    "sym": "\u00AB",
+    "color": "light_blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "impact_temple_right",
+    "copy-from": "impact_temple_right",
+    "sym": "\u00AB",
+    "color": "light_blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "impact_roof_left",
+    "copy-from": "impact_roof_left",
+    "sym": "\u00AB",
+    "color": "light_blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "impact_roof_center",
+    "copy-from": "impact_roof_center",
+    "sym": "\u00AB",
+    "color": "light_blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "impact_roof_right",
+    "copy-from": "impact_roof_right",
+    "sym": "\u00AB",
+    "color": "light_blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "curious_structure",
+    "copy-from": "curious_structure",
+    "sym": "\u00A7",
+    "color": "light_red"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "curious_structure_roof",
+    "copy-from": "curious_structure_roof",
+    "sym": "\u00A7",
+    "color": "light_red"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "curious_structure_b",
+    "copy-from": "curious_structure_b",
+    "sym": "\u00A7",
+    "color": "light_red"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "curious_structure_b2",
+    "copy-from": "curious_structure_b2",
+    "sym": "\u00A5",
+    "color": "red"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "arcana_hermitage_1",
+    "copy-from": "arcana_hermitage_1",
+    "sym": "\u00AC",
+    "color": "light_green"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "arcana_hermitage_2",
+    "copy-from": "arcana_hermitage_2",
+    "sym": "\u00AC",
+    "color": "light_green"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "arcana_hermitage_roof",
+    "copy-from": "arcana_hermitage_roof",
+    "sym": "\u00AC",
+    "color": "light_green"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "island_temple_1",
+    "copy-from": "island_temple_1",
+    "sym": "\u00AD",
+    "color": "blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "island_temple_roof",
+    "copy-from": "island_temple_roof",
+    "sym": "\u00AD",
+    "color": "blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "island_temple_b_1",
+    "copy-from": "island_temple_b_1",
+    "sym": "\u00AF",
+    "color": "dark_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "island_temple_b_2",
+    "copy-from": "island_temple_b_2",
+    "sym": "\u00AF",
+    "color": "dark_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "island_temple_b_3",
+    "copy-from": "island_temple_b_3",
+    "sym": "\u00AF",
+    "color": "dark_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "island_temple_b_4",
+    "copy-from": "island_temple_b_4",
+    "sym": "\u00AF",
+    "color": "dark_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "shrine_anomaly",
+    "copy-from": "shrine_anomaly",
+    "sym": "\u00AF",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "shrine_anomaly_2",
+    "copy-from": "shrine_anomaly_2",
+    "sym": "\u00AF",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "arcana_structure_anomalous_entrance",
+    "copy-from": "arcana_structure_anomalous_entrance",
+    "sym": "\u00AF",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "arcana_structure_anomalous_surface",
+    "copy-from": "arcana_structure_anomalous_surface",
+    "sym": "\u00AF",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "arcana_structure_anomalous_roof",
+    "copy-from": "arcana_structure_anomalous_roof",
+    "sym": "\u00AF",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "arcana_structure_anomalous_underground",
+    "copy-from": "arcana_structure_anomalous_underground",
+    "sym": "\u00AF",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "arcana_structure_anomalous_finale",
+    "copy-from": "arcana_structure_anomalous_finale",
+    "sym": "\u00AF",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "arcana_field_anomalous_buffer",
+    "copy-from": "arcana_field_anomalous_buffer",
+    "sym": "\u00A8",
+    "color": "brown"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "sanguine_holdout_1",
+    "copy-from": "sanguine_holdout_1",
+    "sym": "\u00E2",
+    "color": "green"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "sanguine_holdout_2",
+    "copy-from": "sanguine_holdout_2",
+    "sym": "\u00E2",
+    "color": "green"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "sanguine_holdout_b1",
+    "copy-from": "sanguine_holdout_b1",
+    "sym": "\u00E2",
+    "color": "green"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "sanguine_holdout_roof",
+    "copy-from": "sanguine_holdout_roof",
+    "sym": "\u00E2",
+    "color": "green"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cf_church_1",
+    "copy-from": "cf_church_1",
+    "sym": "\u00A6",
+    "color": "brown"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cf_church_2",
+    "copy-from": "cf_church_2",
+    "sym": "\u00A6",
+    "color": "brown"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cf_church_3",
+    "copy-from": "cf_church_3",
+    "sym": "\u00A6",
+    "color": "brown"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cf_church_1_roof",
+    "copy-from": "cf_church_1_roof",
+    "sym": "\u00A6",
+    "color": "blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cf_church_2_roof",
+    "copy-from": "cf_church_2_roof",
+    "sym": "\u00A6",
+    "color": "blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cf_church_3_roof",
+    "copy-from": "cf_church_3_roof",
+    "sym": "\u00A6",
+    "color": "blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cf_church_4",
+    "copy-from": "cf_church_4",
+    "sym": "\u00F2",
+    "color": "light_red"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "cf_church_4_roof",
+    "copy-from": "cf_church_4_roof",
+    "sym": "\u00F2",
+    "color": "light_red"
+  }
+]

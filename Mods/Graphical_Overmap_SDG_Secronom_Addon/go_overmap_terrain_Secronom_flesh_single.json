@@ -1,0 +1,58 @@
+ [
+  {
+    "type": "overmap_terrain",
+    "id": "secro_house_flesh",
+    "copy-from": "secro_house_flesh",
+    "sym": "\u00B4",
+    "color": "light_red"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "secro_basement_flesh",
+    "copy-from": "secro_basement_flesh",
+    "sym": "\u00B4",
+    "color": "light_red"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "secro_bunker_flesh",
+    "copy-from": "secro_bunker_flesh",
+    "sym": "\u00B6",
+    "color": "light_red"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "secro_bunker_basement_flesh",
+    "copy-from": "secro_bunker_basement_flesh",
+    "sym": "\u00B6",
+    "color": "light_red"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "secro_bunker_basement_fvvault_flesh",
+    "copy-from": "secro_bunker_basement_fvvault_flesh",
+    "sym": "\u00B6",
+    "color": "light_red"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_cavern_entrance",
+    "copy-from": "flesh_cavern_entrance",
+    "sym": "\u00B7",
+    "color": "light_red"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_cavern_bot",
+    "copy-from": "flesh_cavern_bot",
+    "sym": "\u00B7",
+    "color": "light_red"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_cavern_boss",
+    "copy-from": "flesh_cavern_boss",
+    "sym": "\u00B7",
+    "color": "red"
+  }
+]

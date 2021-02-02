@@ -1,0 +1,51 @@
+ [
+  {
+    "type": "overmap_terrain",
+    "id": "secro_flesh_city_edge",
+    "copy-from": "secro_flesh_city_edge",
+    "sym": "\u00A8",
+    "color": "light_red"
+  },  {
+    "type": "overmap_terrain",
+    "id": "s_house_flesh",
+    "copy-from": "s_house_flesh",
+    "sym": "\u00B4",
+    "color": "light_red"
+  },  {
+    "type": "overmap_terrain",
+    "id": "s_shop_flesh",
+    "copy-from": "s_shop_flesh",
+    "sym": "\u00C2",
+    "color": "light_red"
+  },  {
+    "type": "overmap_terrain",
+    "id": "secro_flesh_city_core",
+    "copy-from": "secro_flesh_city_core",
+    "sym": "\u00C3",
+    "color": "light_red"
+  },  {
+    "type": "overmap_terrain",
+    "id": "secro_flesh_city_core_up",
+    "copy-from": "secro_flesh_city_core_up",
+    "sym": "\u00C3",
+    "color": "light_red"
+  },  {
+    "type": "overmap_terrain",
+    "id": "secro_flesh_city_core_upper",
+    "copy-from": "secro_flesh_city_core_upper",
+    "sym": "\u00C3",
+    "color": "light_red"
+  },  {
+    "type": "overmap_terrain",
+    "id": "secro_flesh_city_core_uppest",
+    "copy-from": "secro_flesh_city_core_uppest",
+    "sym": "\u00C3",
+    "color": "light_red"
+  },  {
+    "type": "overmap_terrain",
+    "id": "secro_flesh_city_core_uppest_roof",
+    "copy-from": "secro_flesh_city_core_uppest_roof",
+    "sym": "\u00C3",
+    "color": "light_red"
+  }
+]

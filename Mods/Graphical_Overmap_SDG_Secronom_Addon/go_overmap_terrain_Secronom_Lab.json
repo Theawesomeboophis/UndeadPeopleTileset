@@ -1,0 +1,114 @@
+ [
+  {
+    "type": "overmap_terrain",
+    "id": "SecronomSSLab_top",
+    "copy-from": "SecronomSSLab_top",
+    "sym": "\u00C1",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "SecronomSSLab_b1",
+    "copy-from": "SecronomSSLab_b1",
+    "sym": "\u00C1",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "SecronomSSLab_bowspecs",
+    "copy-from": "SecronomSSLab_bowspecs",
+    "sym": "\u00C1",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "SecronomSSLab_bowspecs",
+    "copy-from": "SecronomSSLab_bowspecs",
+    "sym": "\u00C1",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "SecronomSSLab_enigmaspecs",
+    "copy-from": "SecronomSSLab_enigmaspecs",
+    "sym": "\u00C1",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "SecronomSSLab_b2",
+    "copy-from": "SecronomSSLab_b2",
+    "sym": "\u00C1",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "SecronomSSLab_failspecs",
+    "copy-from": "SecronomSSLab_failspecs",
+    "sym": "\u00C1",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "SecronomSSLab_Climax",
+    "copy-from": "SecronomSSLab_Climax",
+    "sym": "\u00C1",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "SecronomSSLab_b3",
+    "copy-from": "SecronomSSLab_b3",
+    "sym": "\u00C1",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "SecronomSSLab_b3_flesh",
+    "copy-from": "SecronomSSLab_b3_flesh",
+    "sym": "\u00C1",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "SecronomSSBunker",
+    "copy-from": "SecronomSSBunker",
+    "sym": "\u00C1",
+    "color": "dark_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "SecronomSSBunker_connect_curve",
+    "copy-from": "SecronomSSBunker_connect_curve",
+    "sym": "\u00D3",
+    "color": "dark_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "SecronomSSBunker_connect_straight",
+    "copy-from": "SecronomSSBunker_connect_straight",
+    "sym": "\u00D3",
+    "color": "dark_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "SecronomSSBunker_connect_straight_ru",
+    "copy-from": "SecronomSSBunker_connect_straight_ru",
+    "sym": "\u00D3",
+    "color": "dark_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "SecronomSSBunker_connect_straight_rd",
+    "copy-from": "SecronomSSBunker_connect_straight_rd",
+    "sym": "\u00D3",
+    "color": "dark_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "SecronomSSBunker_ladder",
+    "copy-from": "SecronomSSBunker_ladder",
+    "sym": "\u00D7",
+    "color": "dark_gray"
+  }
+]

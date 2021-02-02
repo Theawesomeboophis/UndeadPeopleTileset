@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Graphical_Overmap_SDG_Arcana",
+    "name": "Graphical Overmap Arcana Addon",
+    "authors": [ "SDG" ],
+    "maintainers": [ "SDG" ],
+    "description": "Addon for graphical overmap mod what adds missing stuff to the map from the mod Arcana and Magic Items.",
+    "category": "graphical",
+    "dependencies": [ "Arcana", "Graphical_Overmap" ]
+  }
+]

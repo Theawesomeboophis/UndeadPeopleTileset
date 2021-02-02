@@ -1,0 +1,21 @@
+ [
+  {
+    "type": "overmap_terrain",
+    "id": "fleshweaver_spawn",
+    "copy-from": "fleshweaver_spawn",
+    "sym": "\u00E8"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "carrion_forest",
+    "copy-from": "carrion_forest",
+    "sym": "\u00E8"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "SecronomSSBunker_escape",
+    "copy-from": "SecronomSSBunker_escape",
+    "sym": "\u00A8",
+    "color": "brown"
+  }
+]

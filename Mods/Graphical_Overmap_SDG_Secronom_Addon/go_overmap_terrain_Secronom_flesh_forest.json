@@ -1,0 +1,480 @@
+ [
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_cave_entrance_1",
+    "copy-from": "saddler_cave_entrance_1",
+    "sym": "\u00A8",
+    "color": "brown"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_cave_entrance_2",
+    "copy-from": "saddler_cave_entrance_2",
+    "sym": "\u00A8",
+    "color": "brown"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_cave_entrance_3",
+    "copy-from": "saddler_cave_entrance_3",
+    "sym": "\u00A8",
+    "color": "brown"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_cave_entrance_4",
+    "copy-from": "saddler_cave_entrance_4",
+    "sym": "\u00A8",
+    "color": "brown"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_cave_entrance_5",
+    "copy-from": "saddler_cave_entrance_5",
+    "sym": "\u00EA",
+    "color": "green"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_cave_entrance_6",
+    "copy-from": "saddler_cave_entrance_6",
+    "sym": "\u00A8",
+    "color": "brown"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_cave_entrance_7",
+    "copy-from": "saddler_cave_entrance_7",
+    "sym": "\u00A8",
+    "color": "brown"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_cave_entrance_8",
+    "copy-from": "saddler_cave_entrance_8",
+    "sym": "\u00A8",
+    "color": "brown"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_cave_entrance_9",
+    "copy-from": "saddler_cave_entrance_9",
+    "sym": "\u00A8",
+    "color": "brown"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_cave_up",
+    "copy-from": "saddler_cave_up",
+    "sym": "\u00EA",
+    "color": "green"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_cave_north",
+    "copy-from": "saddler_cave_north",
+    "sym": "\u00EA",
+    "color": "green"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_cave_west",
+    "copy-from": "saddler_cave_west",
+    "sym": "\u00EA",
+    "color": "green"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "saddler_cave_brood",
+    "copy-from": "saddler_cave_brood",
+    "sym": "\u00EA",
+    "color": "light_green"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_island_vfaraway_straight",
+    "copy-from": "flesh_island_vfaraway_straight",
+    "sym": "\u00F7",
+    "color": "light_blue"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_island_vfaraway_curve",
+    "copy-from": "flesh_island_vfaraway_curve",
+    "sym": "\u00F7",
+    "color": "light_blue"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_island_vfaraway_vortex",
+    "copy-from": "flesh_island_vfaraway_vortex",
+    "sym": "\u00F7",
+    "color": "light_blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_vfaraway",
+    "copy-from": "flesh_forest_vfaraway",
+    "sym": "\u00F5",
+    "color": "green"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_vfar",
+    "copy-from": "flesh_forest_vfar",
+    "sym": "\u00F5",
+    "color": "green"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_far",
+    "copy-from": "flesh_forest_far",
+    "sym": "\u00B2",
+    "color": "green"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_mid",
+    "copy-from": "flesh_forest_mid",
+    "sym": "\u00B3",
+    "color": "green"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_near",
+    "copy-from": "flesh_forest_near",
+    "sym": "\u00B8",
+    "color": "green"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_1",
+    "copy-from": "flesh_forest_1",
+    "sym": "\u00B8",
+    "color": "light_red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_2",
+    "copy-from": "flesh_forest_2",
+    "sym": "\u00B8",
+    "color": "light_red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_3",
+    "copy-from": "flesh_forest_3",
+    "sym": "\u00B8",
+    "color": "light_red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_4",
+    "copy-from": "flesh_forest_4",
+    "sym": "\u00B8",
+    "color": "light_red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_5",
+    "copy-from": "flesh_forest_5",
+    "sym": "\u00B8",
+    "color": "light_red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_6",
+    "copy-from": "flesh_forest_6",
+    "sym": "\u00B8",
+    "color": "light_red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_7",
+    "copy-from": "flesh_forest_7",
+    "sym": "\u00B8",
+    "color": "light_red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_8",
+    "copy-from": "flesh_forest_8",
+    "sym": "\u00B8",
+    "color": "light_red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_9",
+    "copy-from": "flesh_forest_9",
+    "sym": "\u00B8",
+    "color": "light_red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot1_1",
+    "copy-from": "flesh_forest_bot1_1",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot1_2",
+    "copy-from": "flesh_forest_bot1_2",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot1_3",
+    "copy-from": "flesh_forest_bot1_3",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot1_4",
+    "copy-from": "flesh_forest_bot1_4",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot1_5",
+    "copy-from": "flesh_forest_bot1_5",
+    "sym": "\u00BF",
+    "color": "light_red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot1_6",
+    "copy-from": "flesh_forest_bot1_6",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot1_7",
+    "copy-from": "flesh_forest_bot1_7",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot1_8",
+    "copy-from": "flesh_forest_bot1_8",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot1_9",
+    "copy-from": "flesh_forest_bot1_9",
+    "sym": "\u00BF",
+    "color": "red"
+  }
+  
+  
+  
+  
+  ,  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot2_1",
+    "copy-from": "flesh_forest_bot2_1",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot2_2",
+    "copy-from": "flesh_forest_bot2_2",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot2_3",
+    "copy-from": "flesh_forest_bot2_3",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot2_4",
+    "copy-from": "flesh_forest_bot2_4",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot2_5",
+    "copy-from": "flesh_forest_bot2_5",
+    "sym": "\u00BF",
+    "color": "light_red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot2_6",
+    "copy-from": "flesh_forest_bot2_6",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot2_7",
+    "copy-from": "flesh_forest_bot2_7",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot2_8",
+    "copy-from": "flesh_forest_bot2_8",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot2_9",
+    "copy-from": "flesh_forest_bot2_9",
+    "sym": "\u00BF",
+    "color": "red"
+  }
+  
+  
+  
+  
+  
+    ,  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot3_1",
+    "copy-from": "flesh_forest_bot3_1",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot3_2",
+    "copy-from": "flesh_forest_bot3_2",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot3_3",
+    "copy-from": "flesh_forest_bot3_3",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot3_4",
+    "copy-from": "flesh_forest_bot3_4",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot3_5",
+    "copy-from": "flesh_forest_bot3_5",
+    "sym": "\u00BF",
+    "color": "light_red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot3_6",
+    "copy-from": "flesh_forest_bot3_6",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot3_7",
+    "copy-from": "flesh_forest_bot3_7",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot3_8",
+    "copy-from": "flesh_forest_bot3_8",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_bot3_9",
+    "copy-from": "flesh_forest_bot3_9",
+    "sym": "\u00BF",
+    "color": "red"
+  }
+  
+  
+  
+  
+   ,  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_boss_1",
+    "copy-from": "flesh_forest_boss_1",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_boss_2",
+    "copy-from": "flesh_forest_boss_2",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_boss_3",
+    "copy-from": "flesh_forest_boss_3",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_boss_4",
+    "copy-from": "flesh_forest_boss_4",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_boss_5",
+    "copy-from": "flesh_forest_boss_5",
+    "sym": "\u00BF",
+    "color": "light_red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_boss_6",
+    "copy-from": "flesh_forest_boss_6",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_boss_7",
+    "copy-from": "flesh_forest_boss_7",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_boss_8",
+    "copy-from": "flesh_forest_boss_8",
+    "sym": "\u00BF",
+    "color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "flesh_forest_boss_9",
+    "copy-from": "flesh_forest_boss_9",
+    "sym": "\u00BF",
+    "color": "red"
+  }
+]

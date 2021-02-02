@@ -1,0 +1,23 @@
+ [
+  {
+    "type": "overmap_terrain",
+    "id": "vector_forest_edge",
+    "copy-from": "vector_forest_edge",
+    "sym": "\u00B5",
+    "color": "cyan"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "vector_forest_curve",
+    "copy-from": "vector_forest_curve",
+    "sym": "\u00B5",
+    "color": "cyan"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "vector_forest_center",
+    "copy-from": "vector_forest_center",
+    "sym": "\u00B5",
+    "color": "light_cyan"
+  }
+]
