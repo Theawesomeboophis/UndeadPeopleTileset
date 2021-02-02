@@ -1,6 +1,6 @@
 ## Graphical Overmap Vanilla Additions mod added! Check it out!
 Mod adds missing stuff to overmap graphics and also changes colors on some places to better suited ones.
-Now graphical overmap for some mods added!
+## Graphical overmap mods for some mods (PK, Arcana, Secronom) added!
 To use them you will need to install different Graphial Font in the game.
 Copy "map_font_LARWICK_SDG.png" in to your cataclysm/font
 then edit fonts.json section in cataclysm\config folder
