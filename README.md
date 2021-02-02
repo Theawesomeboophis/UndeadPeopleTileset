@@ -1,6 +1,22 @@
 ## Graphical Overmap Vanilla Additions mod added! Check it out!
 Mod adds missing stuff to overmap graphics and also changes colors on some places to better suited ones.
-Soon i will move graphical overmap mod to a separate github page and will add addons for various mods. Stay tuned.
+Now graphical overmap for some mods added!
+To use them you will need to install different Graphial Font in the game.
+Copy "map_font_LARWICK_SDG.png" in to your cataclysm/font
+then edit fonts.json section in cataclysm\config folder
+
+"overmap_typeface": [
+    "data/font/map_font_LARWICK.png",
+    "data/font/Terminus.ttf",
+    "data/font/unifont.ttf"
+
+to
+
+"overmap_typeface": [
+    "data/font/map_font_LARWICK_SDG.png",
+    "data/font/Terminus.ttf",
+    "data/font/unifont.ttf"
+
 
 ## Want to add or change something in this tileset?
 
