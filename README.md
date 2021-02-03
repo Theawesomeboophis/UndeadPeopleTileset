@@ -13,7 +13,7 @@ then edit fonts.json section in cataclysm\config folder
 to
 
 "overmap_typeface": [
-    "data/font/map_font_LARWICK_SDG.png",
+    "font/map_font_LARWICK_SDG.png",
     "data/font/Terminus.ttf",
     "data/font/unifont.ttf"
 
