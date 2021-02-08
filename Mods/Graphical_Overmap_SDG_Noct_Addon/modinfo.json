@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Graphical_Overmap_SDG_Cata++",
+    "name": "Graphical Overmap Cataclysm++",
+    "authors": [ "SDG" ],
+    "maintainers": [ "SDG" ],
+    "description": "Addon for graphical overmap mod what adds missing stuff to the map from the mod Cataclysm++.",
+    "category": "graphical",
+    "dependencies": [ "Cata++", "Graphical_Overmap" ]
+  }
+]

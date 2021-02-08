@@ -1,0 +1,170 @@
+ [
+  {
+    "type": "overmap_terrain",
+    "id": "makeshift_command_center_1",
+    "copy-from": "makeshift_command_center_1",
+    "sym": "\u00D5",
+	"color": "dark_gray"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "makeshift_command_center_2",
+    "copy-from": "makeshift_command_center_2",
+    "sym": "\u00D5",
+	"color": "dark_gray"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "makeshift_command_center_b",
+    "copy-from": "makeshift_command_center_b",
+    "sym": "\u00D5",
+	"color": "dark_gray"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "Survivor_Encampment",
+    "copy-from": "Survivor_Encampment",
+    "sym": "\u00C5",
+	"color": "green"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "Survivor_Encampment_2",
+    "copy-from": "Survivor_Encampment_2",
+    "sym": "\u00C5",
+	"color": "green"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "Bio_Weapon_Lab_1",
+    "copy-from": "Bio_Weapon_Lab_1",
+    "sym": "\u00C1",
+	"color": "light_cyan"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "Bio_Weapon_Lab_2",
+    "copy-from": "Bio_Weapon_Lab_2",
+    "sym": "\u00C1",
+	"color": "light_cyan"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "Bio_Weapon_Lab_b",
+    "copy-from": "Bio_Weapon_Lab_b",
+    "sym": "\u00C1",
+	"color": "light_cyan"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "surv_camp",
+    "copy-from": "surv_camp",
+    "sym": "\u00F5",
+	"color": "green"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "sketchy_cabin_1",
+    "copy-from": "sketchy_cabin_1",
+    "sym": "\u00E2",
+	"color": "red"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "sketchy_cabin_2",
+    "copy-from": "sketchy_cabin_2",
+    "sym": "\u00E9",
+	"color": "brown"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "sketchy_cabin_b1",
+    "copy-from": "sketchy_cabin_b1",
+    "sym": "\u00A2",
+	"color": "dark_gray"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "sketchy_cabin_b2",
+    "copy-from": "sketchy_cabin_b2",
+    "sym": "\u00A2",
+	"color": "dark_gray"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "Plain_Slaughter",
+    "copy-from": "Plain_Slaughter",
+    "sym": "\u00A8",
+	"color": "brown"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "forest_slaghter",
+    "copy-from": "forest_slaghter",
+    "sym": "\u00F5",
+	"color": "green"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "Unknown_Lab_2",
+    "copy-from": "Unknown_Lab_2",
+    "sym": "\u00F4",
+	"color": "light_gray"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "Unknown_Lab_1",
+    "copy-from": "Unknown_Lab_1",
+    "sym": "\u00F4",
+	"color": "light_gray"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "Unknown_Lab_3",
+    "copy-from": "Unknown_Lab_3",
+    "sym": "\u00C1",
+	"color": "light_blue"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "Unknown_Lab_4",
+    "copy-from": "Unknown_Lab_4",
+    "sym": "\u00C1",
+	"color": "light_blue"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "Unknown_Lab_b2",
+    "copy-from": "Unknown_Lab_b2",
+    "sym": "\u00C1",
+	"color": "light_blue"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "Unknown_Lab_b1",
+    "copy-from": "Unknown_Lab_b1",
+    "sym": "\u00C1",
+	"color": "light_blue"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "Unknown_Lab_b3",
+    "copy-from": "Unknown_Lab_b3",
+    "sym": "\u00C1",
+	"color": "light_blue"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "Unknown_Lab_b4",
+    "copy-from": "Unknown_Lab_b4",
+    "sym": "\u00C1",
+	"color": "light_blue"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "Survivor_Holdout_1",
+    "copy-from": "Survivor_Holdout_1",
+    "sym": "\u00C0",
+	"color": "dark_gray"
+  }
+]

@@ -1,0 +1,16 @@
+ [
+ {
+    "type": "overmap_terrain",
+    "id": "lake_water_cube",
+    "copy-from": "lake_water_cube",
+    "sym": "\u00A6",
+	"color": "blue"
+  },
+   {
+    "type": "overmap_terrain",
+    "id": "lake_bed",
+    "copy-from": "lake_bed",
+    "sym": "\u00A6",
+	"color": "light_blue"
+  }
+]

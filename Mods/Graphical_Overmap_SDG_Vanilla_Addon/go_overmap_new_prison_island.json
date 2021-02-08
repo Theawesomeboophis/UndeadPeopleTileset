@@ -1,0 +1,316 @@
+ [
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_1",
+    "copy-from": "prison_island_1_1",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_2",
+    "copy-from": "prison_island_1_2",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_3",
+    "copy-from": "prison_island_1_3",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_4",
+    "copy-from": "prison_island_1_4",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_5",
+    "copy-from": "prison_island_1_5",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_6",
+    "copy-from": "prison_island_1_6",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_7",
+    "copy-from": "prison_island_1_7",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_8",
+    "copy-from": "prison_island_1_8",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_9",
+    "copy-from": "prison_island_1_9",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_10",
+    "copy-from": "prison_island_1_10",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_11",
+    "copy-from": "prison_island_1_11",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_12",
+    "copy-from": "prison_island_1_12",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_13",
+    "copy-from": "prison_island_1_13",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_14",
+    "copy-from": "prison_island_1_14",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_15",
+    "copy-from": "prison_island_1_15",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_2f_1",
+    "copy-from": "prison_island_1_2f_1",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_2f_2",
+    "copy-from": "prison_island_1_2f_2",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_2f_3",
+    "copy-from": "prison_island_1_2f_3",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_2f_4",
+    "copy-from": "prison_island_1_2f_4",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_2f_5",
+    "copy-from": "prison_island_1_2f_5",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_2f_6",
+    "copy-from": "prison_island_1_2f_6",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_2f_7",
+    "copy-from": "prison_island_1_2f_7",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_2f_8",
+    "copy-from": "prison_island_1_2f_8",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_2f_9",
+    "copy-from": "prison_island_1_2f_9",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_2f_10",
+    "copy-from": "prison_island_1_2f_10",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_2f_11",
+    "copy-from": "prison_island_1_2f_11",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_2f_12",
+    "copy-from": "prison_island_1_2f_12",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_2f_13",
+    "copy-from": "prison_island_1_2f_13",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_2f_14",
+    "copy-from": "prison_island_1_2f_14",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_2f_15",
+    "copy-from": "prison_island_1_2f_15",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_ug_1",
+    "copy-from": "prison_island_1_ug_1",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_ug_2",
+    "copy-from": "prison_island_1_ug_2",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_ug_3",
+    "copy-from": "prison_island_1_ug_3",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_ug_4",
+    "copy-from": "prison_island_1_ug_4",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_ug_5",
+    "copy-from": "prison_island_1_ug_5",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_ug_6",
+    "copy-from": "prison_island_1_ug_6",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_ug_7",
+    "copy-from": "prison_island_1_ug_7",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_ug_8",
+    "copy-from": "prison_island_1_ug_8",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_ug_9",
+    "copy-from": "prison_island_1_ug_9",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_ug_10",
+    "copy-from": "prison_island_1_ug_10",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_ug_11",
+    "copy-from": "prison_island_1_ug_11",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_ug_12",
+    "copy-from": "prison_island_1_ug_12",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_ug_13",
+    "copy-from": "prison_island_1_ug_13",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_ug_14",
+    "copy-from": "prison_island_1_ug_14",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "prison_island_1_ug_15",
+    "copy-from": "prison_island_1_ug_15",
+    "sym": "\u00E5",
+    "color": "light_gray"
+  }
+]
