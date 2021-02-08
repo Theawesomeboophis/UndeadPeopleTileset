@@ -3,7 +3,7 @@ Mod adds missing stuff to overmap graphics and also changes colors on some place
 ## Graphical overmap mods for some mods (PK, Arcana, Secronom) added!
 To use them you will need to install different Graphial Font in the game.
 Copy "map_font_LARWICK_SDG.png" in to your cataclysm/font
-then edit fonts.json section in cataclysm\config folder
+then edit fonts.json section in cataclysm/config folder
 
 "overmap_typeface": [
     "data/font/map_font_LARWICK.png",
@@ -13,7 +13,7 @@ then edit fonts.json section in cataclysm\config folder
 to
 
 "overmap_typeface": [
-    "data/font/map_font_LARWICK_SDG.png",
+    "font/map_font_LARWICK_SDG.png",
     "data/font/Terminus.ttf",
     "data/font/unifont.ttf"
 
