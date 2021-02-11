@@ -1,0 +1,301 @@
+ [
+   {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_1_1",
+    "copy-from": "hotel_tower_1_1",
+    "sym": "\u00F4",
+    "color": "dark_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_1_2",
+    "copy-from": "hotel_tower_1_1"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_1_3",
+    "copy-from": "hotel_tower_1_1"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_1_4",
+    "copy-from": "hotel_tower_1_1"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_flr2_1_4",
+    "copy-from": "hotel_tower_flr2_1_4",
+    "sym": "\u00F4",
+    "color": "dark_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_flr3_1_4",
+    "copy-from": "hotel_tower_flr2_1_4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_flr4_1_4",
+    "copy-from": "hotel_tower_flr2_1_4"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_roof_1_4",
+    "copy-from": "hotel_tower_roof_1_4",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_1_5",
+    "copy-from": "hotel_tower_1_5",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_flr2_1_5",
+    "copy-from": "hotel_tower_1_5"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_flr3_1_5",
+    "copy-from": "hotel_tower_1_5"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_flr4_1_5",
+    "copy-from": "hotel_tower_1_5"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_roof_1_5",
+    "copy-from": "hotel_tower_roof_1_5",
+    "sym": "\u00C7",
+    "color": "blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_1_5B",
+    "copy-from": "hotel_tower_1_5B",
+    "sym": "\u00C7",
+    "color": "blue"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_flr2_1_5B",
+    "copy-from": "hotel_tower_flr2_1_5B",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_1_5C",
+    "copy-from": "hotel_tower_1_5C",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_flr2_1_5C",
+    "copy-from": "hotel_tower_flr2_1_5C",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_1_6",
+    "copy-from": "hotel_tower_1_6",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_flr2_1_6",
+    "copy-from": "hotel_tower_flr2_1_6",
+    "sym": "\u00F4",
+    "color": "dark_gray"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_flr3_1_6",
+    "copy-from": "hotel_tower_flr2_1_6"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_flr4_1_6",
+    "copy-from": "hotel_tower_flr2_1_6"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_roof_1_6",
+    "copy-from": "hotel_tower_roof_1_6",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_1_7",
+    "copy-from": "hotel_tower_1_7",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_flr2_1_7",
+    "copy-from": "hotel_tower_flr2_1_7",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_flr3_1_7",
+    "copy-from": "hotel_tower_flr3_1_7",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_flr4_1_7",
+    "copy-from": "hotel_tower_flr4_1_7",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_roof_1_7",
+    "copy-from": "hotel_tower_roof_1_7",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_1_8",
+    "copy-from": "hotel_tower_1_8",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_flr2_1_8",
+    "copy-from": "hotel_tower_flr2_1_8",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_flr3_1_8",
+    "copy-from": "hotel_tower_flr3_1_8",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_flr4_1_8",
+    "copy-from": "hotel_tower_flr4_1_8",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_roof_1_8",
+    "copy-from": "hotel_tower_roof_1_8",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_1_9",
+    "copy-from": "hotel_tower_1_9",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_flr2_1_9",
+    "copy-from": "hotel_tower_flr2_1_9",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_flr3_1_9",
+    "copy-from": "hotel_tower_flr3_1_9",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_flr4_1_9",
+    "copy-from": "hotel_tower_flr4_1_9",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_roof_1_9",
+    "copy-from": "hotel_tower_roof_1_9",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_b_1",
+    "copy-from": "hotel_tower_b_1",
+    "sym": "\u00C7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_b_2",
+    "copy-from": "hotel_tower_b_1"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "hotel_tower_b_3",
+    "copy-from": "hotel_tower_b_1"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "motel_twd_1",
+    "copy-from": "motel_twd_1",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "motel_twd_2",
+    "copy-from": "motel_twd_2",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "motel_twd_second_floor",
+    "copy-from": "motel_twd_second_floor",
+    "sym": "\u00E7"
+  }, 
+  {
+    "type": "overmap_terrain",
+    "id": "motel_entrance",
+    "copy-from": "motel_entrance",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "motel_entrance_roof",
+    "copy-from": "motel_entrance_roof",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "motel_1",
+    "copy-from": "motel_1",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "motel_1_roof",
+    "copy-from": "motel_1_roof",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "motel_2",
+    "copy-from": "motel_2",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "motel_2_roof",
+    "copy-from": "motel_2_roof",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "motel_3",
+    "copy-from": "motel_3",
+    "sym": "\u00E7"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "motel_3_roof",
+    "copy-from": "motel_3_roof",
+    "sym": "\u00E7"
+  }
+]

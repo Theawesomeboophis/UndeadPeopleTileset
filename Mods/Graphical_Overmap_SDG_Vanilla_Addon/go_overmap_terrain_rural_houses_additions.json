@@ -106,5 +106,17 @@
     "copy-from": "ranch_camp_18",
     "sym": "│",
     "color": "brown"
+  },  {
+    "type": "overmap_terrain",
+    "id": "dairy_farm_isherwood_NW",
+    "copy-from": "dairy_farm_isherwood_NW",
+    "sym": "\u00D7",
+    "color": "brown"
+  },  {
+    "type": "overmap_terrain",
+    "id": "dairy_farm_isherwood_NE",
+    "copy-from": "dairy_farm_isherwood_NE",
+    "sym": "\u00D7",
+    "color": "brown"
   }
 ]
