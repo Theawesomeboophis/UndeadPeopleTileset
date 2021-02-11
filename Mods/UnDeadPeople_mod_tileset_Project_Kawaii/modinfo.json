@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "ProjectKawaii_UDP",
+    "name": "ProjectKawaii - UndeadPeople Tileset",
+    "authors": [ "Some Japanese Dude", "from Japania", "inoue&Derp" ],
+    "description": "UDP tileset graphics for ProjectKawaii.",
+    "category": "graphical",
+    "dependencies": [ "ProjectKawaii" ]
+  }
+]
