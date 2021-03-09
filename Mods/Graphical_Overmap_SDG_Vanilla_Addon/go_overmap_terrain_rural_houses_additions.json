@@ -118,5 +118,23 @@
     "copy-from": "dairy_farm_isherwood_NE",
     "sym": "\u00D7",
     "color": "brown"
+  },  {
+    "type": "overmap_terrain",
+    "id": "special_field",
+    "copy-from": "special_field",
+    "sym": "\u00A9",
+    "color": "brown"
+  },  {
+    "type": "overmap_terrain",
+    "id": "special_forest",
+    "copy-from": "special_forest",
+    "sym": "\u00E8",
+    "color": "green"
+  },  {
+    "type": "overmap_terrain",
+    "id": "special_forest_thick",
+    "copy-from": "special_forest_thick",
+    "sym": "\u00F5",
+    "color": "green"
   }
 ]
