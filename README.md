@@ -8,14 +8,14 @@ then edit fonts.json section in cataclysm/config folder
 "overmap_typeface": [
     "data/font/map_font_LARWICK.png",
     "data/font/Terminus.ttf",
-    "data/font/unifont.ttf"
+    "data/font/unifont.ttf"]
 
 to
 
 "overmap_typeface": [
     "font/map_font_LARWICK_SDG.png",
     "data/font/Terminus.ttf",
-    "data/font/unifont.ttf"
+    "data/font/unifont.ttf"]
 
 
 ## Want to add or change something in this tileset?
