@@ -295,6 +295,34 @@
   },  
   {
     "type": "overmap_terrain",
+    "id": "mansion_+1",
+    "copy-from": "mansion_+1",
+    "sym": "\u00D0",
+    "color": "white"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "mansion_+1_roof",
+    "copy-from": "mansion_+1_roof",
+    "sym": "\u00D0",
+    "color": "white"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "mansion_+1u",
+    "copy-from": "mansion_+1u",
+    "sym": "\u00D0",
+    "color": "white"
+  },  
+  {
+    "type": "overmap_terrain",
+    "id": "mansion_+1d",
+    "copy-from": "mansion_+1d",
+    "sym": "\u00D0",
+    "color": "white"
+  },  
+  {
+    "type": "overmap_terrain",
     "id": "s_lightindustry_00",
     "copy-from": "s_lightindustry_00",
     "sym": "\u00E6",
@@ -757,4 +785,5 @@
     "copy-from": "cabin_strange_b",
     "sym": "\u00E2"
   }
+  
 ]
