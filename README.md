@@ -1,7 +1,7 @@
 ## Folder structure changes!
 
 Tileset now ships with mod tilesets in apropriate folders. No need to install tileset mods anymore! 
-Please check instalation instructions.
+Please check out installation instructions.
 
 ## Prerequisites
 
@@ -21,7 +21,7 @@ Download archive, put folders data and gfx from TILESET folder in Cataclysm Inst
 
 
 *UNDEAD_PEOPLE (NEW VERSION)* - latest updated version of the tileset. Now when you install tileset you also install tilesets for mods in appropriate folders, so you don't need to use mods with tilesets for other mods. Please create issue if you experience troubles, i am still figuring out how to do it right and how to describe it propertly in README.
-If you still want them you will need to copy Mods forlder from TILESET_MODS folder in to cataclysm instalation folder and then enable mods with the same name as mod what are you going to use plus "- UndeadPeople Tileset" in it's name under "graphical" category.
+If you still want them you will need to copy Mods forlder from TILESET_MODS folder in to cataclysm installation folder and then enable mods with the same name as mod what are you going to use plus "- UndeadPeople Tileset" in it's name under "graphical" category.
 
 So for mod like *"PKs Rebalancing"* you will need to enable *"PKs Rebalancing - UndeadPeople Tileset"* along side with it to get graphics for this mod.
 
