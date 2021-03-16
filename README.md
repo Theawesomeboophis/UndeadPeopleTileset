@@ -1,32 +1,7 @@
-## Graphical Overmap Vanilla Additions mod added! Check it out!
-Mod adds missing stuff to overmap graphics and also changes colors on some places to better suited ones.
-## Graphical overmap mods for some mods (PK, Arcana, Secronom) added!
-To use them you will need to install different Graphial Font in the game.
-Copy "map_font_LARWICK_SDG.png" in to your cataclysm/font
-then edit fonts.json section in cataclysm/config folder
+## Folder structure changes!
 
-"overmap_typeface": [
-    "data/font/map_font_LARWICK.png",
-    "data/font/Terminus.ttf",
-    "data/font/unifont.ttf"]
-
-to
-
-"overmap_typeface": [
-    "font/map_font_LARWICK_SDG.png",
-    "data/font/Terminus.ttf",
-    "data/font/unifont.ttf"]
-
-
-## Want to add or change something in this tileset?
-
-PRs submitted here:
-https://github.com/SomeDeadGuy/UndeadPeopleUnpacked
-
-![alt text](https://i.imgur.com/BFQzWtC.png)
-
-Tileset for Cataclysm Dark Days Ahead (and for Bright Nights fork of this game) based on the works by Xotto, Waldo and others. My goal is to make most complete tileset for the game, with support for all mods what are out there.
-
+Tileset now ships with mod tilesets in apropriate folders. No need to install tileset mods anymore! 
+To install  
 
 ## Prerequisites
 
@@ -36,17 +11,23 @@ Latest game version can be downloaded here https://cataclysmdda.org/experimental
 
 Bright Nights fork can be found here https://github.com/cataclysmbnteam/Cataclysm-BN#cataclysm-bright-nights
 
+## Direct download link
+
+https://github.com/SomeDeadGuy/UndeadPeopleTileset/archive/master.zip
 
 ## Installing
 
-Download this tileset, put folder MSX++UnDeadPeopleEdition or MSX++UnDeadPeopleEditionLegacy in "Cataclysm Installation folder"/gfx, in the game choose *UNDEAD_PEOPLE (NEW VERSION)* or *UNDEAD_PEOPLE_LEGACY* tileset in **Settings->Options->Graphics->Choose Tileset**
+Download archive, put folders data and gfx from TILESET folder in Cataclysm Installation folder (where cataclysm-tiles.exe is), in the game choose *UNDEAD_PEOPLE (NEW VERSION)* or *UNDEAD_PEOPLE_LEGACY* tileset in **Settings->Options->Graphics->Choose Tileset**
 
-*UNDEAD_PEOPLE (NEW VERSION)* - latest updated version of the tileset. On it's own it only covers main game and do not supports any mods (which comes with the game or located in other places). To get graphics for mods you will need to enable mods with the same name as mod what are you going to use plus "- UndeadPeople Tileset" in it's name under "graphical" category.
+
+*UNDEAD_PEOPLE (NEW VERSION)* - latest updated version of the tileset. Now when you install tileset you also install tilesets for mods in appropriate folders, so you don't need to use mods with tilesets for other mods. Please create issue if you experience troubles, i am still figuring out how to do it right and how to describe it propertly in README.
+If you still want them you will need to copy Mods forlder from TILESET_MODS folder in to cataclysm instalation folder and then enable mods with the same name as mod what are you going to use plus "- UndeadPeople Tileset" in it's name under "graphical" category.
 
 So for mod like *"PKs Rebalancing"* you will need to enable *"PKs Rebalancing - UndeadPeople Tileset"* along side with it to get graphics for this mod.
 
-*UNDEAD_PEOPLE_LEGACY* - old version of the tileset. It does supports mods out of the box like before, but is no longer updated due problems with performance.
+*UNDEAD_PEOPLE_LEGACY* - old version of the tileset. 
 
+Old Xotto tileset is now included in archive under different name and fixed for the last version, cause i really dislike what cata devs did and stole name of this tileset for their new one what looks totaly different. I want people to see actual tileset i started working with.
 
 ## How to install my graphical Mods
 Put *Mods* folder in "Cataclysm Installation folder", **NOT**  in "Cataclysm Installation folder"/data, that way you can separate mods what are updated with the game and mods you downloaded somewhere else, what you need to update by hand.
@@ -86,8 +67,14 @@ Check their successful Kickstarter page:
 
 https://www.kickstarter.com/projects/monosw2000/nearly-dead
 
-
-
-
-
 Thank you, Xotto and Toro. Very Cool.
+
+## Want to add or change something in this tileset?
+
+PRs submitted here:
+https://github.com/SomeDeadGuy/UndeadPeopleUnpacked
+
+![alt text](https://i.imgur.com/BFQzWtC.png)
+
+Tileset for Cataclysm Dark Days Ahead (and for Bright Nights fork of this game) based on the works by Xotto, Waldo and others. My goal is to make most complete tileset for the game, with support for all mods what are out there.
+
