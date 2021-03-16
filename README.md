@@ -1,7 +1,7 @@
 ## Folder structure changes!
 
 Tileset now ships with mod tilesets in apropriate folders. No need to install tileset mods anymore! 
-To install  
+Please check instalation instructions.
 
 ## Prerequisites
 
