@@ -1,7 +1,6 @@
-## Folder structure changes!
+![alt text](https://i.imgur.com/BFQzWtC.png)
 
-Tileset now ships with mod tilesets in apropriate folders. No need to install tileset mods anymore! 
-Please check out installation instructions.
+Tileset for Cataclysm Dark Days Ahead (and for Bright Nights fork of this game) based on the works by Xotto, Waldo and others. My goal is to make most complete tileset for the game, with support for all mods what are out there.
 
 ## Prerequisites
 
@@ -53,7 +52,7 @@ https://github.com/Kenan2000/CDDA-Kenan-Modpack - for CDDA
 https://github.com/Kenan2000/Bright-Nights-Kenan-Mod-Pack - for BN
 
 
-Despite my recomendations this modpack needs to be installed in *Cataclysm Installation folder*/data/mods (cause of the way cataclysm works), put all folders from "Kenan-Modpack" folder in there with agreeing on file replacement. Sadly that means what each time you update the game via Launcher (cause you lazy like that, and do not want to learn how you can update the game easily without it) it will likely erase all of the modpack files from *data* folder. So you need to reinstall it after each time you update the game. Sucks, i know. But it is how it is.
+Install my tileset files AFTER you install this modpack.
 
 # Nearly Dead
 
@@ -73,8 +72,3 @@ Thank you, Xotto and Toro. Very Cool.
 
 PRs submitted here:
 https://github.com/SomeDeadGuy/UndeadPeopleUnpacked
-
-![alt text](https://i.imgur.com/BFQzWtC.png)
-
-Tileset for Cataclysm Dark Days Ahead (and for Bright Nights fork of this game) based on the works by Xotto, Waldo and others. My goal is to make most complete tileset for the game, with support for all mods what are out there.
-
