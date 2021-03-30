@@ -1,0 +1,15 @@
+{
+  "typeface": [
+    "data/font/Terminus.ttf",
+    "data/font/unifont.ttf"
+  ],
+  "map_typeface": [
+    "data/font/Terminus.ttf",
+    "data/font/unifont.ttf"
+  ],
+  "overmap_typeface": [
+    "font/map_font_LARWICK_SDG.png",
+    "data/font/Terminus.ttf",
+    "data/font/unifont.ttf"
+  ]
+}
