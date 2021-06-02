@@ -65,7 +65,7 @@ Install my tileset files AFTER you install this modpack.
 
 ![alt text](https://steamcdn-a.akamaihd.net/steam/apps/1268900/header.jpg)
 
-This tileset uses resources from the upcoming game "Nearly Dead" by Xotto and Toro, which was generously provided by Xotto. We plan to use more graphics from this game in the future, so please consider supporting it! It looks like an awesome Cataclysm inspired real time survival game, and it is made by Cataclysm modders.
+This tileset uses resources from the upcoming game "Nearly Dead" by Xotto and Toro, which was generously provided by Xotto. I plan to use more graphics from this game in the future, so please consider supporting it! It looks like an awesome Cataclysm inspired real time survival game, and it is made by Cataclysm modders.
 
 https://store.steampowered.com/app/1268900/Nearly_Dead
 
