@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "UDP_XOTTOFICATION",
+    "name": "MSX XOTTO UDP",
+    "authors": [ "SomeDeadGuy", "xotto" ],
+    "description": "Replaces most of the graphics of UDP with classic xotto graphics. Experimental as fuck.",
+    "category": "graphical",
+    "dependencies": [ "UDP_BN_FAKE_SNOW" ]
+  }
+]
