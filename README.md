@@ -1,3 +1,6 @@
+##GRAPHICAL OVERMAP MODS NO LONGER WORK ON LATEST EXPERIMENTAL OF DDA!
+##I AM WORKING ON A FIX. LOOKS LIKE WE ARE GETTING TILES FOR MAP SCREEN, BOIS!
+
 ![alt text](https://i.imgur.com/BFQzWtC.png)
 
 This is a tileset for Cataclysm Dark Days Ahead (and for Bright Nights fork of this game) based on the works by Xotto, Waldo and others. My goal is to make the most complete tileset for the game, with support for all mods out there.
