@@ -1,6 +1,7 @@
-## GRAPHICAL OVERMAP MODS NO LONGER WORK ON LATEST EXPERIMENTAL OF DDA!
+## Work in progress. It will take some time. Keep updating tileset every day to see more overmap tiles.
 
-## I AM WORKING ON A FIX. LOOKS LIKE WE ARE GETTING TILES FOR MAP SCREEN, BOIS!
+![i_am_working_on_it](https://user-images.githubusercontent.com/37592026/124494316-5cc77680-ddbf-11eb-9dd3-b16e34086520.PNG)
+
 
 ![alt text](https://i.imgur.com/BFQzWtC.png)
 
