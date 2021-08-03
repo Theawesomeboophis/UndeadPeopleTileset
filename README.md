@@ -1,6 +1,7 @@
 ## Work in progress. It will take some time. Keep updating tileset every day to see more overmap tiles.
 
-![i_am_working_on_it](https://user-images.githubusercontent.com/37592026/124494316-5cc77680-ddbf-11eb-9dd3-b16e34086520.PNG)
+
+![plugs](https://user-images.githubusercontent.com/37592026/128038582-1ac48b09-a41d-4fff-bd0e-091a8ac4c0f5.PNG)
 
 
 ![alt text](https://i.imgur.com/BFQzWtC.png)
