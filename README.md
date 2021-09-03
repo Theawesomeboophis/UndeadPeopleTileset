@@ -1,4 +1,4 @@
-This is a fork in case SDG does delete the original, I will try my best to attempt to maintain it in that scenario. Pull Request and Issues are welcome and appreciated.
+The Currently Maintained fork of UndeadPeople.
 
 Links to other things:
 
