@@ -1,4 +1,4 @@
-The Currently Maintained fork of UndeadPeople.
+The Currently Maintained fork of UndeadPeople. Pull Request and Issues are welcome and appreciated.
 
 Links to other things:
 
