@@ -13,3 +13,5 @@ https://github.com/CleverRaven/Cataclysm-DDA ( Original repository for CDDA, for
 https://github.com/cataclysmbnteam/Cataclysm-BN ( The Awesome Bright Nights fork/overhaul by Coolthulhu, removes realism stuff ( for those who would prefer it removed) and focuses on sci-fi elements, also adds a ending)
 
 https://github.com/I-am-Erk/CDDA-Tilesets ( More great tilesets made by great creators)
+
+https://github.com/Theawesomeboophis/UndeadPeopleUnpacked ( PRs go here)
