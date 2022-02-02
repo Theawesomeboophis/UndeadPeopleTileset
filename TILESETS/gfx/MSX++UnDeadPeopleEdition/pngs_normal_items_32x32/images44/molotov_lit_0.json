@@ -1,0 +1,1 @@
+{"id": "molotov_lit", "fg": [{"weight": 10, "sprite": "6389_molotov_lit_0"}, {"weight": 10, "sprite": "6390_molotov_lit_1"}, {"weight": 10, "sprite": "6391_molotov_lit_2"}], "bg": ["9172_10mm_fmj_1"], "animated": true, "rotates": false}

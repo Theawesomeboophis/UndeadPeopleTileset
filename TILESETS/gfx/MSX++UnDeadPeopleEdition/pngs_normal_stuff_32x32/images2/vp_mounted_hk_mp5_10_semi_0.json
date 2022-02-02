@@ -1,0 +1,1 @@
+{"id": "vp_mounted_hk_mp5_10_semi", "fg": ["9212_vp_bg_default_turret_1_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9213_vp_bg_default_turret_1_1"], "bg": []}], "bg": []}

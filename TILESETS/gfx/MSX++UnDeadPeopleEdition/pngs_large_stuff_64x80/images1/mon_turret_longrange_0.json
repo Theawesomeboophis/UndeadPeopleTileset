@@ -1,0 +1,1 @@
+{"id": "mon_turret_longrange", "fg": [{"weight": 30, "sprite": "18513_mon_turret_longrange_0"}, {"weight": 30, "sprite": "18514_mon_turret_longrange_1"}], "bg": ["18124_bg_shadow_turret_offset_0"], "animated": true}

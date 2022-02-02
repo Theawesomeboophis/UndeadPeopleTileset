@@ -1,0 +1,1 @@
+{"id": "vp_stowboard_sw", "fg": ["17013_vp_stowboard_sw_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["17014_vp_stowboard_sw_1"], "bg": ["17013_vp_stowboard_sw_0"]}], "bg": []}

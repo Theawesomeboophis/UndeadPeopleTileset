@@ -1,0 +1,1 @@
+{"id": "vp_hddoor_opaque_right", "fg": ["17787_vp_hddoor_opaque_right_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["17788_vp_hddoor_opaque_right_1"], "bg": []}, {"id": "open", "fg": ["17789_vp_hddoor_opaque_right_2"], "bg": []}], "bg": []}

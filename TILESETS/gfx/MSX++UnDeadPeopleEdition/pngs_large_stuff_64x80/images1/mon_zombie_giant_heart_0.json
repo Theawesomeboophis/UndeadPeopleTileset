@@ -1,0 +1,1 @@
+{"id": "mon_zombie_giant_heart", "fg": [{"weight": 11, "sprite": "18599_mon_zombie_giant_heart_0"}, {"weight": 11, "sprite": "18600_mon_zombie_giant_heart_1"}, {"weight": 11, "sprite": "18601_mon_zombie_giant_heart_2"}], "bg": ["18120_mon_bear_1"], "rotates": false, "animated": true}

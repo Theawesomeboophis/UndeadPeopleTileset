@@ -1,0 +1,1 @@
+{"id": "vp_rockwheel", "fg": ["17146_vp_rockwheel_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["17147_vp_rockwheel_1"], "bg": ["17146_vp_rockwheel_0"]}], "bg": []}

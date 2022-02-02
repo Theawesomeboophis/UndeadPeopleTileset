@@ -1,0 +1,1 @@
+{"id": "mon_hallu_mannequin", "fg": [{"weight": 100, "sprite": "7908_mon_hallu_mannequin_0"}, {"weight": 10, "sprite": "7909_mon_hallu_mannequin_1"}, {"weight": 10, "sprite": "7910_mon_hallu_mannequin_2"}, {"weight": 10, "sprite": "7911_mon_hallu_mannequin_3"}], "bg": ["9173_bot_grocerybot_1"], "animated": true}

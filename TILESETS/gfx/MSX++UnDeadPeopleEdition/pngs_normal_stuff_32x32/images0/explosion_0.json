@@ -1,0 +1,1 @@
+{"id": "explosion", "fg": ["9245_explosion_0"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "corner", "fg": ["9240_explosion_1", "9241_explosion_2", "9242_explosion_3", "9243_explosion_4"], "bg": []}, {"id": "edge", "fg": ["9244_explosion_5", "9245_explosion_0"], "bg": ["9191_bg_t_lava_0"]}], "bg": []}

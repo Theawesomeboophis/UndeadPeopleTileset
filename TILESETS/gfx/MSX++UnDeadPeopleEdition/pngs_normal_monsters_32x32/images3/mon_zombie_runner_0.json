@@ -1,0 +1,1 @@
+{"id": "mon_zombie_runner", "fg": [{"weight": 3, "sprite": "8551_mon_zombie_runner_0"}, {"weight": 3, "sprite": "8552_mon_zombie_runner_1"}, {"weight": 3, "sprite": "8553_mon_zombie_runner_2"}, {"weight": 3, "sprite": "8554_mon_zombie_runner_3"}, {"weight": 3, "sprite": "8555_mon_zombie_runner_4"}], "bg": ["9173_bot_grocerybot_1"], "rotates": false}

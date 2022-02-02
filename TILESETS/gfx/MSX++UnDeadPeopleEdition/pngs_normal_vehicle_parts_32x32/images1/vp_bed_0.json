@@ -1,0 +1,1 @@
+{"id": "vp_bed", "fg": ["17252_vp_bed_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["17253_vp_bed_1"], "bg": ["17252_vp_bed_0"]}], "bg": []}

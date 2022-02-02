@@ -1,0 +1,1 @@
+{"id": "vp_halfboard_hatch_wheel_right", "fg": ["16929_vp_halfboard_hatch_wheel_right_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["16930_vp_halfboard_hatch_wheel_right_1"], "bg": []}], "bg": []}

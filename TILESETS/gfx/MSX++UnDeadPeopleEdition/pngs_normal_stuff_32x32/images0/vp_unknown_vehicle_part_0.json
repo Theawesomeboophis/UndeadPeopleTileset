@@ -1,0 +1,1 @@
+{"id": "vp_unknown_vehicle_part", "fg": ["9357_unknown_vehicle_part_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9358_vp_unknown_vehicle_part_1"], "bg": []}], "bg": []}

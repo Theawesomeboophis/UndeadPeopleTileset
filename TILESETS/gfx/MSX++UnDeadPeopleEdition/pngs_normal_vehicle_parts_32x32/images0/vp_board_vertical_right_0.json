@@ -1,0 +1,1 @@
+{"id": "vp_board_vertical_right", "fg": ["16839_vp_board_vertical_right_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["16840_vp_board_vertical_right_1"], "bg": []}], "bg": []}

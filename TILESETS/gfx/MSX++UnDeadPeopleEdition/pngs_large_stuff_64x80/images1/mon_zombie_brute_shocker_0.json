@@ -1,0 +1,1 @@
+{"id": "mon_zombie_brute_shocker", "fg": [{"weight": 10, "sprite": "18564_mon_zombie_brute_shocker_0"}, {"weight": 10, "sprite": "18565_mon_zombie_brute_shocker_1"}, {"weight": 10, "sprite": "18566_mon_zombie_brute_shocker_2"}, {"weight": 10, "sprite": "18567_mon_zombie_brute_shocker_3"}], "bg": ["18121_bg_big_large_shadow_0"], "animated": true, "rotates": false}

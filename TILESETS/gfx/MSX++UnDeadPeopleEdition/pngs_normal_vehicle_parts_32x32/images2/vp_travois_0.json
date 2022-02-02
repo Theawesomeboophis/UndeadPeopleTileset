@@ -1,0 +1,1 @@
+{"id": "vp_travois", "fg": ["17848_vp_travois_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["17849_vp_travois_1"], "bg": ["17848_vp_travois_0"]}], "bg": []}

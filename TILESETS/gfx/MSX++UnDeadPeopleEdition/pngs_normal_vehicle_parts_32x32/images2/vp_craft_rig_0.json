@@ -1,0 +1,1 @@
+{"id": "vp_craft_rig", "fg": ["17697_vp_craft_rig_0"], "bg": ["9122_bg_car_0"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["17698_vp_craft_rig_2"], "bg": ["17697_vp_craft_rig_0"]}]}

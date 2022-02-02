@@ -1,0 +1,1 @@
+{"id": "mon_firefly", "fg": [{"weight": 3, "sprite": "7642_mon_firefly_0"}, {"weight": 3, "sprite": "7643_mon_firefly_1"}, {"weight": 3, "sprite": "7644_mon_firefly_2"}, {"weight": 3, "sprite": "7645_mon_firefly_3"}, {"weight": 3, "sprite": "7646_mon_firefly_4"}], "bg": ["9173_bot_grocerybot_1"], "rotates": false, "animated": true}

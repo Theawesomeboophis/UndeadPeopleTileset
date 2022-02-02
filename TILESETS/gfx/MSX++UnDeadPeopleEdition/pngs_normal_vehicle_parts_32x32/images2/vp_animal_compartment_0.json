@@ -1,0 +1,1 @@
+{"id": "vp_animal_compartment", "fg": ["17678_vp_animal_compartment_0"], "bg": ["9122_bg_car_0"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["17679_vp_animal_compartment_2"], "bg": ["9122_bg_car_0"]}]}

@@ -1,0 +1,1 @@
+{"id": "vp_omnicam", "fg": ["17815_vp_omnicam_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["17816_vp_omnicam_1"], "bg": ["17815_vp_omnicam_0"]}], "bg": []}

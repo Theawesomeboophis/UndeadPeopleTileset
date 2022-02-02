@@ -1,0 +1,1 @@
+{"id": "vp_seat_back_vertical", "fg": ["17446_vp_seat_back_vertical_0"], "bg": ["9122_bg_car_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["17447_vp_seat_back_vertical_2"], "bg": ["9122_bg_car_0"]}]}

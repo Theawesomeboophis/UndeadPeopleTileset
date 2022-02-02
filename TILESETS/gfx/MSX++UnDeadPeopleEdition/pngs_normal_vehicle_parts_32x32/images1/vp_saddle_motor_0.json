@@ -1,0 +1,1 @@
+{"id": "vp_saddle_motor", "fg": ["17414_vp_saddle_motor_0", "17415_vp_saddle_motor_1", "17416_vp_saddle_motor_2", "17417_vp_saddle_motor_3"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["17410_vp_saddle_motor_4", "17411_vp_saddle_motor_5", "17412_vp_saddle_motor_6", "17413_vp_saddle_motor_7"], "bg": []}], "bg": []}

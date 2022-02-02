@@ -1,0 +1,1 @@
+{"id": "vp_saddle", "fg": ["17406_vp_saddle_0", "17407_vp_saddle_1", "17408_vp_saddle_2", "17409_vp_saddle_3"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["17402_vp_saddle_4", "17403_vp_saddle_5", "17404_vp_saddle_6", "17405_vp_saddle_7"], "bg": []}], "bg": []}

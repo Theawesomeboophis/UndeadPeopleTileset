@@ -1,0 +1,1 @@
+{"id": "mon_mannequin_decoy", "fg": [{"weight": 10, "sprite": "7915_mon_mannequin_decoy_0"}, {"weight": 10, "sprite": "7916_mon_mannequin_decoy_1"}, {"weight": 10, "sprite": "7917_mon_mannequin_decoy_2"}, {"weight": 10, "sprite": "7918_mon_mannequin_decoy_3"}], "bg": ["9173_bot_grocerybot_1"], "animated": true}

@@ -1,0 +1,1 @@
+{"id": "vp_mounted_sks", "fg": ["9214_vp_bg_default_turret_2_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9215_vp_bg_default_turret_2_1"], "bg": []}], "bg": []}

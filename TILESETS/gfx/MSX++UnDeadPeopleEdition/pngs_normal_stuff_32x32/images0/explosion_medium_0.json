@@ -1,0 +1,1 @@
+{"id": "explosion_medium", "fg": ["9251_explosion_medium_0"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "corner", "fg": ["9246_explosion_medium_1", "9247_explosion_medium_2", "9248_explosion_medium_3", "9249_explosion_medium_4"], "bg": []}, {"id": "edge", "fg": ["9250_explosion_medium_5", "9251_explosion_medium_0"], "bg": ["9191_bg_t_lava_0"]}], "bg": []}

@@ -1,0 +1,1 @@
+{"id": "vp_flamethrower", "fg": ["17501_vp_flamethrower_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["17502_vp_flamethrower_1"], "bg": []}], "bg": []}

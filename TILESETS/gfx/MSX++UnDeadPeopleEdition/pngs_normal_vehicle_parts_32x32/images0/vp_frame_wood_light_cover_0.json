@@ -1,0 +1,1 @@
+{"id": "vp_frame_wood_light_cover", "fg": ["17202_vp_frame_wood_cover_2"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["17203_vp_frame_wood_light_cover_1"], "bg": ["17181_vp_frame_wood_cover_0", "17202_vp_frame_wood_cover_2"]}], "bg": []}

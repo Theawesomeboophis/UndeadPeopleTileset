@@ -1,0 +1,1 @@
+{"id": "vp_wheel_armor", "fg": ["17940_vp_metal_wheel_2"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["17941_vp_wheel_armor_1"], "bg": []}], "bg": []}

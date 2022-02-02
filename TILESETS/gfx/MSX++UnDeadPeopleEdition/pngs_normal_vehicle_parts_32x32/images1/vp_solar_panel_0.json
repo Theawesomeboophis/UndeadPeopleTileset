@@ -1,0 +1,1 @@
+{"id": "vp_solar_panel", "fg": ["17335_vp_solar_panel_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["17336_vp_solar_panel_1"], "bg": []}], "bg": []}
