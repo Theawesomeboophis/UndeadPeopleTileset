@@ -2,5 +2,6 @@ Xotto, Waldo, Raga, Deon and many other derivative authors: These authors helped
 SDG: Former Maintainer of tileset.
 Firestorm: Help in learning how to build and edit tileset.
 Chaosvolt: Collaborator and advisor, has helped a lot in the continued maintenance of tileset.
-Hanazumary: Various submitted sprites (as of yet unintegrated).
+Hanazumary: Various submitted sprites ( bugs integrated, exodii quad later)
 The Entire Cataclysm Subreddit: For continued support and understanding.
+SzQ: Without him, updating would be almost inplausible, he helped compile and edit latest update.
