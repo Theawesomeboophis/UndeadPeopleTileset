@@ -6,7 +6,7 @@ https://github.com/Kenan2000/CDDA-Kenan-Modpack ( Includes many mods with built-
 
 https://github.com/Kenan2000/Otopack-Mods-Updates ( Best soundpack for the game imho, constant updates and tweaks, with a great soundtrack as well)
 
-https://github.com/remyroy/CDDA-Game-Launcher ( Very helpful tool that allows you to download and update to latest versions of CDDA, unfortunately unmaintained)
+https://github.com/DazedNConfused-/CDDA-Game-Launcher ( Very helpful tool that allows you to download and update to latest versions of CDDA, remyroy version unmaintained, updated version linked)
 
 https://github.com/CleverRaven/Cataclysm-DDA ( Original repository for CDDA, for those who want to know what is being added to the game)
 
