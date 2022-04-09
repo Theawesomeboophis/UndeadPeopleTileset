@@ -4,6 +4,7 @@ Firestorm: Help in learning how to build and edit tileset.
 Chaosvolt: Collaborator and advisor, has helped a lot in the continued maintenance of tileset.
 Hanazumary: Various submitted sprites ( bugs integrated, exodii quad later)
 The Entire Cataclysm Subreddit: For continued support and understanding.
-SzQ: Without him, updating would be almost inplausible, he helped compile and edit latest update.
+SzQ: Without him, updating would be almost inplausible, he helped compile and edit latest update, Various Sprites.
 Lyca0n: Bug Fixes.
 Jazz of the soul: Ladder Up Down Update.
+Olanti-P: Weather Overmap Sprites from BN.
