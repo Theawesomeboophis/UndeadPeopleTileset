@@ -27,8 +27,9 @@
 			{"id": "flurries", "fg": 19159, "bg":0, "rotates": false },
 			{"id": "snowing", "fg": 19160, "bg":0, "rotates": false },
 			{"id": "snowstorm", "fg": 19161, "bg":0, "rotates": false },
-			{"id": "mon_memory", "fg": 19162, "bg":0, "rotates": false },
-			{"id": "mon_absence", "fg": 19163, "bg":0, "rotates": false }
+			{"id": "mon_memory", "fg": 19162, "bg":0, "rotates": true },
+			{"id": "mon_absence", "fg": 19163, "bg":0, "rotates": true },
+			{"id": "mon_boomer_claymore", "fg": 19164, "bg":0, "rotates": true }
 			
 			],
 	"//": "range 19137 to 19237"
