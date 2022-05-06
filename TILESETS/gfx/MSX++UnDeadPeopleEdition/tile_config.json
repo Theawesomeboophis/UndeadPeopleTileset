@@ -29,7 +29,12 @@
 			{"id": "snowstorm", "fg": 19161, "bg":0, "rotates": false },
 			{"id": "mon_memory", "fg": 19162, "bg":0, "rotates": true },
 			{"id": "mon_absence", "fg": 19163, "bg":0, "rotates": true },
-			{"id": "mon_boomer_claymore", "fg": 19164, "bg":0, "rotates": true }
+			{"id": "mon_boomer_claymore", "fg": 19164, "bg":0, "rotates": true },
+			{ "id": "overlay_mutation_EXODII_BODY_1", "fg":19165, "bg":0, "rotates": true },
+			{"id": "weather_portal_storm", "fg":19166, "bg":0, "rotates": false },
+			{"id": "mon_feral_sapien_spear", "fg":[{"weight": 111,"sprite":19167}, {"weight": 111,"sprite":19168}, {"weight": 111,"sprite":19169}],  "bg":0, "rotates": false },
+			{"id": "mon_feral_soldier", "fg":[{"weight": 111,"sprite":19170}],  "bg":0, "rotates": false },
+			{"id": "mon_feral_human_tool", "fg":[{"weight": 111,"sprite":19171},{"weight": 111,"sprite":19172}],  "bg":0, "rotates": false }
 			
 			],
 	"//": "range 19137 to 19237"
