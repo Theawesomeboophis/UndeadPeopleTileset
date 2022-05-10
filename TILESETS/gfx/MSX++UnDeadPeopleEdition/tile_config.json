@@ -40,7 +40,7 @@
 			{"id": "mon_feral_human_tool", "fg":[{"weight": 111,"sprite":19175},{"weight": 111,"sprite":19176}],  "bg":0, "rotates": false },
 			{"id": "mon_feral_swimmer_kickboard", "fg":[{"weight": 111,"sprite":19178}, {"weight": 111,"sprite":19179}],  "bg":0, "rotates": false },
 			{"id": "mon_feral_maid_candlestick", "fg":[{"weight": 111,"sprite":19180}, {"weight": 111,"sprite":19181}],  "bg":0, "rotates": false },
-			{"id": "mon_feral_maid_broom", "fg":[{"weight": 111,"sprite":19182},{"weight": 111,"sprite":19183}],  "bg":0, "rotates": false }
+			{"id": "mon_feral_maid_broom", "fg":[{"weight": 111,"sprite":19182},{"weight": 111,"sprite":19183}],  "bg":0, "rotates": false },
 			{"id": "mon_feral_maid_knife", "fg":[{"weight": 111,"sprite":19184},{"weight": 111,"sprite":19185}],  "bg":0, "rotates": false }
 			
 			
