@@ -9,3 +9,4 @@ Lyca0n: Bug Fixes.
 Jazz of the soul: Ladder Up Down Update.
 Olanti-P: Weather Overmap Sprites from BN.
 LyleSy: Pachyrhinosaurus Sprite, Ported to Packed by SzQ.
+Adalynn: Foot Locker recharging station.
