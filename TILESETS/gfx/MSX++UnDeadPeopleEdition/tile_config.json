@@ -29,8 +29,23 @@
 			{"id": "snowstorm", "fg": 19161, "bg":0, "rotates": false },
 			{"id": "mon_memory", "fg": 19162, "bg":0, "rotates": true },
 			{"id": "mon_absence", "fg": 19163, "bg":0, "rotates": true },
-			{"id": "mon_boomer_claymore", "fg": 19164, "bg":0, "rotates": true }
-			
+			{"id": "mon_boomer_claymore", "fg": 19164, "bg":0, "rotates": true },
+			{"id": "ap_foot_locker_recharge_station", "fg": 19165, "bg":0, "rotates": true },
+			{"id": "foot_locker_recharge_station", "fg": 19165, "bg":0, "rotates": true },
+			{"id": "vp_foot_locker_recharge_station", "fg": 19165, "bg":0, "rotates": true },
+			{"id": ["s_hunting"], "fg": 19166, "rotates": false},
+			{"id": ["dojo"], "fg": 19167, "rotates": false},
+			{"id": ["dojo_roof"], "fg": 19167, "rotates": false},
+			{"id": ["dojo_upper_roof"], "fg": 19167, "rotates": false},
+			{"id": ["dojo_1"], "fg": 19167, "rotates": false},
+			{"id": ["dojo_roof_1"], "fg": 19167, "rotates": false},
+			{"id": ["dojo_upper_roof_1"], "fg": 19167, "rotates": false},
+			{"id": ["recyclecenter"], "fg": 19168, "rotates": false},
+			{"id": ["recyclecenter_roof"], "fg": 19168, "rotates": false},
+			{"id": ["recyclecenter_1"], "fg": 19168, "rotates": false},
+			{"id": ["recyclecenter_roof_1"], "fg": 19168, "rotates": false},
+			{"id": ["recyclecenter_2"], "fg": 19168, "rotates": false},
+			{"id": ["recyclecenter_roof_2"], "fg": 19168, "rotates": false}
 			],
 	"//": "range 19137 to 19237"
 	},
