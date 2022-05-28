@@ -100,9 +100,9 @@
           { "id": "corpse_mon_pachyrhinosaurus", "fg": 90, "rotates": false },
           { "id": "rid_mon_pachyrhinosaurus", "fg": 91, "rotates": false },
           { "id": "mon_zutahraptor_shady", "fg": 92, "rotates": false },
-            { "id": "mon_zalbertosaurus", "fg": 93, "rotates": false },
-		  { "id": "mon_zriceratops", "fg": 94, "rotates": false },
-		  { "id": "mon_pentaceratops", "fg": 95, "rotates": false }
+          { "id": "mon_zalbertosaurus", "fg": 93, "rotates": false },
+          { "id": "mon_zriceratops", "fg": 94, "rotates": false },
+          { "id": "mon_pentaceratops", "fg": 95, "rotates": false }
         ],
         "//": "range 33 to 96",
         "sprite_width": 64,
