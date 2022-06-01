@@ -33,19 +33,7 @@
 			{"id": "ap_foot_locker_recharge_station", "fg": 19165, "bg":0, "rotates": true },
 			{"id": "foot_locker_recharge_station", "fg": 19165, "bg":0, "rotates": true },
 			{"id": "vp_foot_locker_recharge_station", "fg": 19165, "bg":0, "rotates": true },
-			{"id": ["s_hunting"], "fg": 19166, "rotates": false},
-			{"id": ["dojo"], "fg": 19167, "rotates": false},
-			{"id": ["dojo_roof"], "fg": 19167, "rotates": false},
-			{"id": ["dojo_upper_roof"], "fg": 19167, "rotates": false},
-			{"id": ["dojo_1"], "fg": 19167, "rotates": false},
-			{"id": ["dojo_roof_1"], "fg": 19167, "rotates": false},
-			{"id": ["dojo_upper_roof_1"], "fg": 19167, "rotates": false},
-			{"id": ["recyclecenter"], "fg": 19168, "rotates": false},
-			{"id": ["recyclecenter_roof"], "fg": 19168, "rotates": false},
-			{"id": ["recyclecenter_1"], "fg": 19168, "rotates": false},
-			{"id": ["recyclecenter_roof_1"], "fg": 19168, "rotates": false},
-			{"id": ["recyclecenter_2"], "fg": 19168, "rotates": false},
-			{"id": ["recyclecenter_roof_2"], "fg": 19168, "rotates": false},
+
 		    { "id": "overlay_mutation_EXODII_BODY_1", "fg":19169, "bg":0, "rotates": true },
 			{"id": "weather_portal_storm", "fg":19170, "bg":0, "rotates": false },
 			{"id": "mon_feral_sapien_spear", "fg":[{"weight": 111,"sprite":19171}, {"weight": 111,"sprite":19172}, {"weight": 111,"sprite":19173}],  "bg":0, "rotates": true },
@@ -75,7 +63,26 @@
 			{"id":"mosin91_30_ebr", "fg": 19216, "rotates": false},
 			{"id": "overlay_wielded_mosin91_30_ebr", "fg": 73217, "rotates": false}
 			],
-	"//": "range 19137 to 19237"
+	"//": "range 19137 to 19336"
 	},
+	{"file": "Temporary-maptiles.png", 
+	"tiles": [
+			{"id": ["s_hunting"], "fg": 19337, "rotates": false},
+			{"id": ["dojo"], "fg": 19338, "rotates": false},
+			{"id": ["dojo_roof"], "fg": 19338, "rotates": false},
+			{"id": ["dojo_upper_roof"], "fg": 19338, "rotates": false},
+			{"id": ["dojo_1"], "fg": 19338, "rotates": false},
+			{"id": ["dojo_roof_1"], "fg": 19338, "rotates": false},
+			{"id": ["dojo_upper_roof_1"], "fg": 19338, "rotates": false},
+			{"id": ["recyclecenter"], "fg": 19339, "rotates": false},
+			{"id": ["recyclecenter_roof"], "fg": 19339, "rotates": false},
+			{"id": ["recyclecenter_1"], "fg": 19339, "rotates": false},
+			{"id": ["recyclecenter_roof_1"], "fg": 19339, "rotates": false},
+			{"id": ["recyclecenter_2"], "fg": 19339, "rotates": false},
+			{"id": ["recyclecenter_roof_2"], "fg": 19339, "rotates": false}
+			],
+	"//": "range 19337 to 19538"
+	},
+
 	{"file": "fallback.png", "tiles": [], "ascii": [{"offset": 0, "bold": false, "color": "BLACK"}, {"offset": 256, "bold": true, "color": "WHITE"}, {"offset": 512, "bold": false, "color": "WHITE"}, {"offset": 768, "bold": true, "color": "BLACK"}, {"offset": 1024, "bold": false, "color": "RED"}, {"offset": 1280, "bold": false, "color": "GREEN"}, {"offset": 1536, "bold": false, "color": "BLUE"}, {"offset": 1792, "bold": false, "color": "CYAN"}, {"offset": 2048, "bold": false, "color": "MAGENTA"}, {"offset": 2304, "bold": false, "color": "YELLOW"}, {"offset": 2560, "bold": true, "color": "RED"}, {"offset": 2816, "bold": true, "color": "GREEN"}, {"offset": 3072, "bold": true, "color": "BLUE"}, {"offset": 3328, "bold": true, "color": "CYAN"}, {"offset": 3584, "bold": true, "color": "MAGENTA"}, {"offset": 3840, "bold": true, "color": "YELLOW"}]}
 ]}
