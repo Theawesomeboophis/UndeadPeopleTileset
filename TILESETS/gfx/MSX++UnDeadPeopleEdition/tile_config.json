@@ -35,7 +35,9 @@
 			{"id": "ap_foot_locker_recharge_station", "fg": 19165, "bg":0, "rotates": true },
 			{"id": "foot_locker_recharge_station", "fg": 19165, "bg":0, "rotates": true },
 			{"id": "vp_foot_locker_recharge_station", "fg": 19165, "bg":0, "rotates": true },
-
+			{ "id": "mon_zombie_relax_gasbag", "fg":19166, "bg":0, "rotates": true },
+		    { "id": "f_spinwheel", "fg":19167, "bg":0, "rotates": true },
+            
 		    { "id": "overlay_mutation_EXODII_BODY_1", "fg":19169, "bg":0, "rotates": true },
 			{"id": "weather_portal_storm", "fg":19170, "bg":0, "rotates": false },
 			{"id": "mon_feral_sapien_spear", "fg":[{"weight": 111,"sprite":19171}, {"weight": 111,"sprite":19172}, {"weight": 111,"sprite":19173}],  "bg":0, "rotates": true },
@@ -63,7 +65,39 @@
 			{"id":"mosin44_ebr", "fg": 19214, "rotates": false},
 			{"id": "overlay_wielded_mosin44_ebr", "fg": 19215, "rotates": false},
 			{"id":"mosin91_30_ebr", "fg": 19216, "rotates": false},
-			{"id": "overlay_wielded_mosin91_30_ebr", "fg": 73217, "rotates": false}
+			{"id": "overlay_wielded_mosin91_30_ebr", "fg": 73217, "rotates": false},
+			{"id": "mon_feral_jackboot", "fg":[{"weight": 111,"sprite":19218}, {"weight": 111,"sprite":19219}, {"weight": 111,"sprite":19220}],  "bg":0, "rotates": true },
+			{"id":"human_sample", "fg": 19221, "rotates": false},
+			{"id":"mouse_sample", "fg": 19221, "rotates": false},
+		    {"id":"rabbit_sample", "fg": 19221, "rotates": false},
+			{"id":"rat_sample", "fg": 19222, "rotates": false},
+			{"id":"feline_sample", "fg": 19222, "rotates": false},
+			{"id":"lupine_sample", "fg": 19222, "rotates": false},
+			{"id":"cattle_sample", "fg": 19222, "rotates": false},
+			{"id":"ursine_sample", "fg": 19222, "rotates": false},
+			{"id":"cephalopod_sample", "fg": 19223, "rotates": false},
+			{"id":"troglobite_sample", "fg": 19223, "rotates": false},
+			{"id":"spider_sample", "fg": 19223, "rotates": false},
+			{"id":"batrachian_sample", "fg": 19223, "rotates": false},
+			{"id":"insect_sample", "fg": 19223, "rotates": false},
+			{"id":"gastropod_sample", "fg": 19224, "rotates": false},
+		    {"id":"beast_sample", "fg": 19224, "rotates": false},
+			{"id":"lizard_sample", "fg": 19224, "rotates": false},
+			{"id":"fish_sample", "fg": 19225, "rotates": false},
+			{"id":"bird_sample", "fg": 19225, "rotates": false},
+			{"id":"raptor_sample", "fg": 19225, "rotates": false},
+			{"id":"elfa_sample", "fg": 19226, "rotates": false},
+			{"id":"plant_sample", "fg": 19226, "rotates": false},
+			{"id":"slime_sample", "fg": 19226, "rotates": false},
+			{"id":"chimera_sample", "fg": 19227, "rotates": false},
+			{"id":"alpha_sample", "fg": 19227, "rotates": false},
+			{"id":"medical_sample", "fg": 19227, "rotates": false},
+			{"id":"mon_feral_starer_axe", "fg": 19228, "rotates": false},
+			{"id":"mon_feral_starer_crowbar", "fg": 19229, "rotates": false},
+		    {"id":"mon_feral_starer_pipe", "fg": 19230, "rotates": false}
+			
+			
+			
 			],
 	"//": "range 19137 to 19336"
 	},
