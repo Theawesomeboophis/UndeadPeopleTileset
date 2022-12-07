@@ -21200,7 +21200,8 @@
         { "id": "snowing", "fg": 10642, "rotates": false },
         { "id": "snowstorm", "fg": 10643, "rotates": false },
         { "id": "sunny", "fg": 10644, "rotates": false },
-        { "id": "thunder", "fg": 10645, "rotates": false }
+        { "id": "thunder", "fg": 10645, "rotates": false },
+        { "id": "weather_portal_storm", "fg": 10646, "rotates": false }
       ]
     },
     {
