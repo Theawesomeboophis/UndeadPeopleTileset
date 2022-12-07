@@ -30316,6 +30316,7 @@
         { "id": "t_earth_ramp_down_low", "fg": 16861, "rotates": false },
         { "id": "t_earth_ramp_up_high", "fg": 16862, "rotates": false },
         { "id": "t_earth_ramp_up_low", "fg": 16863, "rotates": false },
+        { "id": "t_ladder_up_down", "fg": [  ], "bg": 9225, "rotates": false, "animated": true },
         { "id": "t_low_stairs_begin", "fg": 16864, "rotates": false },
         { "id": "t_low_stairs_end", "fg": 16865, "bg": 9225, "rotates": false },
         {
