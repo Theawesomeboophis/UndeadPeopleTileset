@@ -13385,7 +13385,7 @@
           "rotates": false
         },
         { "id": [ "corpse_mon_pigeon", "corpse_mon_pidgeon" ], "fg": 7444, "rotates": false },
-        { "id": "mon_robin", "fg": { "sprite": 7445 }, "bg": 9284, "rotates": false },
+        { "id": "mon_robin", "fg": 7445, "bg": 9284, "rotates": false },
         { "id": "corpse_mon_robin", "fg": 7446, "rotates": false },
         { "id": "mon_turkey", "fg": 7447, "bg": 9284, "rotates": false },
         { "id": "corpse_mon_turkey", "fg": 7448, "rotates": false },
