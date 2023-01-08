@@ -36044,6 +36044,7 @@
     {
       "file": "Temporary-Maptiles-Large.png",
       "tiles": [
+	{ "id": "unknown_map_extra", "fg": 1995, "rotates": true },
         { "id": "cs_car_showroom", "fg": 19638, "rotates": false },
         { "id": "cs_car_showroom_2ndfloor", "fg": 19639, "bg": 19637, "rotates": false },
         { "id": "cs_car_showroom_roof", "fg": 19640, "bg": 19637, "rotates": false },
