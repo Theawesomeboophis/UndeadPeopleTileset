@@ -8,9 +8,19 @@ SzQ: Without him, updating would be almost inplausible, he helped compile and ed
 Lyca0n: Bug Fixes and Various Sprites.
 Jazz of the soul: Ladder Up Down Update.
 Olanti-P: Weather Overmap Sprites from BN, Updated Unpacked.
-LyleSy: Dinos.
+LyleSy: Dinos, Unpacked Updates, Backlog Help, Spritework
 Adalynn: Foot Locker recharging station.
 Ash: Discord Server Necromancer and Portal Storm Sprite.
 Anton 2689: Gun Sprites.
 Kaelum: Works on Unpacked.
-
+YuRukia: Map Fix
+Mer1ck: Foxmod Support
+Coligad: Various Sprites, Tefnut Expansion Support.
+Alphyn: Unpacked Sprites, Various Currency Sprites.
+Survivor: Various Submissions to the discord, monster sprites.
+Seawhite: Many Sprites.
+Maleclypse: Bugfixes and Advice.
+  : Various Sprites ( I didn't forget to put the name, there username is invisible on discord.)
+NakedJake: Resprites of Various Sprites.
+Sephyr: Wall Wiring Sprite.
+Goodgulf_PL: Unpacked sprites ( will be ported in the future after backlog).
