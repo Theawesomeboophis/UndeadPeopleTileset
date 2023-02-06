@@ -20,7 +20,6 @@ Alphyn: Unpacked Sprites, Various Currency Sprites.
 Survivor: Various Submissions to the discord, monster sprites.
 Seawhite: Many Sprites.
 Maleclypse: Bugfixes and Advice.
-  : Various Sprites ( I didn't forget to put the name, there username is invisible on discord.)
 NakedJake: Resprites of Various Sprites.
 Sephyr: Wall Wiring Sprite.
 Goodgulf_PL: Unpacked sprites ( will be ported in the future after backlog).
