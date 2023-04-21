@@ -4,14 +4,14 @@
     "compatibility": [ "UNDEAD_PEOPLE_BASE", "MSX++DEAD_PEOPLE", "UNDEAD_PEOPLE" ],
     "tiles-new": [
       {
-        "file": "custom_gfx.png",
+        "file": "UndeadPeople.png",
         "sprite_offset_y":-17,
         "tiles": [
           { "id": "overlay_mutation_FOX_EARS", "fg": 0, "rotates": false }
         ]
       },
 	  {
-		"file": "custom_gfx.png",
+		"file": "UndeadPeople.png",
 		"tiles": [
 		  { "id": "overlay_mutation_FOX_MUZZLE", "fg": 1, "rotates": false },
 		  { "id": "overlay_mutation_KITSUNE_MUZZLE", "fg": 1, "rotates": false },
@@ -21,6 +21,9 @@
 		  { "id": "overlay_mutation_FOX_FOURTAIL", "fg": 12, "rotates": false },
 		  { "id": "overlay_mutation_FOX_FIVETAIL", "fg": 11, "rotates": false },
 		  { "id": "overlay_mutation_FOX_SIXTAIL", "fg": 10, "rotates": false },
+		  { "id": "overlay_mutation_FOX_SEVENTAIL", "fg": 9, "rotates": false },
+		  { "id": "overlay_mutation_FOX_EIGHTTAIL", "fg": 8, "rotates": false },
+		  { "id": "overlay_mutation_FOX_NINETAIL", "fg": 7, "rotates": false },
 		  { "id": "mon_foxfire", "fg": [{ "weight": 3, "sprite": 2}, {"weight": 5, "sprite": 3}], "rotates": false },
 		  { "id": "overlay_male_mutation_KITSUNE_FUR", "fg": 25, "rotates": false },
 		  { "id": "overlay_male_mutation_GLAM_FUR", "fg": 27, "rotates": false},
