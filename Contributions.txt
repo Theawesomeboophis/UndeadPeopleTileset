@@ -26,3 +26,4 @@ Goodgulf_PL: Unpacked sprites.
 Inzarcon: Diagonal strrets, 3d fix, Overmap Rivers, various unpacked work.
 Kantonine: Mercenary armor resprite ( Coming next pack).
 Thhoney08: Tommy gun resprite.
+Steve-Johns: Various gun sprites (coming next pack).
