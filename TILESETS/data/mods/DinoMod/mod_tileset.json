@@ -198,8 +198,66 @@
         "tiles": [
           { "id": "mon_apatosaurus", "fg": 113, "rotates": false },
           { "id": "corpse_mon_apatosaurus", "fg": 114, "rotates": false },
+          {
+            "id": [
+              "corpse_mon_sarahsaurus",
+              "corpse_mon_anchisaurus",
+              "corpse_mon_issi",
+              "corpse_mon_haplocanthosaurus",
+              "corpse_mon_amargasaurus",
+              "corpse_mon_brontosaurus",
+              "corpse_mon_camarasaurus",
+              "corpse_mon_brachiosaurus",
+              "corpse_mon_alamosaurus",
+              "corpse_mon_sarahsaurus_juvenile",
+              "corpse_mon_anchisaurus_juvenile",
+              "corpse_mon_issi_juvenile",
+              "corpse_mon_haplocanthosaurus_juvenile",
+              "corpse_mon_amargasaurus_juvenile",
+              "corpse_mon_brontosaurus_juvenile",
+              "corpse_mon_camarasaurus_juvenile",
+              "corpse_mon_brachiosaurus_juvenile",
+              "corpse_mon_alamosaurus_juvenile",
+              "corpse_mon_apatosaurus_juvenile"
+            ],
+            "fg": 114,
+            "rotates": false
+          },
           { "id": "mon_diplodocus", "fg": 115, "rotates": false },
           { "id": "corpse_mon_diplodocus", "fg": 116, "rotates": false },
+          {
+            "id": [ "corpse_mon_barosaurus", "corpse_mon_barosaurus_juvenile", "corpse_mon_diplodocus_juvenile" ],
+            "fg": 116,
+            "rotates": false
+          },
+          {
+            "id": [
+              "corpse_mon_zarahsaurus",
+              "corpse_mon_zanchisaurus",
+              "corpse_mon_zissi",
+              "corpse_mon_zaplocanthosaurus",
+              "corpse_mon_zamargasaurus",
+              "corpse_mon_zrontosaurus",
+              "corpse_mon_zamarasaurus",
+              "corpse_mon_zrachiosaurus",
+              "corpse_mon_zalamosaurus",
+              "corpse_mon_zarosaurus",
+              "corpse_mon_ziplodocus",
+              "corpse_mon_zarahsaurus_juvenile",
+              "corpse_mon_zanchisaurus_juvenile",
+              "corpse_mon_zissi_juvenile",
+              "corpse_mon_zaplocanthosaurus_juvenile",
+              "corpse_mon_zamargasaurus_juvenile",
+              "corpse_mon_zrontosaurus_juvenile",
+              "corpse_mon_zamarasaurus_juvenile",
+              "corpse_mon_zrachiosaurus_juvenile",
+              "corpse_mon_zalamosaurus_juvenile",
+              "corpse_mon_zarosaurus_juvenile",
+              "corpse_mon_ziplodocus_juvenile"
+            ],
+            "fg": 114,
+            "rotates": false
+          },
           { "id": "mon_zapatosaurus", "fg": 117, "rotates": false }
         ],
         "//": "range 113 to 128",
