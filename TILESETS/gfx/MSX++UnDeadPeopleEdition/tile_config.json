@@ -8582,6 +8582,7 @@
           "fg": 4382,
           "rotates": false
         },
+        { "id": "overlay_wielded_modular_ar15", "fg": 4383, "rotates": false },
         { "id": "overlay_wielded_ar15", "fg": 4383, "rotates": false },
         { "id": "ar_pistol", "fg": 4384, "rotates": false },
         { "id": "overlay_wielded_ar_pistol", "fg": 4385, "rotates": false },
