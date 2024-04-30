@@ -1,4 +1,0 @@
-NAME: UNDEAD_PEOPLE
-VIEW: UNDEAD_PEOPLE_LEGACY
-JSON: tile_config.json
-TILESET: tiles.png
