@@ -1,4 +1,11 @@
 The currently maintained fork of **UndeadPeople**. Pull Requests and Issues are welcome and appreciated.
+
+## Nearly Dead
+
+Some Sprites provided with permission from Xotto in Collaboration with Nearly Dead:
+https://store.steampowered.com/app/1268900/Nearly_Dead/
+
+
 ## Tileset related links
 - Raw, unpacked files of this tileset. PRs for tile changes go here:<br>
 https://github.com/Theawesomeboophis/UndeadPeopleUnpacked
@@ -38,10 +45,5 @@ https://github.com/qrrk/Catapult
 https://github.com/I-am-Erk/CDDA-Tilesets
 - Best soundpack for the game imho, constant updates and tweaks, with a great soundtrack as well:<br>
 https://github.com/Kenan2000/Otopack-Mods-Updates
-### Nearly Dead
-
-Some Sprites provided with permission from Xotto in Collaboration with Nearly Dead:
-https://store.steampowered.com/app/1268900/Nearly_Dead/
-
 
 
