@@ -2,7 +2,7 @@ The currently maintained fork of **UndeadPeople**. Pull Requests and Issues are 
 
 ## Nearly Dead
 
-Some Sprites provided with permission from Xotto in Collaboration with Nearly Dead:
+Some sprites provided with permission from Xotto in Collaboration with Nearly Dead:
 https://store.steampowered.com/app/1268900/Nearly_Dead/
 
 
