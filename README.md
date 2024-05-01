@@ -38,5 +38,10 @@ https://github.com/qrrk/Catapult
 https://github.com/I-am-Erk/CDDA-Tilesets
 - Best soundpack for the game imho, constant updates and tweaks, with a great soundtrack as well:<br>
 https://github.com/Kenan2000/Otopack-Mods-Updates
+### Nearly Dead
+
+Some Sprites provided with permission from Xotto in Collaboration with Nearly Dead:
+https://store.steampowered.com/app/1268900/Nearly_Dead/
+
 
 
