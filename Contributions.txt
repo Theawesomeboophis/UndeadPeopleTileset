@@ -31,5 +31,6 @@ IgorGarcia: Zombie Marine, Zombie Mariner, various other upcoming sprites.
 Guderiss: Various sprites.
 JuneTooJuly: Crab mutations
 Onba: Megafauna Mod Tileset
+Drabont7: Appliance fix
 Some Sprites provided by Xotto and Mono Software for promotional purposes in collaboration with Nearly Dead: 
 https://store.steampowered.com/app/1268900/Nearly_Dead/
