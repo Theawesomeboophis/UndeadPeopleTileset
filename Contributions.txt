@@ -32,5 +32,6 @@ Guderiss: Various sprites.
 JuneTooJuly: Crab mutations
 Onba: Megafauna Mod Tileset
 Drabont7: Appliance fix
+Аwawawa: Various sprites, including upcoming shopping cart resprite, fungal hulk and more.
 Some Sprites provided by Xotto and Mono Software for promotional purposes in collaboration with Nearly Dead: 
 https://store.steampowered.com/app/1268900/Nearly_Dead/
