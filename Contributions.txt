@@ -36,6 +36,7 @@ Pyrocom: Magi staff sprites/resprites
 Baka-Cirno: Community Asset Sprites
 Bestary: Various sprites, Skull resprites
 Pikayellow35: Various sprites, skull resprites with Bestary
+Fohcs: Kiln Sprites
 The Entire Cataclysm Subreddit: For continued support and understanding.
 Some Sprites provided by Xotto and Mono Software for promotional purposes in collaboration with Nearly Dead: 
 https://store.steampowered.com/app/1268900/Nearly_Dead/
