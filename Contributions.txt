@@ -3,7 +3,6 @@ SDG: Former Maintainer of tileset.
 Firestorm: Help in learning how to build and edit tileset, Discord Necromancer.
 Chaosvolt: Collaborator and advisor, has helped a lot in the continued maintenance of tileset, pride and state worn flags and Bn external tileset.
 Hanazumary: Various submitted sprites.
-The Entire Cataclysm Subreddit: For continued support and understanding.
 SzQ: Without him, updating would be almost inplausible, he helped compile and edit prior updates, Various Sprites.
 Lyca0n: Bug Fixes and Various Sprites.
 Jazz of the soul: Ladder Up Down Update.
@@ -23,7 +22,7 @@ Maleclypse: Bugfixes and Advice.
 NakedJake: Resprites of Various Sprites.
 Sephyr: Wall Wiring Sprite.
 Goodgulf_PL: Unpacked sprites.
-Inzarcon: Diagonal strrets, 3d fix, Overmap Rivers, various unpacked work.
+Inzarcon: Diagonal streets, 3d fix, Overmap Rivers, various unpacked work.
 Kantonine: Mercenary armor resprite ( Coming next pack).
 Thhoney08: Tommy gun resprite.
 Steve-Johns: Various gun sprites (coming next pack).
@@ -35,5 +34,9 @@ Drabont7: Appliance fix
 Аwawawa: Various sprites, including upcoming shopping cart resprite, fungal hulk and more.
 Pyrocom: Magi staff sprites/resprites
 Baka-Cirno: Community Asset Sprites
+Bestary: Various sprites, Skull resprites
+Pikayellow35: Various sprites, skull resprites with Bestary
+Fohcs: Kiln Sprites
+The Entire Cataclysm Subreddit: For continued support and understanding.
 Some Sprites provided by Xotto and Mono Software for promotional purposes in collaboration with Nearly Dead: 
 https://store.steampowered.com/app/1268900/Nearly_Dead/
