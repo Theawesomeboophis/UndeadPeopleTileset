@@ -1,0 +1,60 @@
+[
+{
+    "pixelscale": 1,
+    "width": 32,
+    "height": 32
+},
+{
+"normal_items.png": { }
+},
+{
+"normal_monsters.png": { }
+},
+{
+"normal_character.png": { }
+},
+{
+"normal_stuff.png": { }
+},
+{
+"normal_fields.png": { }
+},
+{
+"normal_furniture.png": { }
+},
+{
+"normal_terrain.png": { }
+},
+{
+"normal_vehicle_parts.png": { }
+},
+{
+"normal_offset.png": { "sprite_offset_y": -16 }
+}
+,
+{
+"wide.png": { "sprite_width": 64, "sprite_height": 48, "sprite_offset_x": -16, "sprite_offset_y": -16 }
+},
+{
+"large_stuff.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
+},
+{
+"large_terrain.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
+}
+,
+{
+"huge.png": { "sprite_width": 160, "sprite_height": 128, "sprite_offset_x": -48, "sprite_offset_y": -48 }
+}
+,
+{
+"large_overlapping.png": { "sprite_width": 160, "sprite_height": 160, "sprite_offset_x": -64, "sprite_offset_y": -64 }
+}
+,
+{
+"huge_extra.png": { "sprite_width": 128, "sprite_height": 128, "sprite_offset_x": -64, "sprite_offset_y": -96 }
+}
+,
+{
+"fallback.png": { "fallback": true }
+}
+]
