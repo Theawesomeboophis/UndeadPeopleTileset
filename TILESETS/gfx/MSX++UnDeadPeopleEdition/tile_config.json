@@ -35582,170 +35582,174 @@
             { "id": "unconnected", "fg": 18558 }
           ]
         },
+        { "id": "fd_blood_footprint_e", "fg": 18559, "rotates": false },
+        { "id": "fd_blood_footprint_n", "fg": 18560, "rotates": false },
+        { "id": "fd_blood_footprint_s", "fg": 18561, "rotates": false },
+        { "id": "fd_blood_footprint_w", "fg": 18562, "rotates": false },
         {
           "id": "fd_blood_insect",
-          "fg": 18559,
+          "fg": 18563,
           "rotates": false,
           "multitile": true,
           "additional_tiles": [
-            { "id": "center", "fg": 18560 },
-            { "id": "corner", "fg": [ 18561, 18564, 18563, 18562 ] },
-            { "id": "t_connection", "fg": [ 18571, 18574, 18573, 18572 ] },
-            { "id": "edge", "fg": [ 18565, 18566 ] },
-            { "id": "end_piece", "fg": [ 18567, 18570, 18569, 18568 ] },
-            { "id": "unconnected", "fg": 18575 }
+            { "id": "center", "fg": 18564 },
+            { "id": "corner", "fg": [ 18565, 18568, 18567, 18566 ] },
+            { "id": "t_connection", "fg": [ 18575, 18578, 18577, 18576 ] },
+            { "id": "edge", "fg": [ 18569, 18570 ] },
+            { "id": "end_piece", "fg": [ 18571, 18574, 18573, 18572 ] },
+            { "id": "unconnected", "fg": 18579 }
           ]
         },
         {
           "id": "fd_blood_invertebrate",
-          "fg": 18576,
+          "fg": 18580,
           "rotates": false,
           "multitile": true,
           "additional_tiles": [
-            { "id": "center", "fg": 18577 },
-            { "id": "corner", "fg": [ 18578, 18581, 18580, 18579 ] },
-            { "id": "t_connection", "fg": [ 18588, 18591, 18590, 18589 ] },
-            { "id": "edge", "fg": [ 18582, 18583 ] },
-            { "id": "end_piece", "fg": [ 18584, 18587, 18586, 18585 ] },
-            { "id": "unconnected", "fg": 18592 }
+            { "id": "center", "fg": 18581 },
+            { "id": "corner", "fg": [ 18582, 18585, 18584, 18583 ] },
+            { "id": "t_connection", "fg": [ 18592, 18595, 18594, 18593 ] },
+            { "id": "edge", "fg": [ 18586, 18587 ] },
+            { "id": "end_piece", "fg": [ 18588, 18591, 18590, 18589 ] },
+            { "id": "unconnected", "fg": 18596 }
           ]
         },
         {
           "id": "fd_blood_veggy",
-          "fg": 18593,
+          "fg": 18597,
           "rotates": false,
           "multitile": true,
           "additional_tiles": [
-            { "id": "center", "fg": 18594 },
-            { "id": "corner", "fg": [ 18595, 18598, 18597, 18596 ] },
-            { "id": "t_connection", "fg": [ 18605, 18608, 18607, 18606 ] },
-            { "id": "edge", "fg": [ 18599, 18600 ] },
-            { "id": "end_piece", "fg": [ 18601, 18604, 18603, 18602 ] },
-            { "id": "unconnected", "fg": 18609 }
+            { "id": "center", "fg": 18598 },
+            { "id": "corner", "fg": [ 18599, 18602, 18601, 18600 ] },
+            { "id": "t_connection", "fg": [ 18609, 18612, 18611, 18610 ] },
+            { "id": "edge", "fg": [ 18603, 18604 ] },
+            { "id": "end_piece", "fg": [ 18605, 18608, 18607, 18606 ] },
+            { "id": "unconnected", "fg": 18613 }
           ]
         },
         {
           "id": "fd_blue_incense",
           "fg": [
-            { "weight": 10, "sprite": 18610 },
-            { "weight": 10, "sprite": 18612 },
-            { "weight": 10, "sprite": 18613 },
             { "weight": 10, "sprite": 18614 },
-            { "weight": 10, "sprite": 18615 },
             { "weight": 10, "sprite": 18616 },
             { "weight": 10, "sprite": 18617 },
             { "weight": 10, "sprite": 18618 },
             { "weight": 10, "sprite": 18619 },
-            { "weight": 10, "sprite": 18611 }
+            { "weight": 10, "sprite": 18620 },
+            { "weight": 10, "sprite": 18621 },
+            { "weight": 10, "sprite": 18622 },
+            { "weight": 10, "sprite": 18623 },
+            { "weight": 10, "sprite": 18615 }
           ],
           "animated": true
         },
         {
           "id": "fd_cigsmoke",
           "fg": [
-            { "weight": 10, "sprite": 18620 },
-            { "weight": 10, "sprite": 18621 },
-            { "weight": 10, "sprite": 18622 },
-            { "weight": 10, "sprite": 18623 },
             { "weight": 10, "sprite": 18624 },
             { "weight": 10, "sprite": 18625 },
-            { "weight": 10, "sprite": 18626 }
+            { "weight": 10, "sprite": 18626 },
+            { "weight": 10, "sprite": 18627 },
+            { "weight": 10, "sprite": 18628 },
+            { "weight": 10, "sprite": 18629 },
+            { "weight": 10, "sprite": 18630 }
           ],
           "animated": true
         },
-        { "id": "fd_cold_air1", "fg": 18627, "rotates": false },
-        { "id": "fd_cold_air2", "fg": 18628, "rotates": false },
-        { "id": "fd_cold_air3", "fg": 18629, "rotates": false },
-        { "id": "fd_cold_air4", "fg": 18630, "rotates": false },
+        { "id": "fd_cold_air1", "fg": 18631, "rotates": false },
+        { "id": "fd_cold_air2", "fg": 18632, "rotates": false },
+        { "id": "fd_cold_air3", "fg": 18633, "rotates": false },
+        { "id": "fd_cold_air4", "fg": 18634, "rotates": false },
         {
           "id": "fd_cracksmoke",
           "fg": [
-            { "weight": 10, "sprite": 18620 },
-            { "weight": 10, "sprite": 18621 },
-            { "weight": 10, "sprite": 18622 },
-            { "weight": 10, "sprite": 18623 },
             { "weight": 10, "sprite": 18624 },
             { "weight": 10, "sprite": 18625 },
-            { "weight": 10, "sprite": 18626 }
+            { "weight": 10, "sprite": 18626 },
+            { "weight": 10, "sprite": 18627 },
+            { "weight": 10, "sprite": 18628 },
+            { "weight": 10, "sprite": 18629 },
+            { "weight": 10, "sprite": 18630 }
           ],
           "animated": true
         },
-        { "id": "fd_dazzling", "fg": 18631 },
+        { "id": "fd_dazzling", "fg": 18635 },
         {
           "id": "fd_dirty_water",
-          "fg": 18632,
+          "fg": 18636,
           "rotates": false,
           "multitile": true,
           "additional_tiles": [
-            { "id": "center", "fg": 18633 },
-            { "id": "corner", "fg": [ 18634, 18637, 18636, 18635 ] },
-            { "id": "t_connection", "fg": [ 18644, 18647, 18646, 18645 ] },
-            { "id": "edge", "fg": [ 18638, 18639 ] },
-            { "id": "end_piece", "fg": [ 18640, 18643, 18642, 18641 ] },
-            { "id": "unconnected", "fg": 18648 }
+            { "id": "center", "fg": 18637 },
+            { "id": "corner", "fg": [ 18638, 18641, 18640, 18639 ] },
+            { "id": "t_connection", "fg": [ 18648, 18651, 18650, 18649 ] },
+            { "id": "edge", "fg": [ 18642, 18643 ] },
+            { "id": "end_piece", "fg": [ 18644, 18647, 18646, 18645 ] },
+            { "id": "unconnected", "fg": 18652 }
           ]
         },
         {
           "id": "fd_dust",
-          "fg": 18649,
+          "fg": 18653,
           "rotates": false,
           "multitile": true,
           "additional_tiles": [
-            { "id": "center", "fg": 18650 },
-            { "id": "corner", "fg": [ 18651, 18654, 18653, 18652 ] },
-            { "id": "t_connection", "fg": [ 18661, 18664, 18663, 18662 ] },
-            { "id": "edge", "fg": [ 18655, 18656 ] },
-            { "id": "end_piece", "fg": [ 18657, 18660, 18659, 18658 ] },
-            { "id": "unconnected", "fg": 18665 }
+            { "id": "center", "fg": 18654 },
+            { "id": "corner", "fg": [ 18655, 18658, 18657, 18656 ] },
+            { "id": "t_connection", "fg": [ 18665, 18668, 18667, 18666 ] },
+            { "id": "edge", "fg": [ 18659, 18660 ] },
+            { "id": "end_piece", "fg": [ 18661, 18664, 18663, 18662 ] },
+            { "id": "unconnected", "fg": 18669 }
           ]
         },
         {
           "id": "fd_electricity",
-          "fg": 18666,
+          "fg": 18670,
           "rotates": false,
           "multitile": true,
           "additional_tiles": [
-            { "id": "center", "fg": 18667 },
-            { "id": "corner", "fg": [ 18668, 18671, 18670, 18669 ] },
-            { "id": "t_connection", "fg": [ 18678, 18681, 18680, 18679 ] },
-            { "id": "edge", "fg": [ 18672, 18673 ] },
-            { "id": "end_piece", "fg": [ 18674, 18677, 18676, 18675 ] },
-            { "id": "unconnected", "fg": 18682 }
+            { "id": "center", "fg": 18671 },
+            { "id": "corner", "fg": [ 18672, 18675, 18674, 18673 ] },
+            { "id": "t_connection", "fg": [ 18682, 18685, 18684, 18683 ] },
+            { "id": "edge", "fg": [ 18676, 18677 ] },
+            { "id": "end_piece", "fg": [ 18678, 18681, 18680, 18679 ] },
+            { "id": "unconnected", "fg": 18686 }
           ]
         },
         {
           "id": "fd_extinguisher",
-          "fg": 18716,
+          "fg": 18720,
           "rotates": true,
           "multitile": true,
           "additional_tiles": [
-            { "id": "center", "fg": 18717 },
-            { "id": "corner", "fg": [ 18718, 18719, 18720, 18721 ] },
-            { "id": "t_connection", "fg": [ 18728, 18729, 18730, 18731 ] },
-            { "id": "edge", "fg": [ 18722, 18723 ] },
-            { "id": "end_piece", "fg": [ 18724, 18725, 18726, 18727 ] },
-            { "id": "unconnected", "fg": 18732 }
+            { "id": "center", "fg": 18721 },
+            { "id": "corner", "fg": [ 18722, 18723, 18724, 18725 ] },
+            { "id": "t_connection", "fg": [ 18732, 18733, 18734, 18735 ] },
+            { "id": "edge", "fg": [ 18726, 18727 ] },
+            { "id": "end_piece", "fg": [ 18728, 18729, 18730, 18731 ] },
+            { "id": "unconnected", "fg": 18736 }
           ]
         },
         {
           "id": "fd_fatigue",
-          "fg": [ { "weight": 25, "sprite": 18683 }, { "weight": 25, "sprite": 18684 }, { "weight": 25, "sprite": 18685 } ],
+          "fg": [ { "weight": 25, "sprite": 18687 }, { "weight": 25, "sprite": 18688 }, { "weight": 25, "sprite": 18689 } ],
           "animated": true,
           "rotates": false
         },
         {
           "id": "fd_fatigue_int1",
           "fg": [
-            { "weight": 15, "sprite": 18852 },
-            { "weight": 15, "sprite": 18853 },
-            { "weight": 15, "sprite": 18854 },
-            { "weight": 15, "sprite": 18855 },
             { "weight": 15, "sprite": 18856 },
             { "weight": 15, "sprite": 18857 },
-            { "weight": 15, "sprite": 18856 },
-            { "weight": 15, "sprite": 18855 },
-            { "weight": 15, "sprite": 18854 },
-            { "weight": 15, "sprite": 18853 }
+            { "weight": 15, "sprite": 18858 },
+            { "weight": 15, "sprite": 18859 },
+            { "weight": 15, "sprite": 18860 },
+            { "weight": 15, "sprite": 18861 },
+            { "weight": 15, "sprite": 18860 },
+            { "weight": 15, "sprite": 18859 },
+            { "weight": 15, "sprite": 18858 },
+            { "weight": 15, "sprite": 18857 }
           ],
           "rotates": false,
           "animated": true
@@ -35753,46 +35757,46 @@
         {
           "id": "fd_fatigue_int2",
           "fg": [
-            { "weight": 10, "sprite": 19019 },
-            { "weight": 10, "sprite": 19021 },
-            { "weight": 10, "sprite": 19022 },
             { "weight": 10, "sprite": 19023 },
-            { "weight": 10, "sprite": 19024 },
             { "weight": 10, "sprite": 19025 },
             { "weight": 10, "sprite": 19026 },
             { "weight": 10, "sprite": 19027 },
             { "weight": 10, "sprite": 19028 },
-            { "weight": 10, "sprite": 19020 }
+            { "weight": 10, "sprite": 19029 },
+            { "weight": 10, "sprite": 19030 },
+            { "weight": 10, "sprite": 19031 },
+            { "weight": 10, "sprite": 19032 },
+            { "weight": 10, "sprite": 19024 }
           ],
           "animated": true
         },
         {
           "id": "fd_fatigue_int3",
-          "fg": [ { "weight": 25, "sprite": 18683 }, { "weight": 25, "sprite": 18684 }, { "weight": 25, "sprite": 18685 } ],
+          "fg": [ { "weight": 25, "sprite": 18687 }, { "weight": 25, "sprite": 18688 }, { "weight": 25, "sprite": 18689 } ],
           "animated": true,
           "rotates": false
         },
         {
           "id": "fd_fire_30gal_firebarrel",
-          "fg": [ { "weight": 11, "sprite": 18686 }, { "weight": 11, "sprite": 18687 }, { "weight": 11, "sprite": 18688 } ],
+          "fg": [ { "weight": 11, "sprite": 18690 }, { "weight": 11, "sprite": 18691 }, { "weight": 11, "sprite": 18692 } ],
           "rotates": false,
           "animated": true
         },
         {
           "id": "fd_fire_55gal_firebarrel",
-          "fg": [ { "weight": 11, "sprite": 18689 }, { "weight": 11, "sprite": 18690 }, { "weight": 11, "sprite": 18691 } ],
+          "fg": [ { "weight": 11, "sprite": 18693 }, { "weight": 11, "sprite": 18694 }, { "weight": 11, "sprite": 18695 } ],
           "rotates": false,
           "animated": true
         },
         {
           "id": "fd_fire_brazier",
           "fg": [
-            { "weight": 11, "sprite": 18692 },
-            { "weight": 11, "sprite": 18693 },
-            { "weight": 11, "sprite": 18694 },
-            { "weight": 11, "sprite": 18695 },
             { "weight": 11, "sprite": 18696 },
-            { "weight": 11, "sprite": 18697 }
+            { "weight": 11, "sprite": 18697 },
+            { "weight": 11, "sprite": 18698 },
+            { "weight": 11, "sprite": 18699 },
+            { "weight": 11, "sprite": 18700 },
+            { "weight": 11, "sprite": 18701 }
           ],
           "rotates": false,
           "animated": true
@@ -35800,12 +35804,12 @@
         {
           "id": "fd_fire_fireplace",
           "fg": [
-            { "weight": 11, "sprite": 18698 },
-            { "weight": 11, "sprite": 18699 },
-            { "weight": 11, "sprite": 18700 },
-            { "weight": 11, "sprite": 18701 },
             { "weight": 11, "sprite": 18702 },
-            { "weight": 11, "sprite": 18703 }
+            { "weight": 11, "sprite": 18703 },
+            { "weight": 11, "sprite": 18704 },
+            { "weight": 11, "sprite": 18705 },
+            { "weight": 11, "sprite": 18706 },
+            { "weight": 11, "sprite": 18707 }
           ],
           "rotates": false,
           "animated": true
@@ -35813,12 +35817,12 @@
         {
           "id": "fd_fire_hobo_stove",
           "fg": [
-            { "weight": 11, "sprite": 18704 },
-            { "weight": 11, "sprite": 18705 },
-            { "weight": 11, "sprite": 18706 },
-            { "weight": 11, "sprite": 18707 },
             { "weight": 11, "sprite": 18708 },
-            { "weight": 11, "sprite": 18709 }
+            { "weight": 11, "sprite": 18709 },
+            { "weight": 11, "sprite": 18710 },
+            { "weight": 11, "sprite": 18711 },
+            { "weight": 11, "sprite": 18712 },
+            { "weight": 11, "sprite": 18713 }
           ],
           "rotates": false,
           "animated": true
@@ -35826,182 +35830,182 @@
         {
           "id": "fd_fire_makeshift_brazier",
           "fg": [
-            { "weight": 11, "sprite": 18710 },
-            { "weight": 11, "sprite": 18711 },
-            { "weight": 11, "sprite": 18712 },
-            { "weight": 11, "sprite": 18713 },
             { "weight": 11, "sprite": 18714 },
-            { "weight": 11, "sprite": 18715 }
+            { "weight": 11, "sprite": 18715 },
+            { "weight": 11, "sprite": 18716 },
+            { "weight": 11, "sprite": 18717 },
+            { "weight": 11, "sprite": 18718 },
+            { "weight": 11, "sprite": 18719 }
           ],
           "rotates": false,
           "animated": true
         },
         {
           "id": "fd_fog",
-          "fg": 18716,
+          "fg": 18720,
           "rotates": true,
           "multitile": true,
           "additional_tiles": [
-            { "id": "center", "fg": 18717 },
-            { "id": "corner", "fg": [ 18718, 18721, 18720, 18719 ] },
-            { "id": "t_connection", "fg": [ 18728, 18731, 18730, 18729 ] },
-            { "id": "edge", "fg": [ 18722, 18723 ] },
-            { "id": "end_piece", "fg": [ 18724, 18727, 18726, 18725 ] },
-            { "id": "unconnected", "fg": 18732 }
+            { "id": "center", "fg": 18721 },
+            { "id": "corner", "fg": [ 18722, 18725, 18724, 18723 ] },
+            { "id": "t_connection", "fg": [ 18732, 18735, 18734, 18733 ] },
+            { "id": "edge", "fg": [ 18726, 18727 ] },
+            { "id": "end_piece", "fg": [ 18728, 18731, 18730, 18729 ] },
+            { "id": "unconnected", "fg": 18736 }
           ]
         },
         {
           "id": "fd_fungal_haze",
           "fg": [
-            { "weight": 10, "sprite": 18733 },
-            { "weight": 10, "sprite": 18735 },
-            { "weight": 10, "sprite": 18736 },
             { "weight": 10, "sprite": 18737 },
-            { "weight": 10, "sprite": 18738 },
             { "weight": 10, "sprite": 18739 },
             { "weight": 10, "sprite": 18740 },
             { "weight": 10, "sprite": 18741 },
             { "weight": 10, "sprite": 18742 },
-            { "weight": 10, "sprite": 18734 }
+            { "weight": 10, "sprite": 18743 },
+            { "weight": 10, "sprite": 18744 },
+            { "weight": 10, "sprite": 18745 },
+            { "weight": 10, "sprite": 18746 },
+            { "weight": 10, "sprite": 18738 }
           ],
           "animated": true
         },
         {
           "id": "fd_fungal_splinters",
-          "fg": 18743,
-          "bg": 19048,
+          "fg": 18747,
+          "bg": 19052,
           "rotates": false,
           "multitile": true,
           "additional_tiles": [
-            { "id": "center", "fg": 18744, "bg": 19049 },
-            { "id": "corner", "fg": [ 18745, 18748, 18747, 18746 ], "bg": [ 19050, 19053, 19052, 19051 ] },
-            { "id": "t_connection", "fg": [ 18755, 18758, 18757, 18756 ], "bg": [ 19060, 19063, 19062, 19061 ] },
-            { "id": "edge", "fg": [ 18749, 18750 ], "bg": [ 19054, 19055 ] },
-            { "id": "end_piece", "fg": [ 18751, 18754, 18753, 18752 ], "bg": [ 19056, 19059, 19058, 19057 ] },
-            { "id": "unconnected", "fg": 18759, "bg": 19064 }
+            { "id": "center", "fg": 18748, "bg": 19053 },
+            { "id": "corner", "fg": [ 18749, 18752, 18751, 18750 ], "bg": [ 19054, 19057, 19056, 19055 ] },
+            { "id": "t_connection", "fg": [ 18759, 18762, 18761, 18760 ], "bg": [ 19064, 19067, 19066, 19065 ] },
+            { "id": "edge", "fg": [ 18753, 18754 ], "bg": [ 19058, 19059 ] },
+            { "id": "end_piece", "fg": [ 18755, 18758, 18757, 18756 ], "bg": [ 19060, 19063, 19062, 19061 ] },
+            { "id": "unconnected", "fg": 18763, "bg": 19068 }
           ]
         },
         {
           "id": "fd_fungicidal_gas",
           "fg": [
-            { "weight": 10, "sprite": 18760 },
-            { "weight": 10, "sprite": 18762 },
-            { "weight": 10, "sprite": 18763 },
             { "weight": 10, "sprite": 18764 },
-            { "weight": 10, "sprite": 18765 },
             { "weight": 10, "sprite": 18766 },
             { "weight": 10, "sprite": 18767 },
             { "weight": 10, "sprite": 18768 },
             { "weight": 10, "sprite": 18769 },
-            { "weight": 10, "sprite": 18761 }
+            { "weight": 10, "sprite": 18770 },
+            { "weight": 10, "sprite": 18771 },
+            { "weight": 10, "sprite": 18772 },
+            { "weight": 10, "sprite": 18773 },
+            { "weight": 10, "sprite": 18765 }
           ],
           "animated": true
         },
         {
           "id": "fd_gas_vent",
           "fg": [
-            { "weight": 10, "sprite": 19097 },
-            { "weight": 10, "sprite": 19099 },
-            { "weight": 10, "sprite": 19100 },
             { "weight": 10, "sprite": 19101 },
-            { "weight": 10, "sprite": 19102 },
             { "weight": 10, "sprite": 19103 },
             { "weight": 10, "sprite": 19104 },
             { "weight": 10, "sprite": 19105 },
             { "weight": 10, "sprite": 19106 },
-            { "weight": 10, "sprite": 19098 }
+            { "weight": 10, "sprite": 19107 },
+            { "weight": 10, "sprite": 19108 },
+            { "weight": 10, "sprite": 19109 },
+            { "weight": 10, "sprite": 19110 },
+            { "weight": 10, "sprite": 19102 }
           ],
           "animated": true
         },
         {
           "id": "fd_gibs_flesh",
-          "fg": 18770,
+          "fg": 18774,
           "rotates": false,
           "multitile": true,
           "additional_tiles": [
-            { "id": "center", "fg": 18771 },
-            { "id": "corner", "fg": [ 18772, 18775, 18774, 18773 ] },
-            { "id": "t_connection", "fg": [ 18782, 18785, 18784, 18783 ] },
-            { "id": "edge", "fg": [ 18776, 18777 ] },
-            { "id": "end_piece", "fg": [ 18778, 18781, 18780, 18779 ] },
-            { "id": "unconnected", "fg": 18786 }
+            { "id": "center", "fg": 18775 },
+            { "id": "corner", "fg": [ 18776, 18779, 18778, 18777 ] },
+            { "id": "t_connection", "fg": [ 18786, 18789, 18788, 18787 ] },
+            { "id": "edge", "fg": [ 18780, 18781 ] },
+            { "id": "end_piece", "fg": [ 18782, 18785, 18784, 18783 ] },
+            { "id": "unconnected", "fg": 18790 }
           ]
         },
         {
           "id": "fd_gibs_insect",
-          "fg": 18787,
+          "fg": 18791,
           "rotates": false,
           "multitile": true,
           "additional_tiles": [
-            { "id": "center", "fg": 18788 },
-            { "id": "corner", "fg": [ 18789, 18792, 18791, 18790 ] },
-            { "id": "t_connection", "fg": [ 18799, 18802, 18801, 18800 ] },
-            { "id": "edge", "fg": [ 18793, 18794 ] },
-            { "id": "end_piece", "fg": [ 18795, 18798, 18797, 18796 ] },
-            { "id": "unconnected", "fg": 18803 }
+            { "id": "center", "fg": 18792 },
+            { "id": "corner", "fg": [ 18793, 18796, 18795, 18794 ] },
+            { "id": "t_connection", "fg": [ 18803, 18806, 18805, 18804 ] },
+            { "id": "edge", "fg": [ 18797, 18798 ] },
+            { "id": "end_piece", "fg": [ 18799, 18802, 18801, 18800 ] },
+            { "id": "unconnected", "fg": 18807 }
           ]
         },
         {
           "id": "fd_gibs_invertebrate",
-          "fg": 18804,
+          "fg": 18808,
           "rotates": false,
           "multitile": true,
           "additional_tiles": [
-            { "id": "center", "fg": 18805 },
-            { "id": "corner", "fg": [ 18806, 18809, 18808, 18807 ] },
-            { "id": "t_connection", "fg": [ 18816, 18819, 18818, 18817 ] },
-            { "id": "edge", "fg": [ 18810, 18811 ] },
-            { "id": "end_piece", "fg": [ 18812, 18815, 18814, 18813 ] },
-            { "id": "unconnected", "fg": 18820 }
+            { "id": "center", "fg": 18809 },
+            { "id": "corner", "fg": [ 18810, 18813, 18812, 18811 ] },
+            { "id": "t_connection", "fg": [ 18820, 18823, 18822, 18821 ] },
+            { "id": "edge", "fg": [ 18814, 18815 ] },
+            { "id": "end_piece", "fg": [ 18816, 18819, 18818, 18817 ] },
+            { "id": "unconnected", "fg": 18824 }
           ]
         },
         {
           "id": "fd_gibs_veggy",
-          "fg": 18821,
+          "fg": 18825,
           "rotates": false,
           "multitile": true,
           "additional_tiles": [
-            { "id": "center", "fg": 18822 },
-            { "id": "corner", "fg": [ 18823, 18826, 18825, 18824 ] },
-            { "id": "t_connection", "fg": [ 18833, 18836, 18835, 18834 ] },
-            { "id": "edge", "fg": [ 18827, 18828 ] },
-            { "id": "end_piece", "fg": [ 18829, 18832, 18831, 18830 ] },
-            { "id": "unconnected", "fg": 18837 }
+            { "id": "center", "fg": 18826 },
+            { "id": "corner", "fg": [ 18827, 18830, 18829, 18828 ] },
+            { "id": "t_connection", "fg": [ 18837, 18840, 18839, 18838 ] },
+            { "id": "edge", "fg": [ 18831, 18832 ] },
+            { "id": "end_piece", "fg": [ 18833, 18836, 18835, 18834 ] },
+            { "id": "unconnected", "fg": 18841 }
           ]
         },
         {
           "id": "fd_green_incense",
           "fg": [
-            { "weight": 10, "sprite": 18838 },
-            { "weight": 10, "sprite": 18840 },
-            { "weight": 10, "sprite": 18841 },
             { "weight": 10, "sprite": 18842 },
-            { "weight": 10, "sprite": 18843 },
             { "weight": 10, "sprite": 18844 },
             { "weight": 10, "sprite": 18845 },
             { "weight": 10, "sprite": 18846 },
             { "weight": 10, "sprite": 18847 },
-            { "weight": 10, "sprite": 18839 }
+            { "weight": 10, "sprite": 18848 },
+            { "weight": 10, "sprite": 18849 },
+            { "weight": 10, "sprite": 18850 },
+            { "weight": 10, "sprite": 18851 },
+            { "weight": 10, "sprite": 18843 }
           ],
           "animated": true
         },
-        { "id": "fd_hot_air1", "fg": 18848, "rotates": false },
-        { "id": "fd_hot_air2", "fg": 18849, "rotates": false },
-        { "id": "fd_hot_air3", "fg": 18850, "rotates": false },
-        { "id": "fd_hot_air4", "fg": 18851, "rotates": false },
+        { "id": "fd_hot_air1", "fg": 18852, "rotates": false },
+        { "id": "fd_hot_air2", "fg": 18853, "rotates": false },
+        { "id": "fd_hot_air3", "fg": 18854, "rotates": false },
+        { "id": "fd_hot_air4", "fg": 18855, "rotates": false },
         {
           "id": "fd_hot_air_sauna",
           "fg": [
-            { "weight": 15, "sprite": 18852 },
-            { "weight": 15, "sprite": 18853 },
-            { "weight": 15, "sprite": 18854 },
-            { "weight": 15, "sprite": 18855 },
             { "weight": 15, "sprite": 18856 },
             { "weight": 15, "sprite": 18857 },
-            { "weight": 15, "sprite": 18856 },
-            { "weight": 15, "sprite": 18855 },
-            { "weight": 15, "sprite": 18854 },
-            { "weight": 15, "sprite": 18853 }
+            { "weight": 15, "sprite": 18858 },
+            { "weight": 15, "sprite": 18859 },
+            { "weight": 15, "sprite": 18860 },
+            { "weight": 15, "sprite": 18861 },
+            { "weight": 15, "sprite": 18860 },
+            { "weight": 15, "sprite": 18859 },
+            { "weight": 15, "sprite": 18858 },
+            { "weight": 15, "sprite": 18857 }
           ],
           "rotates": false,
           "animated": true
@@ -36009,401 +36013,401 @@
         {
           "id": "fd_incendiary",
           "fg": [
-            { "weight": 10, "sprite": 18858 },
-            { "weight": 10, "sprite": 18860 },
-            { "weight": 10, "sprite": 18861 },
             { "weight": 10, "sprite": 18862 },
-            { "weight": 10, "sprite": 18863 },
             { "weight": 10, "sprite": 18864 },
             { "weight": 10, "sprite": 18865 },
             { "weight": 10, "sprite": 18866 },
             { "weight": 10, "sprite": 18867 },
-            { "weight": 10, "sprite": 18859 }
+            { "weight": 10, "sprite": 18868 },
+            { "weight": 10, "sprite": 18869 },
+            { "weight": 10, "sprite": 18870 },
+            { "weight": 10, "sprite": 18871 },
+            { "weight": 10, "sprite": 18863 }
           ],
           "animated": true
         },
         {
           "id": "fd_incense",
           "fg": [
-            { "weight": 10, "sprite": 18868 },
-            { "weight": 10, "sprite": 18870 },
-            { "weight": 10, "sprite": 18871 },
             { "weight": 10, "sprite": 18872 },
-            { "weight": 10, "sprite": 18873 },
             { "weight": 10, "sprite": 18874 },
             { "weight": 10, "sprite": 18875 },
             { "weight": 10, "sprite": 18876 },
             { "weight": 10, "sprite": 18877 },
-            { "weight": 10, "sprite": 18869 }
+            { "weight": 10, "sprite": 18878 },
+            { "weight": 10, "sprite": 18879 },
+            { "weight": 10, "sprite": 18880 },
+            { "weight": 10, "sprite": 18881 },
+            { "weight": 10, "sprite": 18873 }
           ],
           "animated": true
         },
         {
           "id": "fd_insecticidal_gas",
           "fg": [
-            { "weight": 10, "sprite": 18878 },
-            { "weight": 10, "sprite": 18880 },
-            { "weight": 10, "sprite": 18881 },
             { "weight": 10, "sprite": 18882 },
-            { "weight": 10, "sprite": 18883 },
             { "weight": 10, "sprite": 18884 },
             { "weight": 10, "sprite": 18885 },
             { "weight": 10, "sprite": 18886 },
             { "weight": 10, "sprite": 18887 },
-            { "weight": 10, "sprite": 18879 }
+            { "weight": 10, "sprite": 18888 },
+            { "weight": 10, "sprite": 18889 },
+            { "weight": 10, "sprite": 18890 },
+            { "weight": 10, "sprite": 18891 },
+            { "weight": 10, "sprite": 18883 }
           ],
           "animated": true
         },
-        { "id": "fd_laser", "fg": 18888 },
+        { "id": "fd_laser", "fg": 18892 },
         {
           "id": "fd_mechanical_fluid",
-          "fg": 18889,
+          "fg": 18893,
           "rotates": false,
           "multitile": true,
           "additional_tiles": [
-            { "id": "center", "fg": 18890 },
-            { "id": "corner", "fg": [ 18891, 18894, 18893, 18892 ] },
-            { "id": "t_connection", "fg": [ 18901, 18904, 18903, 18902 ] },
-            { "id": "edge", "fg": [ 18895, 18896 ] },
-            { "id": "end_piece", "fg": [ 18897, 18900, 18899, 18898 ] },
-            { "id": "unconnected", "fg": 18905 }
+            { "id": "center", "fg": 18894 },
+            { "id": "corner", "fg": [ 18895, 18898, 18897, 18896 ] },
+            { "id": "t_connection", "fg": [ 18905, 18908, 18907, 18906 ] },
+            { "id": "edge", "fg": [ 18899, 18900 ] },
+            { "id": "end_piece", "fg": [ 18901, 18904, 18903, 18902 ] },
+            { "id": "unconnected", "fg": 18909 }
           ]
         },
         {
           "id": "fd_methsmoke",
           "fg": [
-            { "weight": 10, "sprite": 18620 },
-            { "weight": 10, "sprite": 18621 },
-            { "weight": 10, "sprite": 18622 },
-            { "weight": 10, "sprite": 18623 },
             { "weight": 10, "sprite": 18624 },
             { "weight": 10, "sprite": 18625 },
-            { "weight": 10, "sprite": 18626 }
+            { "weight": 10, "sprite": 18626 },
+            { "weight": 10, "sprite": 18627 },
+            { "weight": 10, "sprite": 18628 },
+            { "weight": 10, "sprite": 18629 },
+            { "weight": 10, "sprite": 18630 }
           ],
           "animated": true
         },
-        { "id": "fd_migo_atmosphere", "fg": 18906, "rotates": false },
+        { "id": "fd_migo_atmosphere", "fg": 18910, "rotates": false },
         {
           "id": "fd_nuke_gas",
           "fg": [
-            { "weight": 10, "sprite": 18907 },
-            { "weight": 10, "sprite": 18909 },
-            { "weight": 10, "sprite": 18910 },
             { "weight": 10, "sprite": 18911 },
-            { "weight": 10, "sprite": 18912 },
             { "weight": 10, "sprite": 18913 },
             { "weight": 10, "sprite": 18914 },
             { "weight": 10, "sprite": 18915 },
             { "weight": 10, "sprite": 18916 },
-            { "weight": 10, "sprite": 18908 }
+            { "weight": 10, "sprite": 18917 },
+            { "weight": 10, "sprite": 18918 },
+            { "weight": 10, "sprite": 18919 },
+            { "weight": 10, "sprite": 18920 },
+            { "weight": 10, "sprite": 18912 }
           ],
           "animated": true
         },
-        { "id": "fd_null", "fg": 18917, "rotates": false },
+        { "id": "fd_null", "fg": 18921, "rotates": false },
         {
           "id": "fd_pollen_triffid",
           "fg": [
-            { "weight": 10, "sprite": 18918 },
-            { "weight": 10, "sprite": 18920 },
-            { "weight": 10, "sprite": 18921 },
             { "weight": 10, "sprite": 18922 },
-            { "weight": 10, "sprite": 18923 },
             { "weight": 10, "sprite": 18924 },
             { "weight": 10, "sprite": 18925 },
             { "weight": 10, "sprite": 18926 },
             { "weight": 10, "sprite": 18927 },
-            { "weight": 10, "sprite": 18919 }
+            { "weight": 10, "sprite": 18928 },
+            { "weight": 10, "sprite": 18929 },
+            { "weight": 10, "sprite": 18930 },
+            { "weight": 10, "sprite": 18931 },
+            { "weight": 10, "sprite": 18923 }
           ],
           "animated": true
         },
         {
           "id": "fd_purple_incense",
           "fg": [
-            { "weight": 10, "sprite": 18928 },
-            { "weight": 10, "sprite": 18930 },
-            { "weight": 10, "sprite": 18931 },
             { "weight": 10, "sprite": 18932 },
-            { "weight": 10, "sprite": 18933 },
             { "weight": 10, "sprite": 18934 },
             { "weight": 10, "sprite": 18935 },
             { "weight": 10, "sprite": 18936 },
             { "weight": 10, "sprite": 18937 },
-            { "weight": 10, "sprite": 18929 }
+            { "weight": 10, "sprite": 18938 },
+            { "weight": 10, "sprite": 18939 },
+            { "weight": 10, "sprite": 18940 },
+            { "weight": 10, "sprite": 18941 },
+            { "weight": 10, "sprite": 18933 }
           ],
           "animated": true
         },
         {
           "id": "fd_push_items",
           "fg": [
-            { "weight": 10, "sprite": 18938 },
-            { "weight": 10, "sprite": 18939 },
-            { "weight": 10, "sprite": 18940 },
-            { "weight": 10, "sprite": 18941 }
+            { "weight": 10, "sprite": 18942 },
+            { "weight": 10, "sprite": 18943 },
+            { "weight": 10, "sprite": 18944 },
+            { "weight": 10, "sprite": 18945 }
           ],
           "animated": true
         },
         {
           "id": "fd_red_incense",
           "fg": [
-            { "weight": 10, "sprite": 18942 },
-            { "weight": 10, "sprite": 18944 },
-            { "weight": 10, "sprite": 18945 },
             { "weight": 10, "sprite": 18946 },
-            { "weight": 10, "sprite": 18947 },
             { "weight": 10, "sprite": 18948 },
             { "weight": 10, "sprite": 18949 },
             { "weight": 10, "sprite": 18950 },
             { "weight": 10, "sprite": 18951 },
-            { "weight": 10, "sprite": 18943 }
+            { "weight": 10, "sprite": 18952 },
+            { "weight": 10, "sprite": 18953 },
+            { "weight": 10, "sprite": 18954 },
+            { "weight": 10, "sprite": 18955 },
+            { "weight": 10, "sprite": 18947 }
           ],
           "animated": true
         },
         {
           "id": "fd_relax_gas",
           "fg": [
-            { "weight": 10, "sprite": 18952 },
-            { "weight": 10, "sprite": 18954 },
-            { "weight": 10, "sprite": 18955 },
             { "weight": 10, "sprite": 18956 },
-            { "weight": 10, "sprite": 18957 },
             { "weight": 10, "sprite": 18958 },
             { "weight": 10, "sprite": 18959 },
             { "weight": 10, "sprite": 18960 },
             { "weight": 10, "sprite": 18961 },
-            { "weight": 10, "sprite": 18953 }
+            { "weight": 10, "sprite": 18962 },
+            { "weight": 10, "sprite": 18963 },
+            { "weight": 10, "sprite": 18964 },
+            { "weight": 10, "sprite": 18965 },
+            { "weight": 10, "sprite": 18957 }
           ],
           "animated": true
         },
-        { "id": "fd_rubble", "fg": 18962, "rotates": false },
+        { "id": "fd_rubble", "fg": 18966, "rotates": false },
         {
           "id": "fd_sap",
-          "fg": 18963,
+          "fg": 18967,
           "rotates": false,
           "multitile": true,
           "additional_tiles": [
-            { "id": "center", "fg": 18964 },
-            { "id": "corner", "fg": [ 18965, 18968, 18967, 18966 ] },
-            { "id": "t_connection", "fg": [ 18975, 18978, 18977, 18976 ] },
-            { "id": "edge", "fg": [ 18969, 18970 ] },
-            { "id": "end_piece", "fg": [ 18971, 18974, 18973, 18972 ] },
-            { "id": "unconnected", "fg": 18979 }
+            { "id": "center", "fg": 18968 },
+            { "id": "corner", "fg": [ 18969, 18972, 18971, 18970 ] },
+            { "id": "t_connection", "fg": [ 18979, 18982, 18981, 18980 ] },
+            { "id": "edge", "fg": [ 18973, 18974 ] },
+            { "id": "end_piece", "fg": [ 18975, 18978, 18977, 18976 ] },
+            { "id": "unconnected", "fg": 18983 }
           ]
         },
         {
           "id": "fd_scarlet_sea_wave",
           "fg": [
-            { "weight": 10, "sprite": 18980 },
-            { "weight": 10, "sprite": 18981 },
-            { "weight": 10, "sprite": 18982 },
-            { "weight": 10, "sprite": 18983 },
-            { "weight": 10, "sprite": 18982 },
-            { "weight": 10, "sprite": 18981 }
+            { "weight": 10, "sprite": 18984 },
+            { "weight": 10, "sprite": 18985 },
+            { "weight": 10, "sprite": 18986 },
+            { "weight": 10, "sprite": 18987 },
+            { "weight": 10, "sprite": 18986 },
+            { "weight": 10, "sprite": 18985 }
           ],
           "animated": true
         },
         { "id": "fd_shadow", "fg": 14865, "rotates": false },
-        { "id": "fd_shock_vent", "fg": 18984, "rotates": false },
+        { "id": "fd_shock_vent", "fg": 18988, "rotates": false },
         {
           "id": "fd_slime",
-          "fg": 18985,
+          "fg": 18989,
           "rotates": false,
           "multitile": true,
           "additional_tiles": [
-            { "id": "center", "fg": 18986 },
-            { "id": "corner", "fg": [ 18987, 18990, 18989, 18988 ] },
-            { "id": "t_connection", "fg": [ 18997, 19000, 18999, 18998 ] },
-            { "id": "edge", "fg": [ 18991, 18992 ] },
-            { "id": "end_piece", "fg": [ 18993, 18996, 18995, 18994 ] },
-            { "id": "unconnected", "fg": 19001 }
+            { "id": "center", "fg": 18990 },
+            { "id": "corner", "fg": [ 18991, 18994, 18993, 18992 ] },
+            { "id": "t_connection", "fg": [ 19001, 19004, 19003, 19002 ] },
+            { "id": "edge", "fg": [ 18995, 18996 ] },
+            { "id": "end_piece", "fg": [ 18997, 19000, 18999, 18998 ] },
+            { "id": "unconnected", "fg": 19005 }
           ]
         },
         {
           "id": "fd_sludge",
-          "fg": 19002,
+          "fg": 19006,
           "rotates": false,
           "multitile": true,
           "additional_tiles": [
-            { "id": "center", "fg": 19003 },
-            { "id": "corner", "fg": [ 19004, 19007, 19006, 19005 ] },
-            { "id": "t_connection", "fg": [ 19014, 19017, 19016, 19015 ] },
-            { "id": "edge", "fg": [ 19008, 19009 ] },
-            { "id": "end_piece", "fg": [ 19010, 19013, 19012, 19011 ] },
-            { "id": "unconnected", "fg": 19018 }
+            { "id": "center", "fg": 19007 },
+            { "id": "corner", "fg": [ 19008, 19011, 19010, 19009 ] },
+            { "id": "t_connection", "fg": [ 19018, 19021, 19020, 19019 ] },
+            { "id": "edge", "fg": [ 19012, 19013 ] },
+            { "id": "end_piece", "fg": [ 19014, 19017, 19016, 19015 ] },
+            { "id": "unconnected", "fg": 19022 }
           ]
         },
         {
           "id": "fd_smoke",
           "fg": [
-            { "weight": 10, "sprite": 19019 },
-            { "weight": 10, "sprite": 19021 },
-            { "weight": 10, "sprite": 19022 },
             { "weight": 10, "sprite": 19023 },
-            { "weight": 10, "sprite": 19024 },
             { "weight": 10, "sprite": 19025 },
             { "weight": 10, "sprite": 19026 },
             { "weight": 10, "sprite": 19027 },
             { "weight": 10, "sprite": 19028 },
-            { "weight": 10, "sprite": 19020 }
+            { "weight": 10, "sprite": 19029 },
+            { "weight": 10, "sprite": 19030 },
+            { "weight": 10, "sprite": 19031 },
+            { "weight": 10, "sprite": 19032 },
+            { "weight": 10, "sprite": 19024 }
           ],
           "animated": true
         },
         {
           "id": "fd_smoke_vent",
           "fg": [
-            { "weight": 10, "sprite": 19019 },
-            { "weight": 10, "sprite": 19021 },
-            { "weight": 10, "sprite": 19022 },
             { "weight": 10, "sprite": 19023 },
-            { "weight": 10, "sprite": 19024 },
             { "weight": 10, "sprite": 19025 },
             { "weight": 10, "sprite": 19026 },
             { "weight": 10, "sprite": 19027 },
             { "weight": 10, "sprite": 19028 },
-            { "weight": 10, "sprite": 19020 }
+            { "weight": 10, "sprite": 19029 },
+            { "weight": 10, "sprite": 19030 },
+            { "weight": 10, "sprite": 19031 },
+            { "weight": 10, "sprite": 19032 },
+            { "weight": 10, "sprite": 19024 }
           ],
           "animated": true
         },
         {
           "id": "fd_splinters",
-          "fg": 19046,
+          "fg": 19050,
           "multitile": true,
           "additional_tiles": [
             {
               "id": "center",
-              "fg": [ { "weight": 10, "sprite": 19029 }, { "weight": 10, "sprite": 19030 }, { "weight": 10, "sprite": 19031 } ]
+              "fg": [ { "weight": 10, "sprite": 19033 }, { "weight": 10, "sprite": 19034 }, { "weight": 10, "sprite": 19035 } ]
             },
-            { "id": "corner", "fg": [ 19033, 19035, 19034, 19032 ] },
-            { "id": "t_connection", "fg": [ 19043, 19045, 19044, 19042 ] },
-            { "id": "edge", "fg": [ 19037, 19036 ] },
-            { "id": "end_piece", "fg": [ 19039, 19041, 19040, 19038 ] },
-            { "id": "unconnected", "fg": [ 19046, 19047 ] }
+            { "id": "corner", "fg": [ 19037, 19039, 19038, 19036 ] },
+            { "id": "t_connection", "fg": [ 19047, 19049, 19048, 19046 ] },
+            { "id": "edge", "fg": [ 19041, 19040 ] },
+            { "id": "end_piece", "fg": [ 19043, 19045, 19044, 19042 ] },
+            { "id": "unconnected", "fg": [ 19050, 19051 ] }
           ]
         },
         {
           "id": "fd_spores",
-          "fg": 19048,
+          "fg": 19052,
           "rotates": false,
           "multitile": true,
           "additional_tiles": [
-            { "id": "center", "fg": 19049 },
-            { "id": "corner", "fg": [ 19050, 19053, 19052, 19051 ] },
-            { "id": "t_connection", "fg": [ 19060, 19063, 19062, 19061 ] },
-            { "id": "edge", "fg": [ 19054, 19055 ] },
-            { "id": "end_piece", "fg": [ 19056, 19059, 19058, 19057 ] },
-            { "id": "unconnected", "fg": 19064 }
+            { "id": "center", "fg": 19053 },
+            { "id": "corner", "fg": [ 19054, 19057, 19056, 19055 ] },
+            { "id": "t_connection", "fg": [ 19064, 19067, 19066, 19065 ] },
+            { "id": "edge", "fg": [ 19058, 19059 ] },
+            { "id": "end_piece", "fg": [ 19060, 19063, 19062, 19061 ] },
+            { "id": "unconnected", "fg": 19068 }
           ]
         },
-        { "id": "fd_spotlight", "fg": 19065, "rotates": false },
+        { "id": "fd_spotlight", "fg": 19069, "rotates": false },
         {
           "id": "fd_swamp_gas",
           "fg": [
-            { "weight": 10, "sprite": 19066 },
-            { "weight": 10, "sprite": 19068 },
-            { "weight": 10, "sprite": 19069 },
             { "weight": 10, "sprite": 19070 },
-            { "weight": 10, "sprite": 19071 },
             { "weight": 10, "sprite": 19072 },
             { "weight": 10, "sprite": 19073 },
             { "weight": 10, "sprite": 19074 },
             { "weight": 10, "sprite": 19075 },
-            { "weight": 10, "sprite": 19067 }
+            { "weight": 10, "sprite": 19076 },
+            { "weight": 10, "sprite": 19077 },
+            { "weight": 10, "sprite": 19078 },
+            { "weight": 10, "sprite": 19079 },
+            { "weight": 10, "sprite": 19071 }
           ],
           "animated": true
         },
         {
           "id": "fd_tear_gas",
           "fg": [
-            { "weight": 10, "sprite": 19076 },
-            { "weight": 10, "sprite": 19078 },
-            { "weight": 10, "sprite": 19079 },
             { "weight": 10, "sprite": 19080 },
-            { "weight": 10, "sprite": 19081 },
             { "weight": 10, "sprite": 19082 },
             { "weight": 10, "sprite": 19083 },
             { "weight": 10, "sprite": 19084 },
             { "weight": 10, "sprite": 19085 },
-            { "weight": 10, "sprite": 19077 }
+            { "weight": 10, "sprite": 19086 },
+            { "weight": 10, "sprite": 19087 },
+            { "weight": 10, "sprite": 19088 },
+            { "weight": 10, "sprite": 19089 },
+            { "weight": 10, "sprite": 19081 }
           ],
           "animated": true
         },
         {
           "id": "fd_tindalos_gas",
           "fg": [
-            { "weight": 10, "sprite": 19086 },
-            { "weight": 10, "sprite": 19088 },
-            { "weight": 10, "sprite": 19089 },
             { "weight": 10, "sprite": 19090 },
-            { "weight": 10, "sprite": 19091 },
             { "weight": 10, "sprite": 19092 },
             { "weight": 10, "sprite": 19093 },
             { "weight": 10, "sprite": 19094 },
             { "weight": 10, "sprite": 19095 },
-            { "weight": 10, "sprite": 19087 }
+            { "weight": 10, "sprite": 19096 },
+            { "weight": 10, "sprite": 19097 },
+            { "weight": 10, "sprite": 19098 },
+            { "weight": 10, "sprite": 19099 },
+            { "weight": 10, "sprite": 19091 }
           ],
           "animated": true
         },
-        { "id": "fd_tindalos_rift", "fg": 19096, "rotates": false },
+        { "id": "fd_tindalos_rift", "fg": 19100, "rotates": false },
         {
           "id": "fd_toxic_gas",
           "fg": [
-            { "weight": 10, "sprite": 19097 },
-            { "weight": 10, "sprite": 19099 },
-            { "weight": 10, "sprite": 19100 },
             { "weight": 10, "sprite": 19101 },
-            { "weight": 10, "sprite": 19102 },
             { "weight": 10, "sprite": 19103 },
             { "weight": 10, "sprite": 19104 },
             { "weight": 10, "sprite": 19105 },
             { "weight": 10, "sprite": 19106 },
-            { "weight": 10, "sprite": 19098 }
+            { "weight": 10, "sprite": 19107 },
+            { "weight": 10, "sprite": 19108 },
+            { "weight": 10, "sprite": 19109 },
+            { "weight": 10, "sprite": 19110 },
+            { "weight": 10, "sprite": 19102 }
           ],
           "animated": true
         },
         {
           "id": "fd_twisting_mass_dust",
-          "fg": [ { "weight": 3, "sprite": 19107 }, { "weight": 3, "sprite": 19108 }, { "weight": 3, "sprite": 19109 } ],
+          "fg": [ { "weight": 3, "sprite": 19111 }, { "weight": 3, "sprite": 19112 }, { "weight": 3, "sprite": 19113 } ],
           "rotates": false
         },
         {
           "id": "fd_web",
-          "fg": 19110,
+          "fg": 19114,
           "rotates": false,
           "multitile": true,
           "additional_tiles": [
-            { "id": "center", "fg": 19111 },
-            { "id": "corner", "fg": [ 19112, 19115, 19114, 19113 ] },
-            { "id": "t_connection", "fg": [ 19122, 19125, 19124, 19123 ] },
-            { "id": "edge", "fg": [ 19116, 19117 ] },
-            { "id": "end_piece", "fg": [ 19118, 19121, 19120, 19119 ] },
-            { "id": "unconnected", "fg": 19126 }
+            { "id": "center", "fg": 19115 },
+            { "id": "corner", "fg": [ 19116, 19119, 19118, 19117 ] },
+            { "id": "t_connection", "fg": [ 19126, 19129, 19128, 19127 ] },
+            { "id": "edge", "fg": [ 19120, 19121 ] },
+            { "id": "end_piece", "fg": [ 19122, 19125, 19124, 19123 ] },
+            { "id": "unconnected", "fg": 19130 }
           ]
         },
         {
           "id": "fd_weedsmoke",
           "fg": [
-            { "weight": 10, "sprite": 18620 },
-            { "weight": 10, "sprite": 18621 },
-            { "weight": 10, "sprite": 18622 },
-            { "weight": 10, "sprite": 18623 },
             { "weight": 10, "sprite": 18624 },
             { "weight": 10, "sprite": 18625 },
-            { "weight": 10, "sprite": 18626 }
+            { "weight": 10, "sprite": 18626 },
+            { "weight": 10, "sprite": 18627 },
+            { "weight": 10, "sprite": 18628 },
+            { "weight": 10, "sprite": 18629 },
+            { "weight": 10, "sprite": 18630 }
           ],
           "animated": true
         },
         {
           "id": "fd_yellow_incense",
           "fg": [
-            { "weight": 10, "sprite": 19127 },
-            { "weight": 10, "sprite": 19129 },
-            { "weight": 10, "sprite": 19130 },
             { "weight": 10, "sprite": 19131 },
-            { "weight": 10, "sprite": 19132 },
             { "weight": 10, "sprite": 19133 },
             { "weight": 10, "sprite": 19134 },
             { "weight": 10, "sprite": 19135 },
             { "weight": 10, "sprite": 19136 },
-            { "weight": 10, "sprite": 19128 }
+            { "weight": 10, "sprite": 19137 },
+            { "weight": 10, "sprite": 19138 },
+            { "weight": 10, "sprite": 19139 },
+            { "weight": 10, "sprite": 19140 },
+            { "weight": 10, "sprite": 19132 }
           ],
           "animated": true
         }
@@ -46177,16 +46181,16 @@
         {
           "id": "t_distortion_floor",
           "fg": [
-            { "weight": 15, "sprite": 18852 },
-            { "weight": 15, "sprite": 18853 },
-            { "weight": 15, "sprite": 18854 },
-            { "weight": 15, "sprite": 18855 },
             { "weight": 15, "sprite": 18856 },
             { "weight": 15, "sprite": 18857 },
-            { "weight": 15, "sprite": 18856 },
-            { "weight": 15, "sprite": 18855 },
-            { "weight": 15, "sprite": 18854 },
-            { "weight": 15, "sprite": 18853 }
+            { "weight": 15, "sprite": 18858 },
+            { "weight": 15, "sprite": 18859 },
+            { "weight": 15, "sprite": 18860 },
+            { "weight": 15, "sprite": 18861 },
+            { "weight": 15, "sprite": 18860 },
+            { "weight": 15, "sprite": 18859 },
+            { "weight": 15, "sprite": 18858 },
+            { "weight": 15, "sprite": 18857 }
           ],
           "bg": 22119,
           "rotates": false,
@@ -46610,16 +46614,16 @@
         {
           "id": "t_nl_mist",
           "fg": [
-            { "weight": 10, "sprite": 19086 },
-            { "weight": 10, "sprite": 19088 },
-            { "weight": 10, "sprite": 19089 },
             { "weight": 10, "sprite": 19090 },
-            { "weight": 10, "sprite": 19091 },
             { "weight": 10, "sprite": 19092 },
             { "weight": 10, "sprite": 19093 },
             { "weight": 10, "sprite": 19094 },
             { "weight": 10, "sprite": 19095 },
-            { "weight": 10, "sprite": 19087 }
+            { "weight": 10, "sprite": 19096 },
+            { "weight": 10, "sprite": 19097 },
+            { "weight": 10, "sprite": 19098 },
+            { "weight": 10, "sprite": 19099 },
+            { "weight": 10, "sprite": 19091 }
           ],
           "bg": 24125,
           "animated": true
