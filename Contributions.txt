@@ -34,6 +34,7 @@ Drabont7: Appliance fix
 Аwawawa: Various sprites, including upcoming shopping cart resprite, fungal hulk and more.
 Pyrocom: Magi staff sprites/resprites
 Baka-Cirno: Community Asset Sprites
+cwicke: My Sweet Cataclysm sprites
 Bestary: Various sprites, Skull resprites
 Pikayellow35: Various sprites, skull resprites with Bestary
 Fohcs: Kiln Sprites
